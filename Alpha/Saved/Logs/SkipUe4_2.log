@@ -1496,3 +1496,1695 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.18-07.50.11:409][ 17]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.18-07.50.11:409][ 17]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
 [2022.05.18-07.50.11:409][ 17]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.50.40:066][872]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.05.18-07.50.50:407][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.50.50:422][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.05.18-07.50.50:434][103]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/AlphaB9BF1FC8475F7950C99D979F79A157E3.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.50.50:441][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.50.50:460][103]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataDE98574249BA34371653CEBB003D7E14.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.50.50:470][103]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.50.50:470][103]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.50.50:470][103]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.50.52:015][278]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-07.50.52:021][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-07.50.52:022][278]PIE: New page: PIE session: Alpha (18 mai 2022 à 11:50:52)
+[2022.05.18-07.50.52:054][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-07.50.52:060][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006153s)
+[2022.05.18-07.50.52:061][278]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-07.50.52:061][278]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2022.05.18-07.50.52:061][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.006961s)
+[2022.05.18-07.50.52:076][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.05.18-07.50.52:076][278]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.18-07.50.52:076][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-07.50.52:076][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-07.50.52:076][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-07.50.52:076][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-07.50.52:076][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-07.50.52:076][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-07.50.52:076][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-07.50.52:076][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-07.50.52:077][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-07.50.52:077][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-07.50.52:077][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-07.50.52:077][278]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-07.50.52:079][278]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-07.50.52:079][278]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-07.50.52:088][278]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-07.50.52:088][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-07.50.52:088][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-07.50.52:088][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-07.50.52:089][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-07.50.52:089][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-07.50.52:089][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-07.50.52:090][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-07.50.52:090][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-07.50.52:090][278]LogInit: FAudioDevice initialized.
+[2022.05.18-07.50.52:090][278]LogAudio: Display: Audio Device (ID: 8) registered with world 'Alpha'.
+[2022.05.18-07.50.52:094][278]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-07.50.52:097][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-09.50.52
+[2022.05.18-07.50.52:097][278]LogWorld: Bringing up level for play took: 0.001364
+[2022.05.18-07.50.52:097][278]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.05.18-07.50.52:098][278]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-07.50.52:099][278]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-07.50.52:099][278]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-07.50.52:099][278]PIE: Server logged in
+[2022.05.18-07.50.52:100][278]PIE: Play in editor total start time 0,08 seconds.
+[2022.05.18-07.50.57:204][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-07.50.57:204][885]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-07.50.57:205][885]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-07.50.57:205][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-07.50.57:211][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-07.50.57:221][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-07.50.57:234][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.18-07.50.57:234][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-07.50.57:235][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-07.50.57:237][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-07.50.57:239][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.05.18-07.50.57:290][887]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.05.18-07.50.57:884][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2022.05.18-07.51.07:298][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.51.07:312][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.05.18-07.51.07:326][ 40]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha7FDE81A242D80C3C80AA4DB0069E1892.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.51.07:333][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.51.07:352][ 40]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData8D027B44458D19C5CE32E987C0DD7EFD.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.51.07:361][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.51.07:361][ 40]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.51.07:361][ 40]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.51.33:041][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.51.33:055][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.05.18-07.51.33:067][885]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha6EEA874D45802BCA6FC793868FEA93CC.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.51.33:074][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.51.33:092][885]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataF01DB9A148BCF2DB6BFF37B8E008DEA9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.51.33:103][885]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.51.33:103][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.51.33:103][885]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.52.02:098][602]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.52.02:126][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.05.18-07.52.02:689][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.52.02:697][637]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light63AA1CCE4BBA3F940E7B9BA766FF5F55.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.52.02:709][637]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.52.02:709][637]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.52.04:201][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.52.04:216][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.05.18-07.52.04:228][773]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha5C42628E4DDCBFDD89AE8BA841C75E61.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.52.04:235][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.52.04:256][773]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData6D9D2BDB4DD56041C3AE7DA3B90EDF08.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.52.04:267][773]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.52.04:267][773]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.52.04:267][773]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.52.17:089][267]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.52.17:116][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.18-07.52.17:543][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.52.17:551][310]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_LightE46D046C43E6D1B53C9A6CBE7E0A7D1E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.52.17:563][310]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.52.17:563][310]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.52.19:107][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.52.19:122][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.05.18-07.52.19:133][456]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha13F73F1D4D7A61F58DD6EABC63CF591A.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.52.19:140][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.52.19:160][456]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData67CEB04B46A8F055BBCA19BDFFE38518.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.52.19:171][456]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.52.19:171][456]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.52.19:171][456]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.52.37:266][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2022.05.18-07.53.03:895][373]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.53.03:925][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.18-07.53.05:002][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.53.05:011][475]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light9CDDF0AD4AEDA467B220A4B4DA1C00DE.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.53.05:021][475]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.53.05:021][475]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.53.06:725][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.53.06:739][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.18-07.53.06:752][664]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha058A95C94A20CA9BBF67ECAED69B6DCB.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.53.06:758][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.53.06:777][664]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData59848CFE4D47A2AB725BA7890DBA6E46.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.53.06:786][664]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.53.06:786][664]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.53.06:786][664]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.53.26:412][720]LogSlate: Took 0.000769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.18-07.53.45:935][756]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.53.45:937][756]LogClass: Warning: Type mismatch in NewVar_0 of BP_Light_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2022.05.18-07.53.45:963][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.05.18-07.53.46:532][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.53.46:541][800]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_LightA9BA0624479F34190A860EA0F6DE5947.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.53.46:550][800]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.53.46:550][800]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.54.24:391][851]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.54.24:419][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.05.18-07.54.24:974][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.54.24:983][886]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light381EF4B7494D71FFA6F48F8668592E72.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.54.24:996][886]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.54.24:996][886]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.54.26:021][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.54.26:036][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.18-07.54.26:048][961]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha4779744D485F7AFA48249D9279769E39.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.54.26:054][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.54.26:074][961]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData8CFA4285472169B5367D90922715CEEA.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.54.26:084][961]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.54.26:084][961]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.54.26:084][961]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.55.11:843][154]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.55.11:870][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.05.18-07.55.12:429][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.55.12:438][205]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_LightE826B3994D8E8155465CD9BABCFA488D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.55.12:449][205]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.55.12:449][205]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.55.14:123][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.55.14:139][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.18-07.55.14:151][349]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/AlphaD78925A841189DCD41E0489106E268D6.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.55.14:158][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.55.14:177][349]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataAA76154D469F3BC5218A37B3381A302D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.55.14:187][349]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.55.14:187][349]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.55.14:187][349]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.55.15:470][497]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2022.05.18-07.55.20:978][ 98]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.55.21:009][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.05.18-07.55.23:226][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.55.23:240][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.05.18-07.55.23:252][310]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha67897519448CF6F5EFC5BFAA1927390D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.55.23:259][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.55.23:278][310]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataE47915EA4CADF19F74C37DAD09DA2921.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.55.23:288][310]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.55.23:288][310]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.55.23:288][310]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.55.30:725][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.55.30:734][ 90]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light3CCAFD20462E39B9D23ED0B50F159C95.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.55.30:743][ 90]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.55.30:743][ 90]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.55.31:208][144]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.55.31:241][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.05.18-07.55.32:624][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.55.32:633][278]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_LightF1B5C3DA4FD61EEBB3864A886DE1F415.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.55.32:643][278]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.55.32:643][278]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.55.44:769][657]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2022.05.18-07.55.59:427][993]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2022.05.18-07.56.01:877][251]LogSlate: Took 0.001449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.05.18-07.56.09:061][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.56.09:076][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.05.18-07.56.09:089][  1]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha15E659CF4EDA6B7041E432A4F0089262.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.56.09:095][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.56.09:114][  1]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData789DCD8046567D390BE96B8F2B5EDB73.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.56.09:124][  1]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.56.09:124][  1]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.56.09:124][  1]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.57.00:785][565]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.57.00:817][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.05.18-07.57.01:383][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.57.01:392][603]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light20C4221E414013FD6D5A2692CC86D773.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.57.01:403][603]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.57.01:403][603]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.57.03:078][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.57.03:094][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.05.18-07.57.03:106][760]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha96DE0CD847EDEEE791AB77B222C23035.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.57.03:113][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.57.03:133][760]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData59D4D95B4D827423D38E10B6804C8432.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.57.03:144][760]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.57.03:144][760]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.57.03:145][760]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.58.02:306][731]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.58.02:339][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.05.18-07.58.03:077][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.58.03:087][788]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light74015E2248261FC5DCC47B8DD56ACD09.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.58.03:097][788]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.58.03:097][788]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.58.18:452][277]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.58.18:485][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.18-07.58.18:870][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.58.18:881][302]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_LightCAE9C615479DEA9BCD0B9C90A4974DF4.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.58.18:891][302]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.58.18:891][302]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.58.20:223][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.58.20:238][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.05.18-07.58.20:250][424]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha1003664145C61DBD9D937898F5C6DAEA.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.58.20:256][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.58.20:275][424]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataB8E084BD41E8B9C9342A7D9B744D092C.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.58.20:285][424]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.58.20:285][424]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.58.20:285][424]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.58.24:831][911]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-07.58.24:838][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-07.58.24:838][911]PIE: New page: PIE session: Alpha (18 mai 2022 à 11:58:24)
+[2022.05.18-07.58.24:873][911]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-07.58.24:879][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006558s)
+[2022.05.18-07.58.24:879][911]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-07.58.24:880][911]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2022.05.18-07.58.24:880][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.007607s)
+[2022.05.18-07.58.24:894][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.05.18-07.58.24:895][911]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.18-07.58.24:895][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-07.58.24:895][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-07.58.24:895][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-07.58.24:895][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-07.58.24:895][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-07.58.24:895][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-07.58.24:895][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-07.58.24:895][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-07.58.24:896][911]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-07.58.24:896][911]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-07.58.24:896][911]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-07.58.24:896][911]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-07.58.24:898][911]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-07.58.24:898][911]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-07.58.24:907][911]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-07.58.24:907][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-07.58.24:907][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-07.58.24:907][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-07.58.24:908][911]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-07.58.24:908][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-07.58.24:908][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-07.58.24:909][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-07.58.24:909][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-07.58.24:909][911]LogInit: FAudioDevice initialized.
+[2022.05.18-07.58.24:909][911]LogAudio: Display: Audio Device (ID: 9) registered with world 'Alpha'.
+[2022.05.18-07.58.24:919][911]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-07.58.24:921][911]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-09.58.24
+[2022.05.18-07.58.24:922][911]LogWorld: Bringing up level for play took: 0.001512
+[2022.05.18-07.58.24:922][911]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.05.18-07.58.24:923][911]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-07.58.24:924][911]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-07.58.24:924][911]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-07.58.24:924][911]PIE: Server logged in
+[2022.05.18-07.58.24:925][911]PIE: Play in editor total start time 0,089 seconds.
+[2022.05.18-07.58.41:253][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-07.58.41:253][861]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-07.58.41:253][861]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-07.58.41:254][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-07.58.41:267][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-07.58.41:274][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-07.58.41:287][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-07.58.41:287][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-07.58.41:288][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-07.58.41:293][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.18-07.58.41:317][862]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.18-07.58.42:704][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2022.05.18-07.59.01:201][840]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.59.01:230][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.05.18-07.59.01:626][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.59.01:635][864]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light6F0CA4074849E6956A2910B0DE191D2D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.59.01:646][864]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.59.01:646][864]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.59.16:723][460]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-07.59.16:755][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.05.18-07.59.17:356][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-07.59.17:368][504]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_LightE50E58C34DFE103C9344878261577FEC.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-07.59.17:379][504]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-07.59.17:379][504]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-07.59.18:677][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.59.18:691][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.05.18-07.59.18:704][613]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha6768F45446742B735BFC37BE4BEE5453.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.59.18:710][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.59.18:729][613]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataC9BFB6BD440D9E502463F38DAAB6DE4B.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.59.18:740][613]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.59.18:740][613]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.59.18:740][613]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-07.59.19:783][724]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-07.59.19:790][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-07.59.19:790][724]PIE: New page: PIE session: Alpha (18 mai 2022 à 11:59:19)
+[2022.05.18-07.59.19:831][724]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-07.59.19:839][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007528s)
+[2022.05.18-07.59.19:840][724]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-07.59.19:840][724]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2022.05.18-07.59.19:840][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.008633s)
+[2022.05.18-07.59.19:854][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.05.18-07.59.19:854][724]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.18-07.59.19:854][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-07.59.19:854][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-07.59.19:854][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-07.59.19:855][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-07.59.19:855][724]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-07.59.19:855][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-07.59.19:855][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-07.59.19:855][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-07.59.19:855][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-07.59.19:855][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-07.59.19:855][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-07.59.19:855][724]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-07.59.19:857][724]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-07.59.19:857][724]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-07.59.19:866][724]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-07.59.19:866][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-07.59.19:866][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-07.59.19:866][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-07.59.19:867][724]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-07.59.19:867][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-07.59.19:867][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-07.59.19:867][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-07.59.19:867][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-07.59.19:867][724]LogInit: FAudioDevice initialized.
+[2022.05.18-07.59.19:867][724]LogAudio: Display: Audio Device (ID: 10) registered with world 'Alpha'.
+[2022.05.18-07.59.19:878][724]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-07.59.19:880][724]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-09.59.19
+[2022.05.18-07.59.19:880][724]LogWorld: Bringing up level for play took: 0.001425
+[2022.05.18-07.59.19:880][724]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.05.18-07.59.19:881][724]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-07.59.19:882][724]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-07.59.19:882][724]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-07.59.19:883][724]PIE: Server logged in
+[2022.05.18-07.59.19:883][724]PIE: Play in editor total start time 0,095 seconds.
+[2022.05.18-07.59.32:449][229]LogBlueprintUserMessages: [BP_Light_2] false
+[2022.05.18-07.59.34:498][475]LogBlueprintUserMessages: [BP_Light_2] false
+[2022.05.18-07.59.35:671][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-07.59.35:671][611]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-07.59.35:671][611]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-07.59.35:671][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-07.59.35:684][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-07.59.35:696][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-07.59.35:711][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-07.59.35:711][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-07.59.35:712][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-07.59.35:716][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.05.18-07.59.35:741][612]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.05.18-07.59.45:421][626]Cmd: DELETE
+[2022.05.18-07.59.45:421][626]Cmd: ACTOR DELETE
+[2022.05.18-07.59.45:423][626]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.18-07.59.45:437][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.05.18-07.59.45:438][626]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.05.18-07.59.47:237][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-07.59.47:250][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.18-07.59.47:263][837]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/AlphaD2DB5E794CC371F7444001ABC8FA23CC.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-07.59.47:270][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-07.59.47:288][837]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData95E0E4D54A04CD1EBE749CBF2CB7D6D5.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-07.59.47:296][837]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-07.59.47:296][837]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-07.59.47:296][837]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.00.16:710][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.00.16:726][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.18-08.00.16:739][991]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha68341CE244FC05B19F54F0A070A4B270.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.00.16:745][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.00.16:764][991]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData16105D464E6F12D65DEFCC95A5B15BAA.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.00.16:775][991]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.00.16:775][991]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.00.16:775][991]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.00.18:168][142]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.00.18:176][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.00.18:176][142]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:00:18)
+[2022.05.18-08.00.18:218][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.00.18:227][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008315s)
+[2022.05.18-08.00.18:227][142]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.00.18:227][142]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2022.05.18-08.00.18:227][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.009183s)
+[2022.05.18-08.00.18:241][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.05.18-08.00.18:242][142]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.18-08.00.18:242][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.00.18:242][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.00.18:242][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.00.18:242][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.00.18:242][142]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.00.18:243][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.00.18:243][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.00.18:243][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.00.18:243][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.00.18:243][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.00.18:243][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.00.18:243][142]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.00.18:245][142]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.00.18:245][142]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.00.18:254][142]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.00.18:254][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.00.18:254][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.00.18:254][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.00.18:254][142]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.00.18:254][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.00.18:254][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.00.18:255][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.00.18:255][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.00.18:255][142]LogInit: FAudioDevice initialized.
+[2022.05.18-08.00.18:255][142]LogAudio: Display: Audio Device (ID: 11) registered with world 'Alpha'.
+[2022.05.18-08.00.18:260][142]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.00.18:262][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.00.18
+[2022.05.18-08.00.18:263][142]LogWorld: Bringing up level for play took: 0.001490
+[2022.05.18-08.00.18:263][142]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.05.18-08.00.18:264][142]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.00.18:265][142]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.00.18:265][142]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.00.18:265][142]PIE: Server logged in
+[2022.05.18-08.00.18:265][142]PIE: Play in editor total start time 0,091 seconds.
+[2022.05.18-08.00.27:919][294]LogBlueprintUserMessages: [BP_Light_2] false
+[2022.05.18-08.00.27:919][294]LogBlueprintUserMessages: [BP_Light_2] false
+[2022.05.18-08.00.29:918][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.00.29:918][531]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.00.29:918][531]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.00.29:919][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.00.29:926][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.00.29:932][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.00.29:945][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.00.29:945][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.00.29:946][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.00.29:950][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.05.18-08.00.30:003][533]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.05.18-08.00.35:347][ 40]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-08.00.35:384][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.05.18-08.00.35:819][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.00.35:829][ 67]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light32F004D244F6A5655C79FE9F2A83A924.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.00.35:842][ 67]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.00.35:842][ 67]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.00.41:638][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.00.41:653][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.18-08.00.41:665][721]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha8D3D5C5C4F6A5BB0971D39A4C15A6D18.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.00.41:672][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.00.41:690][721]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataCE981320456F9A665657438AA0BAE0A0.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.00.41:700][721]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.00.41:700][721]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.00.41:700][721]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.00.54:478][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.00.54:492][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.05.18-08.00.54:505][ 66]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/AlphaD1E20DC04AFE6C9DF013D49DED8A1B1D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.00.54:512][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.00.54:530][ 66]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataDC63767548DA331F4FDFBDBB5711E95B.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.00.54:540][ 66]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.00.54:540][ 66]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.00.54:540][ 66]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.00.55:537][167]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.00.55:545][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.00.55:545][167]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:00:55)
+[2022.05.18-08.00.55:545][167]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.00.55:549][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004368s)
+[2022.05.18-08.00.55:550][167]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.00.55:550][167]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2022.05.18-08.00.55:550][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.005302s)
+[2022.05.18-08.00.55:564][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.05.18-08.00.55:565][167]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.18-08.00.55:565][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.00.55:565][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.00.55:565][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.00.55:565][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.00.55:565][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.00.55:565][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.00.55:565][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.00.55:565][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.00.55:565][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.00.55:566][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.00.55:566][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.00.55:566][167]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.00.55:568][167]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.00.55:568][167]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.00.55:576][167]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.00.55:577][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.00.55:577][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.00.55:577][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.00.55:577][167]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.00.55:577][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.00.55:577][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.00.55:578][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.00.55:578][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.00.55:578][167]LogInit: FAudioDevice initialized.
+[2022.05.18-08.00.55:578][167]LogAudio: Display: Audio Device (ID: 12) registered with world 'Alpha'.
+[2022.05.18-08.00.55:583][167]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.00.55:584][167]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.00.55
+[2022.05.18-08.00.55:585][167]LogWorld: Bringing up level for play took: 0.001465
+[2022.05.18-08.00.55:585][167]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.05.18-08.00.55:586][167]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.00.55:587][167]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.00.55:587][167]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.00.55:587][167]PIE: Server logged in
+[2022.05.18-08.00.55:588][167]PIE: Play in editor total start time 0,045 seconds.
+[2022.05.18-08.01.04:643][224]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.01.04:643][224]LogScript: Warning: Accessed None trying to read property platforme
+	BP_Light_C /Game/Maps/UEDPIE_0_Alpha.Alpha:PersistentLevel.BP_Light_2
+	Function /Game/BP/Enigme/4-Depression/BP_Light.BP_Light_C:ExecuteUbergraph_BP_Light:00D4
+[2022.05.18-08.01.04:643][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property platforme". Blueprint:  BP_Light Function:  Execute Ubergraph BP Light Graph:  EventGraph Node:  AddActorLocalOffset
+[2022.05.18-08.01.04:644][224]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.01.04:644][224]LogScript: Warning: Accessed None trying to read property platforme
+	BP_Light_C /Game/Maps/UEDPIE_0_Alpha.Alpha:PersistentLevel.BP_Light_2
+	Function /Game/BP/Enigme/4-Depression/BP_Light.BP_Light_C:ExecuteUbergraph_BP_Light:00D4
+[2022.05.18-08.01.04:644][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property platforme". Blueprint:  BP_Light Function:  Execute Ubergraph BP Light Graph:  EventGraph Node:  AddActorLocalOffset
+[2022.05.18-08.01.07:037][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.01.07:037][502]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.01.07:037][502]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.01.07:037][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.01.07:046][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.01.07:052][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.01.07:064][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.01.07:065][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.01.07:066][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.01.07:070][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.05.18-08.01.07:158][503]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.05.18-08.01.09:475][720]LogSlate: Window 'Message Log' being destroyed
+[2022.05.18-08.01.09:487][720]LogSlate: Window 'Message Log' being destroyed
+[2022.05.18-08.01.16:511][465]LogEditorViewport: Clicking on Actor (context menu): BP_Light_C (BP_Light)
+[2022.05.18-08.01.42:360][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.01.42:387][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.05.18-08.01.42:401][175]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha5C50981E4463FCEA8C8ACA85E89F17F5.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.01.42:407][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.01.42:426][175]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData1341CCDB4258ADEFAC80C3AEEA568D4B.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.01.42:462][175]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.01.42:462][175]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.01.42:462][175]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.01.43:304][243]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.01.43:310][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.01.43:310][243]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:01:43)
+[2022.05.18-08.01.43:310][243]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.01.43:315][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004631s)
+[2022.05.18-08.01.43:316][243]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.01.43:316][243]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2022.05.18-08.01.43:316][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.005507s)
+[2022.05.18-08.01.43:330][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.05.18-08.01.43:331][243]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.05.18-08.01.43:331][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.01.43:331][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.01.43:331][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.01.43:331][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.01.43:331][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.01.43:331][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.01.43:331][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.01.43:331][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.01.43:332][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.01.43:332][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.01.43:332][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.01.43:332][243]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.01.43:334][243]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.01.43:334][243]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.01.43:343][243]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.01.43:343][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.01.43:343][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.01.43:343][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.01.43:343][243]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.01.43:343][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.01.43:343][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.01.43:344][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.01.43:344][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.01.43:344][243]LogInit: FAudioDevice initialized.
+[2022.05.18-08.01.43:344][243]LogAudio: Display: Audio Device (ID: 13) registered with world 'Alpha'.
+[2022.05.18-08.01.43:349][243]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.01.43:351][243]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.01.43
+[2022.05.18-08.01.43:352][243]LogWorld: Bringing up level for play took: 0.001358
+[2022.05.18-08.01.43:352][243]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.05.18-08.01.43:353][243]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.01.43:354][243]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.01.43:354][243]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.01.43:354][243]PIE: Server logged in
+[2022.05.18-08.01.43:355][243]PIE: Play in editor total start time 0,045 seconds.
+[2022.05.18-08.01.51:812][244]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.01.51:812][244]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.01.51:812][244]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.01.55:456][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.01.55:456][677]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.01.55:456][677]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.01.55:456][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.01.55:467][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.01.55:472][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.01.55:485][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.01.55:485][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.01.55:486][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.01.55:490][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.18-08.01.55:544][679]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.05.18-08.02.02:952][420]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-08.02.02:986][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.05.18-08.02.03:374][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.02.03:385][445]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light9605929A4700D5B861494F97E4E2B7DF.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.02.03:394][445]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.02.03:394][445]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.02.07:930][926]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-08.02.07:965][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.18-08.02.08:357][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.02.08:367][948]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light7E493F8148D882F41EFE938ECC636CCD.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.02.08:377][948]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.02.08:377][948]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.02.09:585][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.02.09:600][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.18-08.02.09:612][ 48]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha4FC20A6540E11FFFA671088460E49E3D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.02.09:619][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.02.09:637][ 48]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData7D945A4349BE5C2EAA656D929F011210.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.02.09:647][ 48]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.02.09:647][ 48]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.02.09:647][ 48]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.02.10:596][144]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.02.10:603][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.02.10:603][144]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:02:10)
+[2022.05.18-08.02.10:604][144]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.02.10:608][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004779s)
+[2022.05.18-08.02.10:609][144]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.02.10:609][144]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2022.05.18-08.02.10:609][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.005638s)
+[2022.05.18-08.02.10:624][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.05.18-08.02.10:625][144]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.05.18-08.02.10:625][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.02.10:625][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.02.10:625][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.02.10:625][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.02.10:625][144]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.02.10:625][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.02.10:625][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.02.10:625][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.02.10:625][144]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.02.10:625][144]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.02.10:625][144]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.02.10:625][144]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.02.10:627][144]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.02.10:627][144]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.02.10:637][144]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.02.10:637][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.02.10:637][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.02.10:637][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.02.10:637][144]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.02.10:637][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.02.10:637][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.02.10:638][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.02.10:638][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.02.10:638][144]LogInit: FAudioDevice initialized.
+[2022.05.18-08.02.10:638][144]LogAudio: Display: Audio Device (ID: 14) registered with world 'Alpha'.
+[2022.05.18-08.02.10:643][144]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.02.10:646][144]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.02.10
+[2022.05.18-08.02.10:646][144]LogWorld: Bringing up level for play took: 0.001546
+[2022.05.18-08.02.10:646][144]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.05.18-08.02.10:647][144]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.02.10:648][144]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.02.10:648][144]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.02.10:648][144]PIE: Server logged in
+[2022.05.18-08.02.10:649][144]PIE: Play in editor total start time 0,047 seconds.
+[2022.05.18-08.02.20:692][335]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.02.20:693][335]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Alpha.Alpha:PersistentLevel.Cylinder_14 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.18-08.02.20:693][335]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.02.20:693][335]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Alpha.Alpha:PersistentLevel.Cylinder_14 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.18-08.02.28:944][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.02.28:944][319]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.02.28:944][319]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.02.28:945][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.02.28:954][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.02.28:960][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.02.28:973][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.02.28:973][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.02.28:974][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.02.28:978][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.05.18-08.02.29:086][320]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.05.18-08.02.35:190][851]LogSlate: Window 'Message Log' being destroyed
+[2022.05.18-08.02.35:202][851]LogSlate: Window 'Message Log' being destroyed
+[2022.05.18-08.02.41:679][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.02.41:694][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.05.18-08.02.41:707][510]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/AlphaAA5116B841D19B93BB73A38641B0B4AF.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.02.41:714][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.02.41:732][510]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData7023605445F52143D42767857DD730F2.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.02.41:744][510]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.02.41:744][510]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.02.41:744][510]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.02.42:608][596]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.02.42:614][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.02.42:614][596]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:02:42)
+[2022.05.18-08.02.42:614][596]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.02.42:618][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004526s)
+[2022.05.18-08.02.42:619][596]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.02.42:619][596]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2022.05.18-08.02.42:619][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.005380s)
+[2022.05.18-08.02.42:634][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.18-08.02.42:634][596]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.05.18-08.02.42:634][596]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.02.42:634][596]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.02.42:634][596]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.02.42:634][596]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.02.42:634][596]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.02.42:634][596]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.02.42:634][596]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.02.42:634][596]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.02.42:635][596]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.02.42:635][596]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.02.42:635][596]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.02.42:635][596]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.02.42:637][596]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.02.42:637][596]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.02.42:645][596]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.02.42:646][596]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.02.42:646][596]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.02.42:646][596]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.02.42:646][596]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.02.42:646][596]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.02.42:646][596]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.02.42:647][596]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.02.42:647][596]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.02.42:647][596]LogInit: FAudioDevice initialized.
+[2022.05.18-08.02.42:647][596]LogAudio: Display: Audio Device (ID: 15) registered with world 'Alpha'.
+[2022.05.18-08.02.42:653][596]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.02.42:654][596]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.02.42
+[2022.05.18-08.02.42:655][596]LogWorld: Bringing up level for play took: 0.001419
+[2022.05.18-08.02.42:655][596]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.05.18-08.02.42:656][596]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.02.42:657][596]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.02.42:657][596]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.02.42:657][596]PIE: Server logged in
+[2022.05.18-08.02.42:658][596]PIE: Play in editor total start time 0,045 seconds.
+[2022.05.18-08.02.51:207][601]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.02.51:207][601]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.02.59:053][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.02.59:053][532]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.02.59:053][532]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.02.59:054][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.02.59:064][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.02.59:076][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.02.59:091][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.02.59:091][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.02.59:092][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.02.59:096][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.05.18-08.02.59:146][534]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.05.18-08.03.10:717][767]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-08.03.10:744][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.18-08.03.11:175][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.03.11:183][798]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light30AD7760400DF467608A5C84B15D4129.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.03.11:192][798]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.03.11:192][798]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.03.32:396][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.03.32:411][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.05.18-08.03.32:423][ 80]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/AlphaA6CD9F834BDE3C8622F76CAA92773197.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.03.32:429][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.03.32:448][ 80]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData43E8418548AB99B21D829F98B29B7EE6.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.03.32:457][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.03.32:458][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.03.32:458][ 80]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.06.07:029][276]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-08.06.07:057][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.05.18-08.06.07:641][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.06.07:650][314]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_LightA27CCEC44A3C7D8788F81A9A20E045C9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.06.07:662][314]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.06.07:662][314]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.06.50:361][292]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-08.06.50:392][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.05.18-08.06.53:401][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.06.53:411][622]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light13278EB047DEE5B8901EF5950730E461.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.06.53:423][622]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.06.53:423][622]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.06.55:119][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.06.55:133][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.18-08.06.55:145][765]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha988FFA994CD0A4395B904290FAFACC12.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.06.55:152][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.06.55:171][765]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData8861D3C84109D6B899799B8EF15388A9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.06.55:182][765]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.06.55:183][765]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.06.55:183][765]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.06.56:497][895]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.06.56:503][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.06.56:503][895]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:06:56)
+[2022.05.18-08.06.56:503][895]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.06.56:507][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004003s)
+[2022.05.18-08.06.56:508][895]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.06.56:508][895]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2022.05.18-08.06.56:508][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.004854s)
+[2022.05.18-08.06.56:523][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.05.18-08.06.56:523][895]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.05.18-08.06.56:524][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.06.56:524][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.06.56:524][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.06.56:524][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.06.56:524][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.06.56:524][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.06.56:524][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.06.56:524][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.06.56:524][895]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.06.56:524][895]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.06.56:524][895]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.06.56:524][895]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.06.56:526][895]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.06.56:526][895]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.06.56:535][895]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.06.56:535][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.06.56:535][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.06.56:535][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.06.56:536][895]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.06.56:536][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.06.56:536][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.06.56:537][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.06.56:537][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.06.56:537][895]LogInit: FAudioDevice initialized.
+[2022.05.18-08.06.56:537][895]LogAudio: Display: Audio Device (ID: 16) registered with world 'Alpha'.
+[2022.05.18-08.06.56:582][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.06.56:583][895]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.06.56:585][895]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.06.56
+[2022.05.18-08.06.56:586][895]LogWorld: Bringing up level for play took: 0.002150
+[2022.05.18-08.06.56:586][895]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.05.18-08.06.56:587][895]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.06.56:589][895]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.06.56:589][895]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.06.56:589][895]PIE: Server logged in
+[2022.05.18-08.06.56:590][895]PIE: Play in editor total start time 0,089 seconds.
+[2022.05.18-08.06.57:988][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.06.57:988][ 49]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.06.57:989][ 49]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.18-08.06.57:995][ 49]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.06.57:996][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.06.58:005][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.06.58:017][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.06.58:031][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.06.58:032][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.06.58:036][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.05.18-08.06.58:054][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.05.18-08.06.59:946][250]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.06.59:952][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.06.59:952][250]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:06:59)
+[2022.05.18-08.06.59:978][250]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.06.59:982][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004123s)
+[2022.05.18-08.06.59:983][250]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.06.59:983][250]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2022.05.18-08.06.59:983][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.004964s)
+[2022.05.18-08.06.59:997][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.05.18-08.06.59:998][250]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.05.18-08.06.59:998][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.06.59:998][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.06.59:998][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.06.59:998][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.06.59:998][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.06.59:998][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.06.59:998][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.06.59:998][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.06.59:998][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.06.59:999][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.06.59:999][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.06.59:999][250]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.07.00:001][250]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.07.00:001][250]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.07.00:010][250]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.07.00:010][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.07.00:010][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.07.00:010][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.07.00:010][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.07.00:010][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.07.00:010][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.07.00:011][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.07.00:011][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.07.00:011][250]LogInit: FAudioDevice initialized.
+[2022.05.18-08.07.00:011][250]LogAudio: Display: Audio Device (ID: 17) registered with world 'Alpha'.
+[2022.05.18-08.07.00:021][250]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.07.00:023][250]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.07.00
+[2022.05.18-08.07.00:023][250]LogWorld: Bringing up level for play took: 0.001397
+[2022.05.18-08.07.00:023][250]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.05.18-08.07.00:024][250]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.07.00:025][250]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.07.00:025][250]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.07.00:025][250]PIE: Server logged in
+[2022.05.18-08.07.00:026][250]PIE: Play in editor total start time 0,074 seconds.
+[2022.05.18-08.07.12:953][759]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.07.12:953][759]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.07.16:849][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.07.16:849][222]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.07.16:849][222]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.07.16:849][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.07.16:862][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.07.16:873][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.07.16:887][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.07.16:887][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.07.16:888][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.07.16:893][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.05.18-08.07.16:947][224]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.05.18-08.07.24:693][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.07.24:708][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.05.18-08.07.24:721][ 33]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/AlphaC8A01B7D450A23C172B590AEB61A77DC.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.07.24:728][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.07.24:746][ 33]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataE23D9A5E4C542F6E11529398E1C33FAC.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.07.24:757][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.07.24:757][ 33]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.07.24:757][ 33]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.07.26:872][247]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2022.05.18-08.07.31:244][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2022.05.18-08.07.32:734][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.07.32:748][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.05.18-08.07.32:762][815]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha7FC5377C4A9AB945F91FF2880231BF4A.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.07.32:767][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.07.32:787][815]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData8DA642A44D0C896E02A61D9DD88317B8.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.07.32:797][815]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.07.32:797][815]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.07.32:797][815]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.07.33:505][893]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.07.33:512][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.07.33:512][893]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:07:33)
+[2022.05.18-08.07.33:513][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.07.33:517][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004634s)
+[2022.05.18-08.07.33:518][893]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.07.33:518][893]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2022.05.18-08.07.33:518][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.005478s)
+[2022.05.18-08.07.33:532][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.05.18-08.07.33:533][893]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.05.18-08.07.33:533][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.07.33:533][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.07.33:533][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.07.33:533][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.07.33:533][893]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.07.33:533][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.07.33:533][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.07.33:533][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.07.33:533][893]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.07.33:533][893]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.07.33:534][893]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.07.33:534][893]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.07.33:536][893]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.07.33:536][893]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.07.33:544][893]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.07.33:544][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.07.33:544][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.07.33:544][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.07.33:545][893]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.07.33:545][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.07.33:545][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.07.33:546][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.07.33:546][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.07.33:546][893]LogInit: FAudioDevice initialized.
+[2022.05.18-08.07.33:546][893]LogAudio: Display: Audio Device (ID: 18) registered with world 'Alpha'.
+[2022.05.18-08.07.33:553][893]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.07.33:554][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.07.33
+[2022.05.18-08.07.33:555][893]LogWorld: Bringing up level for play took: 0.001409
+[2022.05.18-08.07.33:555][893]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.05.18-08.07.33:556][893]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.07.33:557][893]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.07.33:557][893]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.07.33:557][893]PIE: Server logged in
+[2022.05.18-08.07.33:557][893]PIE: Play in editor total start time 0,047 seconds.
+[2022.05.18-08.07.52:605][271]LogBlueprintUserMessages: [BP_Light_2] BP_FirstPersonCharacter
+[2022.05.18-08.07.57:597][870]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.07.57:597][870]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.08.02:658][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.08.02:658][473]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.08.02:658][473]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.08.02:658][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.08.02:671][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.08.02:684][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.08.02:697][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.08.02:698][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.08.02:699][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.08.02:703][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.05.18-08.08.02:729][474]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.05.18-08.09.20:208][349]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-08.09.20:236][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.05.18-08.09.21:895][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.09.21:905][484]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light2421831645D534DF91A9AEBD34D6BF62.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.09.21:915][484]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.09.21:915][484]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.09.23:371][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.09.23:385][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.05.18-08.09.23:398][649]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/AlphaE11FE62A4FE925D8C80077BB805B59C0.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.09.23:405][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.09.23:424][649]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataFAF1900840C311C9597724BFB4A6B2D4.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.09.23:433][649]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.09.23:434][649]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.09.23:434][649]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.09.23:939][692]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.09.23:947][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.09.23:947][692]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:09:23)
+[2022.05.18-08.09.23:977][692]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.09.23:981][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004798s)
+[2022.05.18-08.09.23:982][692]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.09.23:982][692]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2022.05.18-08.09.23:982][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.005636s)
+[2022.05.18-08.09.23:997][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.05.18-08.09.23:998][692]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.05.18-08.09.23:998][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.09.23:998][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.09.23:998][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.09.23:998][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.09.23:998][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.09.23:998][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.09.23:998][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.09.23:998][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.09.23:998][692]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.09.23:998][692]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.09.23:998][692]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.09.23:998][692]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.09.24:000][692]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.09.24:000][692]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.09.24:008][692]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.09.24:008][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.09.24:008][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.09.24:008][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.09.24:009][692]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.09.24:009][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.09.24:009][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.09.24:010][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.09.24:010][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.09.24:010][692]LogInit: FAudioDevice initialized.
+[2022.05.18-08.09.24:010][692]LogAudio: Display: Audio Device (ID: 19) registered with world 'Alpha'.
+[2022.05.18-08.09.24:018][692]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.09.24:019][692]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.09.24
+[2022.05.18-08.09.24:020][692]LogWorld: Bringing up level for play took: 0.001476
+[2022.05.18-08.09.24:020][692]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.05.18-08.09.24:021][692]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.09.24:022][692]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.09.24:022][692]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.09.24:022][692]PIE: Server logged in
+[2022.05.18-08.09.24:022][692]PIE: Play in editor total start time 0,078 seconds.
+[2022.05.18-08.09.33:304][796]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.09.33:304][796]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.09.35:917][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.09.35:917][106]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.09.35:917][106]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.09.35:918][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.09.35:924][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.09.35:935][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.09.35:949][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.09.35:949][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.09.35:950][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.09.35:954][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.05.18-08.09.36:009][108]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.05.18-08.09.37:421][259]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.09.37:427][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.09.37:427][259]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:09:37)
+[2022.05.18-08.09.37:427][259]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.09.37:432][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004647s)
+[2022.05.18-08.09.37:432][259]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.09.37:432][259]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2022.05.18-08.09.37:432][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.005431s)
+[2022.05.18-08.09.37:447][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.18-08.09.37:448][259]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.05.18-08.09.37:449][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.09.37:449][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.09.37:449][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.09.37:449][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.09.37:449][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.09.37:449][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.09.37:449][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.09.37:449][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.09.37:449][259]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.09.37:449][259]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.09.37:449][259]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.09.37:449][259]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.09.37:451][259]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.09.37:451][259]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.09.37:460][259]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.09.37:461][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.09.37:461][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.09.37:461][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.09.37:461][259]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.09.37:461][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.09.37:461][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.09.37:462][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.09.37:462][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.09.37:462][259]LogInit: FAudioDevice initialized.
+[2022.05.18-08.09.37:462][259]LogAudio: Display: Audio Device (ID: 20) registered with world 'Alpha'.
+[2022.05.18-08.09.37:466][259]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.09.37:467][259]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.09.37
+[2022.05.18-08.09.37:468][259]LogWorld: Bringing up level for play took: 0.001425
+[2022.05.18-08.09.37:468][259]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.05.18-08.09.37:469][259]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.09.37:470][259]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.09.37:470][259]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.09.37:470][259]PIE: Server logged in
+[2022.05.18-08.09.37:471][259]PIE: Play in editor total start time 0,044 seconds.
+[2022.05.18-08.09.46:625][348]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.09.46:626][348]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.09.48:807][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.09.48:807][606]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.09.48:807][606]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.09.48:808][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.09.48:816][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.09.48:828][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.09.48:842][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.09.48:842][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.09.48:843][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.09.48:848][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.18-08.09.48:900][608]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.05.18-08.09.56:995][469]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-08.09.57:022][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.05.18-08.09.57:580][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.09.57:589][519]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_LightD1E75DCE46C578F3147F0193DF5F6726.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.09.57:601][519]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.09.57:601][519]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.09.58:433][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.09.58:448][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.05.18-08.09.58:460][583]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha3EF2F4B64C26266D899D34A9EBA39F4D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.09.58:466][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.09.58:485][583]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData9DADB5F44475F22CCA2128B2E92F813E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.09.58:495][583]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.09.58:495][583]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.09.58:495][583]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.09.59:345][670]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.18-08.09.59:353][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.18-08.09.59:353][670]PIE: New page: PIE session: Alpha (18 mai 2022 à 12:09:59)
+[2022.05.18-08.09.59:353][670]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.09.59:358][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004355s)
+[2022.05.18-08.09.59:358][670]LogAIModule: Creating AISystem for world Alpha
+[2022.05.18-08.09.59:358][670]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2022.05.18-08.09.59:358][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Alpha.Alpha to /Game/Maps/UEDPIE_0_Alpha.Alpha (0.005099s)
+[2022.05.18-08.09.59:373][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.05.18-08.09.59:373][670]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.05.18-08.09.59:373][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.18-08.09.59:373][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.18-08.09.59:373][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.18-08.09.59:373][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.18-08.09.59:373][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.18-08.09.59:373][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.18-08.09.59:373][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.18-08.09.59:373][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.18-08.09.59:374][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.18-08.09.59:374][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.18-08.09.59:374][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.18-08.09.59:374][670]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.18-08.09.59:376][670]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.18-08.09.59:376][670]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-08.09.59:385][670]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.18-08.09.59:385][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.18-08.09.59:385][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.18-08.09.59:385][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.18-08.09.59:385][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.18-08.09.59:385][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.18-08.09.59:385][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.18-08.09.59:386][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.18-08.09.59:386][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.18-08.09.59:386][670]LogInit: FAudioDevice initialized.
+[2022.05.18-08.09.59:386][670]LogAudio: Display: Audio Device (ID: 21) registered with world 'Alpha'.
+[2022.05.18-08.09.59:390][670]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.18-08.09.59:391][670]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Alpha.Alpha up for play (max tick rate 0) at 2022.05.18-10.09.59
+[2022.05.18-08.09.59:391][670]LogWorld: Bringing up level for play took: 0.001343
+[2022.05.18-08.09.59:391][670]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.05.18-08.09.59:392][670]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.18-08.09.59:393][670]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_2)
+[2022.05.18-08.09.59:393][670]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.18-08.09.59:393][670]PIE: Server logged in
+[2022.05.18-08.09.59:394][670]PIE: Play in editor total start time 0,044 seconds.
+[2022.05.18-08.10.10:072][936]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.10.10:072][936]LogBlueprintUserMessages: [BP_Light_2] BP_Affiche_ID-3
+[2022.05.18-08.10.14:327][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.10.14:327][444]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Alpha
+[2022.05.18-08.10.14:327][444]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.10.14:327][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.10.14:337][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.18-08.10.14:348][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.10.14:361][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.18-08.10.14:361][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.10.14:362][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.10.14:366][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.05.18-08.10.14:420][446]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.05.18-08.10.21:772][131]BlueprintLog: New page: Compile BP_Light
+[2022.05.18-08.10.21:799][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.05.18-08.10.22:488][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.10.22:497][181]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light80D615AE44387B3C89300BA91206BB27.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.10.22:509][181]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.10.22:509][181]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.10.23:991][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.18-08.10.24:006][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.05.18-08.10.24:018][314]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/AlphaF2D4768C426847896EDA9B9C97430892.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.18-08.10.24:025][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.18-08.10.24:044][314]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData78AEE2EA46A2C5F5E582839F0D35C96D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.18-08.10.24:056][314]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.18-08.10.24:056][314]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.18-08.10.24:056][314]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.18-08.10.34:065][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/4-Depression/BP_Light" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset" SILENT=true
+[2022.05.18-08.10.34:072][367]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Light7FB0499A47470E3D2B3D438741E16E8F.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/4-Depression/BP_Light.uasset'
+[2022.05.18-08.10.34:086][367]AssetCheck: New page: Asset Save: BP_Light
+[2022.05.18-08.10.34:086][367]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/4-Depression/BP_Light.BP_Light
+[2022.05.18-08.11.13:047][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.05.18-08.11.51:172][642]LogSlate: Window 'Message' being destroyed
+[2022.05.18-08.11.51:180][642]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Matérials/Light/M_effectLight.M_effectLight
+(Selecting 'No' will cause all changes to be lost!)
+[2022.05.18-08.11.51:409][642]LogMaterial: Display: Missing cached shadermap for M_effectLight in PCD3D_SM5, Default, SM5 (DDC key hash: 8B6887A14156ACCA9408BF8CF4DB6BC70DE6E2BF), compiling. 
+[2022.05.18-08.11.51:431][642]LogMaterial: Display: Missing cached shadermap for M_effectLight in PCD3D_SM5, Default, SM5 (DDC key hash: AC7CA8E09248B63D11D4C6035FD4AEDB154B61E1), compiling. 
+[2022.05.18-08.11.51:446][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.18-08.11.51:574][642]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.18-08.11.51:574][642]LogShaderCompilers: Display: Total job queries 435, among them cache hits 355 (81.61%)
+[2022.05.18-08.11.51:574][642]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 36 distinct outputs (63.16%)
+[2022.05.18-08.11.51:574][642]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.05.18-08.11.51:574][642]LogShaderCompilers: Display: ================================================
+[2022.05.18-08.11.51:588][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.05.18-08.11.51:607][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.18-08.11.52:712][642]LogSlate: Window 'Save Content' being destroyed
+[2022.05.18-08.11.52:762][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Matérials/Light/M_effectLight" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Matérials/Light/M_effectLight.uasset" SILENT=true
+[2022.05.18-08.11.52:767][642]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/M_effectLight39D167EA4A6DDF37049067A58D39221A.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Matérials/Light/M_effectLight.uasset'
+[2022.05.18-08.11.52:783][642]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.52:783][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.11.52:841][642]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.18-08.11.52:841][642]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.52:841][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.11.52:882][642]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.52:882][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.18-08.11.52:906][642]LogSlate: Window 'SkipUe4 - Unreal Editor' being destroyed
+[2022.05.18-08.11.52:993][642]AssetCheck: New page: Asset Save: M_effectLight
+[2022.05.18-08.11.52:993][642]LogContentValidation: Display: Validating Material /Game/Matérials/Light/M_effectLight.M_effectLight
+[2022.05.18-08.11.52:993][643]Cmd: QUIT_EDITOR
+[2022.05.18-08.11.52:993][643]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.18-08.11.52:995][643]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.18-08.11.53:156][643]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.18-08.11.53:156][643]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.18-08.11.53:156][643]LogAudio: Display: Audio Device unregistered from world 'Alpha'.
+[2022.05.18-08.11.53:156][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.11.53:158][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.18-08.11.53:166][643]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.18-08.11.53:167][643]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.18-08.11.53:173][643]LogExit: Preparing to exit.
+[2022.05.18-08.11.53:363][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.05.18-08.11.53:482][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-08.11.53:482][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-08.11.53:482][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-08.11.53:482][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-08.11.53:482][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-08.11.53:482][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-08.11.53:482][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.18-08.11.53:482][643]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.53:484][643]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.53:486][643]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.53:488][643]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.53:489][643]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.53:490][643]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.53:491][643]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.18-08.11.53:520][643]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.18-08.11.53:530][643]LogExit: Editor shut down
+[2022.05.18-08.11.53:530][643]LogExit: Transaction tracking system shut down
+[2022.05.18-08.11.53:783][643]LogExit: Object subsystem successfully closed.
+[2022.05.18-08.11.53:802][643]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.18-08.11.53:802][643]LogShaderCompilers: Display: Total job queries 435, among them cache hits 355 (81.61%)
+[2022.05.18-08.11.53:803][643]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 36 distinct outputs (63.16%)
+[2022.05.18-08.11.53:803][643]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.05.18-08.11.53:803][643]LogShaderCompilers: Display: ================================================
+[2022.05.18-08.11.53:816][643]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (796)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (794)
+[2022.05.18-08.11.53:833][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (792)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.05.18-08.11.53:834][643]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.05.18-08.11.55:232][643]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.05.18-08.11.55:232][643]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.05.18-08.11.55:232][643]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.05.18-08.11.55:232][643]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.05.18-08.11.55:232][643]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.05.18-08.11.55:232][643]MemoryProfiler: Shutdown
+[2022.05.18-08.11.55:232][643]NetworkingProfiler: Shutdown
+[2022.05.18-08.11.55:232][643]LoadingProfiler: Shutdown
+[2022.05.18-08.11.55:232][643]TimingProfiler: Shutdown
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.05.18-08.11.55:233][643]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.05.18-08.11.55:234][643]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.05.18-08.11.55:234][643]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.05.18-08.11.55:234][643]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.05.18-08.11.55:234][643]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.05.18-08.11.55:234][643]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.05.18-08.11.55:234][643]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.05.18-08.11.55:234][643]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.05.18-08.11.55:234][643]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.05.18-08.11.55:267][643]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.05.18-08.11.55:267][643]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.05.18-08.11.55:267][643]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.05.18-08.11.55:267][643]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.05.18-08.11.55:267][643]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.05.18-08.11.55:267][643]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.05.18-08.11.55:268][643]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.05.18-08.11.55:268][643]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.05.18-08.11.55:268][643]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.05.18-08.11.55:268][643]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.05.18-08.11.55:268][643]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.05.18-08.11.55:275][643]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.05.18-08.11.55:275][643]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.05.18-08.11.55:275][643]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.05.18-08.11.55:275][643]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.05.18-08.11.55:275][643]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.05.18-08.11.55:275][643]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.05.18-08.11.55:275][643]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.05.18-08.11.55:275][643]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.05.18-08.11.55:275][643]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.05.18-08.11.55:276][643]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.05.18-08.11.55:281][643]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module TakeSequencer (586)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module TakeMovieScene (584)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (582)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (580)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ScreenshotTools (578)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module CableComponent (570)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module EditableMesh (568)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module AudioCapture (566)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (565)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (562)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module ImgMedia (542)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (540)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (538)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (536)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (534)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module MotoSynth (532)
+[2022.05.18-08.11.55:462][643]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (530)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (528)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (526)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (524)
+[2022.05.18-08.11.55:463][643]LogOpenImageDenoise: OIDN shutting down
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module MeshConversion (522)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module DynamicMesh (520)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (518)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometricObjects (516)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (514)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (513)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (510)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (508)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (506)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (504)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (498)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module ChaosNiagara (496)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (495)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module AlembicImporter (486)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module AlembicLibrary (485)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometryCache (484)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (483)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (478)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module PluginBrowser (476)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (474)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (472)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module CurveEditorTools (470)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (468)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module CryptoKeys (466)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (464)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (462)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (460)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (458)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (454)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (452)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module PluginUtils (450)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (446)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (444)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (442)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module GitSourceControl (440)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module SourceControl (439)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.05.18-08.11.55:463][643]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.05.18-08.11.55:482][643]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.05.18-08.11.55:482][643]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.05.18-08.11.55:482][643]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.05.18-08.11.55:482][643]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.05.18-08.11.55:482][643]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.05.18-08.11.55:482][643]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.05.18-08.11.55:483][643]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2022.05.18-08.11.55:583][643]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.05.18-08.11.55:685][643]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2022.05.18-08.11.55:685][643]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (384)
+[2022.05.18-08.11.55:685][643]LogModuleManager: Shutting down and abandoning module Niagara (382)
+[2022.05.18-08.11.55:685][643]LogModuleManager: Shutting down and abandoning module SignalProcessing (381)
+[2022.05.18-08.11.55:685][643]LogModuleManager: Shutting down and abandoning module NiagaraEditor (379)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module NiagaraCore (376)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (374)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (372)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (370)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (368)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (366)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (364)
+[2022.05.18-08.11.55:686][643]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (362)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (360)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (358)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (356)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapController (354)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (352)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module MagicLeapAR (350)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (348)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module FacialAnimation (346)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2022.05.18-08.11.55:686][643]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.05.18-08.11.55:687][643]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2022.05.18-08.11.55:688][643]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2022.05.18-08.11.55:688][643]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2022.05.18-08.11.55:688][643]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module GameplayCameras (320)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (318)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.05.18-08.11.55:689][643]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.05.18-08.11.55:690][643]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.05.18-08.11.55:691][643]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.05.18-08.11.55:692][643]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.05.18-08.11.55:693][643]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.05.18-08.11.55:694][643]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.05.18-08.11.55:694][643]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.05.18-08.11.55:694][643]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.05.18-08.11.55:694][643]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.05.18-08.11.55:694][643]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.05.18-08.11.55:694][643]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.05.18-08.11.55:694][643]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.05.18-08.11.55:694][643]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.05.18-08.11.55:694][643]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.05.18-08.11.55:695][643]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.05.18-08.11.55:697][643]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.05.18-08.11.55:697][643]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.05.18-08.11.55:697][643]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.05.18-08.11.55:698][643]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.05.18-08.11.55:698][643]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.05.18-08.11.55:704][643]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.05.18-08.11.55:704][643]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.18-08.11.55:704][643]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB51BB97D-4415-0FEA-2EDE-2781295323DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=5031f04a47be70c6b604f0bd633f6321%7Cc1116c433d77406cb5e3ccfabc1dff2b%7Cc57cd347-9e37-4623-902d-8a5ca098b1d4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.18-08.11.55:704][643]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.05.18-08.11.55:720][643]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.05.18-08.11.55:721][643]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.05.18-08.11.55:723][643]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (66)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module NiagaraShader (64)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.05.18-08.11.55:724][643]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.18-08.11.55:725][643]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.05.18-08.11.55:725][643]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.05.18-08.11.55:725][643]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.05.18-08.11.55:725][643]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.05.18-08.11.55:725][643]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.18-08.11.55:726][643]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.18-08.11.55:726][643]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.18-08.11.55:744][643]LogD3D11RHI: Shutdown
+[2022.05.18-08.11.55:744][643]LogD3D11RHI: CleanupD3DDevice
+[2022.05.18-08.11.55:746][643]LogExit: Exiting.
+[2022.05.18-08.11.55:766][643]Log file closed, 05/18/22 10:11:55
