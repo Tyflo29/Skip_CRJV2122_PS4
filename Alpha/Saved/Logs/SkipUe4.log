@@ -2763,3 +2763,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.18-14.55.42:998][656]LogAudioMixer: Resetting audio stream to device id 
 [2022.05.18-14.55.43:002][656]LogAudioMixer: Display: 0: FrontLeft
 [2022.05.18-14.55.43:002][656]LogAudioMixer: Display: 1: FrontRight
+[2022.05.18-14.59.32:163][ 93]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_main.UI_main
