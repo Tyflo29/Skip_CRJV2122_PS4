@@ -1453,3 +1453,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.18-11.30.29:785][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
 [2022.05.18-11.30.30:700][954]LogSlate: Window 'Delete Assets' being destroyed
 [2022.05.18-11.30.30:771][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+<<<<<<< Updated upstream
+=======
+[2022.05.18-11.31.04:770][185]AssetReimport: New page: Outstanding source content changes 15:31:04
+[2022.05.18-11.31.04:791][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.05.18-11.31.10:938][185]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.18-11.31.14:002][405]AssetReimport: Attempting to delete fireplace_2k (its source file has been removed).
+[2022.05.18-11.31.44:623][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Matérials/Dissolve/M_Dissolve_Inst_Inst" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Matérials/Dissolve/M_Dissolve_Inst_Inst.uasset" SILENT=true
+[2022.05.18-11.31.44:625][594]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/M_Dissolve_Inst_Inst83DCDE9748EAFA75540D6CB4D67674C6.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Matérials/Dissolve/M_Dissolve_Inst_Inst.uasset'
+[2022.05.18-11.31.44:633][594]AssetCheck: New page: Asset Save: M_Dissolve_Inst_Inst
+[2022.05.18-11.31.44:633][594]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Matérials/Dissolve/M_Dissolve_Inst_Inst.M_Dissolve_Inst_Inst
+[2022.05.18-11.31.47:108][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Matérials/Dissolve/M_Dissolve_Inst" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Matérials/Dissolve/M_Dissolve_Inst.uasset" SILENT=true
+[2022.05.18-11.31.47:111][867]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/M_Dissolve_InstDF88B40442D0903DBE30B682EC7D5736.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Matérials/Dissolve/M_Dissolve_Inst.uasset'
+[2022.05.18-11.31.47:119][867]AssetCheck: New page: Asset Save: M_Dissolve_Inst
+[2022.05.18-11.31.47:119][867]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Matérials/Dissolve/M_Dissolve_Inst.M_Dissolve_Inst
+>>>>>>> Stashed changes
