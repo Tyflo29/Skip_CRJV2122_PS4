@@ -942,3 +942,1306 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.19-09.22.55:912][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/' took 0.33s
 [2022.05.19-09.22.56:260][  2]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.05.19-09.22.56:922][  4]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.19-09.23.11:640][932]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-09.23.11:645][932]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-09.23.12:903][ 80]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3CProject/Actors/BP_LockedDoor.BP_LockedDoor
+[2022.05.19-09.23.12:993][ 80]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.05.19-09.23.13:500][ 80]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-09.23.13:735][ 80]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.23.14:008][ 80]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.19-09.23.14:160][ 81]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.19-09.23.15:601][205]LogSlate: Window 'BP_Porte_Elevator' being destroyed
+[2022.05.19-09.23.20:287][697]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.23.20:287][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.23.21:539][830]LogSlate: Took 0.001217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.05.19-09.23.25:643][285]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.05.19-09.23.25:653][285]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.05.19-09.23.29:477][738]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Porte
+[2022.05.19-09.23.29:478][738]LogContentBrowser: End creating deferred item NewMaterial
+[2022.05.19-09.23.32:031][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Props_Moyens/Porte/M_Porte" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Mesh/Props_Moyens/Porte/M_Porte.uasset" SILENT=true
+[2022.05.19-09.23.32:035][991]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/M_PorteDB63D5314F77AAFC3AB8CF8DB537CBFB.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Mesh/Props_Moyens/Porte/M_Porte.uasset'
+[2022.05.19-09.23.32:046][991]AssetCheck: New page: Asset Save: M_Porte
+[2022.05.19-09.23.32:046][991]LogContentValidation: Display: Validating Material /Game/Mesh/Props_Moyens/Porte/M_Porte.M_Porte
+[2022.05.19-09.23.32:678][ 54]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Mesh/Props_Moyens/Porte/M_Porte.M_Porte
+[2022.05.19-09.23.32:678][ 54]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 6EA389B9C9A7790F967DA0187E36B62680A539EF), compiling. 
+[2022.05.19-09.23.32:696][ 54]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.05.19-09.23.32:700][ 54]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.05.19-09.23.32:759][ 54]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.19-09.23.32:844][ 54]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 9006C34EB25ED85A01688F353630985C0FD6511E), compiling. 
+[2022.05.19-09.23.32:846][ 54]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: F6662C9E28B6E997380ED075BB0EB0A414BB3E49), compiling. 
+[2022.05.19-09.23.32:853][ 54]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.23.32:885][ 55]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.33:871][114]MaterialEditorStats: Texture samplers: 2/16
+[2022.05.19-09.23.33:938][122]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.05.19-09.23.33:938][122]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.05.19-09.23.33:938][122]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.05.19-09.23.33:938][122]MaterialEditorStats: Texture samplers: 2/16
+[2022.05.19-09.23.38:931][515]LogTexture: Display: Building textures: Mesh_AmbientOcclusion (OODLE_AutoDXT, 2048X2048)
+[2022.05.19-09.23.38:931][515]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.19-09.23.38:931][515]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.19-09.23.38:931][515]LogTexture: Display: Building textures: Mesh_Glossiness (OODLE_AutoDXT, 2048X2048)
+[2022.05.19-09.23.38:931][515]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.19-09.23.38:931][515]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.19-09.23.38:931][515]LogTexture: Display: Building textures: Mesh_Normal_DirectX (OODLE_BC5, 2048X2048)
+[2022.05.19-09.23.38:931][515]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.19-09.23.38:931][515]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.19-09.23.38:931][515]LogTexture: Display: Building textures: Mesh_Specular (OODLE_AutoDXT, 2048X2048)
+[2022.05.19-09.23.38:931][515]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.19-09.23.38:931][515]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.19-09.23.45:977][136]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 5A5AA1F3B767B834A6F6DB738D2938F551D7CD25), compiling. 
+[2022.05.19-09.23.45:978][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 63CC0A97C51C25C77ADBD1B821D0C466D5F3B0BD), compiling. 
+[2022.05.19-09.23.45:980][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6DF148471FC57E0187468996330BA7C763DBBA64), compiling. 
+[2022.05.19-09.23.46:009][136]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 41B4CB63F70647CEF5BE20CD894BF78B969D45E1), compiling. 
+[2022.05.19-09.23.46:010][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C4AD4CC73A71610CDFD2570D9B99A1A5541087F5), compiling. 
+[2022.05.19-09.23.46:011][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3E75BEE60468E0F93B30B5DC56B42E96A4F29C1D), compiling. 
+[2022.05.19-09.23.46:012][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 049BB3A82C5DF7A66B6565265A3BB71B4C70B74A), compiling. 
+[2022.05.19-09.23.46:018][136]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 38343D43EBC57D5A23F9A66D888C3E44E5F8739A), compiling. 
+[2022.05.19-09.23.46:019][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1AD43A3088EE767A7827E9AD2A158E55CBD1D8BC), compiling. 
+[2022.05.19-09.23.46:020][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F4022F4FB29283236E16810ABDAAF003CAFB386B), compiling. 
+[2022.05.19-09.23.46:021][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9A6482848639C8ECEC15AEE5BFB1390D6F286FFE), compiling. 
+[2022.05.19-09.23.46:023][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3EDFAF6FE1F77DF79A35EB48815EFF00196836B3), compiling. 
+[2022.05.19-09.23.46:028][136]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 817F48CBEE392644E8D3F11AD7E37F24D41F4F43), compiling. 
+[2022.05.19-09.23.46:029][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B84BF5463C0B8B1CFB18E1F77DAA4FBC12F89E14), compiling. 
+[2022.05.19-09.23.46:030][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E8049E69B39E763D139F851EC1C8538A2143A16), compiling. 
+[2022.05.19-09.23.46:031][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 610467F1E8C7253101E0EAB0E23CE29757C1C9A3), compiling. 
+[2022.05.19-09.23.46:032][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 358A2971FC539489A67FD18FA61CA9582A7474B4), compiling. 
+[2022.05.19-09.23.46:032][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 1DC7E4F59E5C0A412D01060335954A4F84EE933A), compiling. 
+[2022.05.19-09.23.46:038][136]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: B5E6E77A985CCD352A2B8DDA5FA151C9EC345788), compiling. 
+[2022.05.19-09.23.46:039][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: D65770B0BF900E29DF856713665150AB99A247CB), compiling. 
+[2022.05.19-09.23.46:040][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B0BF5508E8FFECC9F3FA3EA5D525FF922973243B), compiling. 
+[2022.05.19-09.23.46:041][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4FCE7BC86B6FC2821543B2EB7684E594DEFC5974), compiling. 
+[2022.05.19-09.23.46:042][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A2E37D36485975FA86F71CDD74A54F83C6CFBDE), compiling. 
+[2022.05.19-09.23.46:042][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 8DF8D1FEDCC37F0B35982E2B2F29175CFEAD5C7F), compiling. 
+[2022.05.19-09.23.46:043][136]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 6209F6A788A1E6C974A058241AB18E204DC19238), compiling. 
+[2022.05.19-09.23.46:046][136]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.23.46:068][137]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.46:068][137]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.05.19-09.23.46:068][137]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.05.19-09.23.46:068][137]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.05.19-09.23.46:068][137]MaterialEditorStats: Texture samplers: 2/16
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.23.46:080][138]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.52:563][673]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 1EADCFC0EF010697A4828A706535E2FF2993A612), compiling. 
+[2022.05.19-09.23.52:565][673]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D75ADF9C1F90AD2DBFCD72D8B6D9A431B0A06F8D), compiling. 
+[2022.05.19-09.23.52:596][673]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.23.52:596][673]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.05.19-09.23.52:596][673]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.23.52:614][674]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.23.53:796][715]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.05.19-09.23.53:796][715]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.05.19-09.23.53:796][715]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.23.53:796][715]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.19-09.23.53:796][715]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.05.19-09.23.53:796][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.00:585][259]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 8F3AE15D0CA0C2AAABAC656F22BE7B5493DB26B6), compiling. 
+[2022.05.19-09.24.00:587][259]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 862485C60B4C6B70CD8379FC5C74180A8350C442), compiling. 
+[2022.05.19-09.24.00:590][259]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.24.00:590][259]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.05.19-09.24.00:590][259]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.24.00:601][260]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.02:038][331]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.05.19-09.24.02:038][331]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.05.19-09.24.02:038][331]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.24.02:038][331]MaterialEditorStats: Texture samplers: 4/16
+[2022.05.19-09.24.02:038][331]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.05.19-09.24.02:038][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.11:918][ 68]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 648F5D8B415CF035106C9E1EF98969CF38EA2189), compiling. 
+[2022.05.19-09.24.11:920][ 68]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 54028EC4952FF11FD5BFDAB7AD6B49B8DEEB26D5), compiling. 
+[2022.05.19-09.24.11:922][ 68]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.24.11:922][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.19-09.24.11:922][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.11:926][ 69]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.11:932][ 70]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.24.11:932][ 70]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.24.11:932][ 70]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.11:932][ 70]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.11:935][ 70]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.24.11:935][ 70]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.24.11:935][ 70]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.24.11:935][ 70]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.24.11:935][ 70]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.24.11:935][ 70]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.24.11:935][ 70]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.24.11:935][ 70]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.24.11:935][ 70]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.12:773][106]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.19-09.24.12:773][106]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.19-09.24.12:773][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.12:877][118]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.05.19-09.24.12:877][118]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2022.05.19-09.24.12:877][118]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.24.12:877][118]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.19-09.24.12:877][118]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.19-09.24.12:877][118]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.14:688][325]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 24BBF57648271AD04158AD53AE27377191F9D955), compiling. 
+[2022.05.19-09.24.14:788][337]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.05.19-09.24.14:788][337]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.05.19-09.24.14:788][337]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.24.14:788][337]MaterialEditorStats: Texture samplers: 4/16
+[2022.05.19-09.24.14:788][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.05.19-09.24.14:788][337]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.17:045][515]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: D04BB2A6664649B2AE461E2E927BF8ADB595FCAA), compiling. 
+[2022.05.19-09.24.17:046][515]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: C995F12B9F548761060FFAFFBAA839203ED36DFC), compiling. 
+[2022.05.19-09.24.17:048][515]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.24.17:048][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.19-09.24.17:049][515]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.17:053][516]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.17:059][517]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.17:922][552]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.19-09.24.17:922][552]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.19-09.24.17:922][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.18:004][556]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.05.19-09.24.18:004][556]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2022.05.19-09.24.18:004][556]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.24.18:004][556]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.19-09.24.18:004][556]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.19-09.24.18:004][556]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.22:341][821]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 2CEBF87F5E2E4B96A7F95C6EFD517559C699B59D), compiling. 
+[2022.05.19-09.24.22:342][821]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 492EE60D5086890B1A771501A643C33328E39363), compiling. 
+[2022.05.19-09.24.22:345][821]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.24.22:345][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.05.19-09.24.22:345][821]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.22:350][822]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.22:354][823]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.22:356][823]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.23:941][902]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.05.19-09.24.23:941][902]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2022.05.19-09.24.23:941][902]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.24.23:941][902]MaterialEditorStats: Texture samplers: 6/16
+[2022.05.19-09.24.23:941][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.05.19-09.24.23:941][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.27:444][176]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 7C14FFCF5D94F5088F46E2293DF718A008548E38), compiling. 
+[2022.05.19-09.24.27:446][176]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A997BAC09BD06D0574C65292F4E32FCF7715BB8), compiling. 
+[2022.05.19-09.24.27:450][176]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.24.27:450][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.05.19-09.24.27:450][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.27:454][177]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.27:458][178]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.27:469][179]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.28:341][211]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.19-09.24.28:341][211]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.05.19-09.24.28:341][211]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.28:374][212]MaterialEditorStats: Texture samplers: 6/16
+[2022.05.19-09.24.28:374][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.05.19-09.24.28:374][212]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.28:409][213]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.05.19-09.24.28:409][213]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2022.05.19-09.24.28:409][213]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.24.28:409][213]MaterialEditorStats: Texture samplers: 6/16
+[2022.05.19-09.24.28:409][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.05.19-09.24.28:409][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.30:676][388]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 1F9CC139E4450241A1CBECAC8F5E3213854473D5), compiling. 
+[2022.05.19-09.24.30:677][388]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 18C6C9F0A428867405A1BD9DAE088CB4425352D1), compiling. 
+[2022.05.19-09.24.30:679][388]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.24.30:679][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.24.30:679][388]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.30:684][389]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.30:689][390]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.24.30:689][390]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.24.30:689][390]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.24.30:689][390]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.30:693][390]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.24.30:693][390]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.24.30:693][390]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.24.30:693][390]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.24.30:693][390]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.24.30:693][390]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.24.30:693][390]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.24.30:693][390]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.24.30:693][390]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.24.31:499][421]MaterialEditorStats: Texture samplers: 6/16
+[2022.05.19-09.24.31:500][421]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.24.31:500][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.31:575][428]MaterialEditorStats: Texture samplers: 7/16
+[2022.05.19-09.24.31:575][428]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.24.31:575][428]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.24.31:630][434]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.05.19-09.24.31:630][434]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2022.05.19-09.24.31:630][434]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.24.31:630][434]MaterialEditorStats: Texture samplers: 7/16
+[2022.05.19-09.24.31:630][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.24.31:630][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.07:098][856]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: DF8AE6AF0B629E1090F7F8A9897569AD510552B3), compiling. 
+[2022.05.19-09.25.07:101][856]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 47147385639ED670156358C4C87CA710D14CEC54), compiling. 
+[2022.05.19-09.25.07:103][856]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.25.07:103][856]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.07:103][856]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.07:108][857]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.25.07:113][858]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.25.07:115][858]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.25.08:062][908]MaterialEditorStats: Texture samplers: 6/16
+[2022.05.19-09.25.08:062][908]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.08:062][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.08:123][915]MaterialEditorStats: Texture samplers: 7/16
+[2022.05.19-09.25.08:123][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.08:123][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.08:184][922]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.05.19-09.25.08:184][922]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2022.05.19-09.25.08:184][922]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.25.08:184][922]MaterialEditorStats: Texture samplers: 7/16
+[2022.05.19-09.25.08:184][922]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.08:184][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.11:920][361]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 7867D8CEDABB28FA1BE78D6159276AB0C4B80DDD), compiling. 
+[2022.05.19-09.25.11:926][362]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.25.11:933][363]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.05.19-09.25.11:933][363]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.05.19-09.25.11:933][363]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.25.11:933][363]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.19-09.25.11:941][364]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.05.19-09.25.11:941][364]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.05.19-09.25.11:941][364]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.19-09.25.11:941][364]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.19-09.25.11:941][364]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.05.19-09.25.11:941][364]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.05.19-09.25.11:941][364]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.05.19-09.25.11:941][364]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.05.19-09.25.11:941][364]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.25.12:029][373]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.19-09.25.12:029][373]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.12:029][373]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.12:755][404]MaterialEditorStats: Texture samplers: 6/16
+[2022.05.19-09.25.12:755][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.12:755][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.12:781][407]MaterialEditorStats: Texture samplers: 7/16
+[2022.05.19-09.25.12:781][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.12:781][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.12:856][416]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.05.19-09.25.12:856][416]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2022.05.19-09.25.12:856][416]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.25.12:856][416]MaterialEditorStats: Texture samplers: 7/16
+[2022.05.19-09.25.12:856][416]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.12:856][416]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.14:001][552]LogMaterialEditor: Saving and Compiling material M_Porte
+[2022.05.19-09.25.14:211][552]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 063A33C07353020E72B62B98D33FD1DF5B75DCEF), compiling. 
+[2022.05.19-09.25.14:236][552]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: B5365075CDE19BF7C87BAB0316479F4A9A488B57), compiling. 
+[2022.05.19-09.25.14:273][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.05.19-09.25.14:283][552]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.25.14:494][552]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.05.19-09.25.14:494][552]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.19-09.25.14:519][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.05.19-09.25.14:561][552]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.05.19-09.25.14:567][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Props_Moyens/Porte/M_Porte" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Mesh/Props_Moyens/Porte/M_Porte.uasset" SILENT=true
+[2022.05.19-09.25.14:573][552]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2022.05.19-09.25.14:573][552]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2022.05.19-09.25.14:573][552]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2022.05.19-09.25.14:573][552]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.05.19-09.25.14:573][552]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2022.05.19-09.25.14:573][552]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.05.19-09.25.14:573][552]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/M_Porte55F69A9C4BFFD61A56DAA0819BA93BC4.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Mesh/Props_Moyens/Porte/M_Porte.uasset'
+[2022.05.19-09.25.14:586][552]AssetCheck: New page: Asset Save: M_Porte
+[2022.05.19-09.25.14:586][552]LogContentValidation: Display: Validating Material /Game/Mesh/Props_Moyens/Porte/M_Porte.M_Porte
+[2022.05.19-09.25.14:590][552]MaterialEditorStats: Texture samplers: 7/16
+[2022.05.19-09.25.14:590][552]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.14:590][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.15:079][587]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.05.19-09.25.15:079][587]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2022.05.19-09.25.15:079][587]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.05.19-09.25.15:079][587]MaterialEditorStats: Texture samplers: 8/16
+[2022.05.19-09.25.15:079][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2022.05.19-09.25.15:079][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.19-09.25.20:355][ 30]LogMaterialEditor: Saving and Compiling material M_Porte
+[2022.05.19-09.25.20:567][ 30]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 42B59E933E5D9EB16DF284600D894602CEE5B214), compiling. 
+[2022.05.19-09.25.20:588][ 30]LogMaterial: Display: Missing cached shadermap for M_Porte in PCD3D_SM5, Default, SM5 (DDC key hash: 952F1D9A0F46579D1DF45B2AD41CDC99C702F0AE), compiling. 
+[2022.05.19-09.25.20:605][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.19-09.25.20:740][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.19-09.25.20:786][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Props_Moyens/Porte/M_Porte" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Mesh/Props_Moyens/Porte/M_Porte.uasset" SILENT=true
+[2022.05.19-09.25.20:791][ 30]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/M_PorteF5F2002C41FABC6C8CD103A1559D677E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Mesh/Props_Moyens/Porte/M_Porte.uasset'
+[2022.05.19-09.25.20:799][ 30]AssetCheck: New page: Asset Save: M_Porte
+[2022.05.19-09.25.20:799][ 30]LogContentValidation: Display: Validating Material /Game/Mesh/Props_Moyens/Porte/M_Porte.M_Porte
+[2022.05.19-09.25.22:770][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porte)
+[2022.05.19-09.25.26:989][607]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.25.26:995][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.25.26:995][607]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:25:26)
+[2022.05.19-09.25.26:996][607]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.19-09.25.26:997][607]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.19-09.25.26:997][607]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.25.27:021][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023456s)
+[2022.05.19-09.25.27:022][607]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.25.27:022][607]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2022.05.19-09.25.27:022][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.024594s)
+[2022.05.19-09.25.27:054][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.19-09.25.27:055][607]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.19-09.25.27:055][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.25.27:055][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.25.27:055][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.25.27:055][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.25.27:055][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.25.27:055][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.25.27:055][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.25.27:055][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.25.27:056][607]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.25.27:056][607]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.25.27:056][607]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.25.27:056][607]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.25.27:058][607]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.25.27:058][607]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.25.27:069][607]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.25.27:070][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.25.27:070][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.25.27:070][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.25.27:070][607]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.25.27:070][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.25.27:070][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.25.27:071][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.25.27:071][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.25.27:071][607]LogInit: FAudioDevice initialized.
+[2022.05.19-09.25.27:071][607]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelDesign'.
+[2022.05.19-09.25.27:099][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.25.27:102][607]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.25.27:105][607]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.25.27
+[2022.05.19-09.25.27:106][607]LogWorld: Bringing up level for play took: 0.002685
+[2022.05.19-09.25.27:106][607]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.05.19-09.25.27:108][607]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.25.27:108][607]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.05.19-09.25.27:110][607]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.25.27:110][607]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.25.27:112][607]PIE: Server logged in
+[2022.05.19-09.25.27:113][607]PIE: Play in editor total start time 0,119 seconds.
+[2022.05.19-09.25.27:334][609]LogRenderer: Reallocating scene render targets to support 2268x952 Format 10 NumSamples 1 (Frame:1).
+[2022.05.19-09.25.30:318][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.25.30:318][950]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.25.30:318][950]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.25.30:323][950]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.25.30:324][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.25.30:329][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.25.30:342][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.25.30:366][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-09.25.30:367][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.25.30:368][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.25.30:394][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.05.19-09.25.30:423][951]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.19-09.25.31:774][106]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.25.32:327][167]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.26.08:803][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.26.08:824][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.05.19-09.26.08:877][281]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign81EC45D1497E0732D29800833760FA24.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.26.08:889][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.26.08:913][281]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataDA8198A64BBB45B66D2DCDA89DEF41B0.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.26.08:926][281]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.26.08:926][281]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.26.08:926][281]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.26.31:354][742]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.26.31:354][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.26.40:244][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porte)
+[2022.05.19-09.27.20:570][110]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.19-09.27.39:638][ 16]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.27.39:678][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.05.19-09.27.41:580][210]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.27.41:616][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.05.19-09.27.41:972][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.27.41:988][243]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_ElevatorCCE7400847DFC7AC1E93919BEB219779.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.27.42:003][243]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.27.42:003][243]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.27.43:550][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.27.43:570][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.05.19-09.27.43:619][421]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignBC9D80F8484452959C43F5BB784CEA24.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.27.43:626][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.27.43:641][421]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataD8041BD24275B6D241F66F8139BCAC13.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.27.43:652][421]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.27.43:653][421]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.27.43:653][421]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.27.45:844][670]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.27.46:406][732]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.27.57:956][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porte)
+[2022.05.19-09.28.03:571][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Porte)
+[2022.05.19-09.28.04:028][700]Cmd: DELETE
+[2022.05.19-09.28.04:028][700]Cmd: ACTOR DELETE
+[2022.05.19-09.28.04:033][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.19-09.28.04:051][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.05.19-09.28.04:055][700]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.05.19-09.28.33:047][726]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.28.33:086][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.19-09.28.33:876][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.28.33:892][777]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_ElevatorA1901F854155B05BC143CC9A04A3C92E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.28.33:902][777]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.28.33:902][777]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.28.38:917][361]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.28.38:955][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.05.19-09.28.39:462][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.28.39:479][390]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_ElevatorC4C84BA54E30CCB6EF9409BDF29057E5.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.28.39:489][390]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.28.39:489][390]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.28.40:839][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.28.40:858][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.05.19-09.28.40:906][535]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignEF361B804DD491716E89D589E95AC406.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.28.40:915][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.28.40:929][535]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataBF450763456D363B0AFF8FB717DB9699.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.28.40:941][535]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.28.40:941][535]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.28.40:941][535]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.28.44:035][890]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.28.45:607][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.28.45:726][ 74]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Porte)
+[2022.05.19-09.29.15:319][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.29.15:338][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.05.19-09.29.15:390][522]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign6E2B0DCE4BD2A2E3798958A5B0F2252D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.29.15:398][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.29.15:412][522]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataE8EEB6BB4A5B86C6AFB6B9B221CC3A52.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.29.15:423][522]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.29.15:423][522]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.29.15:423][522]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.29.49:276][604]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.29.49:323][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.05.19-09.29.49:935][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.29.49:953][661]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_Elevator59810BE048D3C25C9532D486199B3595.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.29.49:964][661]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.29.49:964][661]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.29.52:015][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.29.52:033][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.05.19-09.29.52:081][877]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignC27A45144F9AB86D4B25918C6E8F65A3.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.29.52:088][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.29.52:103][877]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData9F96EA9944848BFACD4C9487E5D011D4.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.29.52:113][877]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.29.52:113][877]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.29.52:114][877]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.29.52:953][968]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.29.52:963][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.29.52:963][968]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:29:52)
+[2022.05.19-09.29.52:963][968]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.29.52:982][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018972s)
+[2022.05.19-09.29.52:983][968]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.29.52:983][968]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2022.05.19-09.29.52:983][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.019907s)
+[2022.05.19-09.29.53:002][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.05.19-09.29.53:003][968]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.19-09.29.53:003][968]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.29.53:003][968]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.29.53:003][968]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.29.53:003][968]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.29.53:003][968]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.29.53:003][968]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.29.53:003][968]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.29.53:003][968]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.29.53:004][968]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.29.53:004][968]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.29.53:004][968]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.29.53:004][968]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.29.53:006][968]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.29.53:006][968]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.29.53:015][968]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.29.53:015][968]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.29.53:015][968]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.29.53:015][968]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.29.53:016][968]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.29.53:016][968]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.29.53:016][968]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.29.53:016][968]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.29.53:016][968]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.29.53:017][968]LogInit: FAudioDevice initialized.
+[2022.05.19-09.29.53:017][968]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelDesign'.
+[2022.05.19-09.29.53:065][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.29.53:066][968]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.29.53:069][968]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.29.53
+[2022.05.19-09.29.53:070][968]LogWorld: Bringing up level for play took: 0.003132
+[2022.05.19-09.29.53:070][968]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.05.19-09.29.53:072][968]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.29.53:073][968]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.29.53:073][968]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.29.53:074][968]PIE: Server logged in
+[2022.05.19-09.29.53:076][968]PIE: Play in editor total start time 0,118 seconds.
+[2022.05.19-09.29.56:517][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.29.56:517][363]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.29.56:517][363]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.29.56:523][363]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.29.56:524][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.29.56:531][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.29.56:538][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.29.56:556][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.29.56:557][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.29.56:562][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.05.19-09.29.56:583][364]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.05.19-09.29.58:010][531]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.29.58:633][605]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.29.58:698][612]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Porte)
+[2022.05.19-09.30.01:939][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.30.01:957][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.05.19-09.30.02:008][983]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign9A992B844F79074FD7FBE39E4C0B7806.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.30.02:015][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.30.02:029][983]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData7705F28A4010B39407F65D8E9B9DDF3A.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.30.02:041][983]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.30.02:041][983]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.30.02:041][983]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.30.02:574][ 45]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.30.02:579][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.30.02:579][ 45]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:30:02)
+[2022.05.19-09.30.02:579][ 45]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.30.02:599][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019827s)
+[2022.05.19-09.30.02:600][ 45]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.30.02:600][ 45]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2022.05.19-09.30.02:600][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.020729s)
+[2022.05.19-09.30.02:619][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.19-09.30.02:619][ 45]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.19-09.30.02:619][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.30.02:619][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.30.02:619][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.30.02:619][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.30.02:619][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.30.02:619][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.30.02:619][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.30.02:619][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.30.02:620][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.30.02:620][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.30.02:620][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.30.02:620][ 45]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.30.02:622][ 45]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.30.02:622][ 45]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.30.02:630][ 45]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.30.02:630][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.30.02:630][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.30.02:630][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.30.02:631][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.30.02:631][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.30.02:631][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.30.02:632][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.30.02:632][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.30.02:632][ 45]LogInit: FAudioDevice initialized.
+[2022.05.19-09.30.02:632][ 45]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelDesign'.
+[2022.05.19-09.30.02:684][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.30.02:684][ 45]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.30.02:688][ 45]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.30.02
+[2022.05.19-09.30.02:688][ 45]LogWorld: Bringing up level for play took: 0.003192
+[2022.05.19-09.30.02:688][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.05.19-09.30.02:690][ 45]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.30.02:691][ 45]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.30.02:691][ 45]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.30.02:692][ 45]PIE: Server logged in
+[2022.05.19-09.30.02:693][ 45]PIE: Play in editor total start time 0,115 seconds.
+[2022.05.19-09.30.21:521][294]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.19-09.30.25:207][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.30.25:207][732]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.30.25:207][732]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.30.25:214][732]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.30.25:214][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.30.25:225][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.30.25:232][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.30.25:249][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.30.25:250][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.30.25:256][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.19-09.30.25:280][733]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.05.19-09.30.26:373][849]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.30.27:906][ 31]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.30.28:563][ 96]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.30.28:907][136]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.30.28:965][142]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Porte)
+[2022.05.19-09.30.33:644][687]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.30.34:930][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.30.34:948][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.05.19-09.30.34:999][834]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign63477D0D42557D1D89D3C1A2A9D90B01.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.30.35:006][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.30.35:021][834]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData184EAE7A4DCBA05CF75B01A0F6B696A5.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.30.35:032][834]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.30.35:032][834]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.30.35:032][834]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.30.38:753][195]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.30.38:794][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.19-09.30.39:092][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.30.39:110][224]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_ElevatorE1FD1C3C4D55F5D26D915285FE772989.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.30.39:121][224]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.30.39:121][224]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.30.40:366][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.30.40:386][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.05.19-09.30.40:434][354]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignC8E0F42F447A1ECEEFE7D091B922BBE3.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.30.40:442][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.30.40:456][354]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataEF5371B043A7EFD2A02DFCB42CA7CAB9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.30.40:468][354]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.30.40:468][354]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.30.40:469][354]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.30.43:571][706]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.30.43:577][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.30.43:578][706]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:30:43)
+[2022.05.19-09.30.43:578][706]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.30.43:597][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019393s)
+[2022.05.19-09.30.43:598][706]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.30.43:598][706]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2022.05.19-09.30.43:598][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.020241s)
+[2022.05.19-09.30.43:616][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.05.19-09.30.43:618][706]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.19-09.30.43:618][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.30.43:618][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.30.43:618][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.30.43:618][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.30.43:618][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.30.43:618][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.30.43:618][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.30.43:618][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.30.43:618][706]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.30.43:618][706]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.30.43:618][706]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.30.43:618][706]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.30.43:620][706]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.30.43:620][706]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.30.43:629][706]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.30.43:629][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.30.43:629][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.30.43:629][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.30.43:630][706]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.30.43:630][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.30.43:630][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.30.43:630][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.30.43:631][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.30.43:631][706]LogInit: FAudioDevice initialized.
+[2022.05.19-09.30.43:631][706]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelDesign'.
+[2022.05.19-09.30.43:666][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.30.43:667][706]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.30.43:670][706]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.30.43
+[2022.05.19-09.30.43:670][706]LogWorld: Bringing up level for play took: 0.003017
+[2022.05.19-09.30.43:671][706]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.05.19-09.30.43:672][706]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.30.43:673][706]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.30.43:673][706]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.30.43:675][706]PIE: Server logged in
+[2022.05.19-09.30.43:676][706]PIE: Play in editor total start time 0,1 seconds.
+[2022.05.19-09.30.59:434][578]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.19-09.31.07:826][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.31.07:827][581]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.31.07:827][581]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.31.07:833][581]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.31.07:834][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.31.07:848][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.31.07:855][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.31.07:873][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.31.07:874][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.31.07:879][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.05.19-09.31.07:901][582]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.05.19-09.31.47:795][842]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.31.47:836][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.19-09.31.48:299][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.31.48:316][874]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_Elevator9CF9B5B24468DADC28C623BE94BC6937.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.31.48:330][874]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.31.48:330][874]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.31.51:275][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.31.51:294][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.05.19-09.31.51:343][214]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignD847C4E6487C466E1AA0E98DF41834C5.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.31.51:350][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.31.51:364][214]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataE6CF1FD64AF6EC79DDEB688013C86DC9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.31.51:375][214]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.31.51:375][214]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.31.51:375][214]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.32.08:077][973]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.19-09.32.08:083][973]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_92 has an invalid curve.  Please fix!
+[2022.05.19-09.32.08:150][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.05.19-09.32.08:640][  0]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter39560A3C4DC5F8172A04B6B07B0919BD.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-09.32.08:658][  0]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-09.32.08:658][  0]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-09.32.38:226][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.32.38:246][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.05.19-09.32.38:295][477]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignD6F3073B417F282F2F086D84F69ECB04.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.32.38:303][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.32.38:318][477]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataEB01C2984BD428F7A6B5758005BEC866.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.32.38:329][477]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.32.38:329][477]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.32.38:329][477]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.33.07:707][412]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.33.07:750][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.05.19-09.33.08:170][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.33.08:187][434]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_ElevatorB1BB4E66442EC4BE655320A66A61F386.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.33.08:199][434]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.33.08:199][434]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.33.24:139][238]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.33.24:184][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.05.19-09.33.24:732][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.33.24:750][278]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_ElevatorF2A17D68421CBB486D00F1AF2B127C5C.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.33.24:760][278]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.33.24:760][278]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.33.26:994][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.33.27:013][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.19-09.33.27:061][514]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignDE91CA59431A8B2D68C8AC9BD0F527B4.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.33.27:069][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.33.27:083][514]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData9DBA2EEB413EB112A9E05EA76E57C803.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.33.27:095][514]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.33.27:095][514]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.33.27:095][514]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.33.32:508][133]Cmd: MODE GRID=0
+[2022.05.19-09.33.39:301][939]LogEditorViewport: Clicking on Actor (LMB): BP_Porte_Elevator_C (BP_LockedDoor)
+[2022.05.19-09.33.39:542][967]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Porte)
+[2022.05.19-09.33.58:071][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.33.58:090][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.05.19-09.33.58:139][ 99]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignA625930447C8A2E71FF1F39A0D21B412.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.33.58:147][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.33.58:162][ 99]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData284AFA2F405878F9D766D6859A78828D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.33.58:171][ 99]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.33.58:171][ 99]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.33.58:171][ 99]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.34.14:057][789]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.34.14:095][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.05.19-09.34.14:449][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.34.14:466][811]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_ElevatorA4322D72410714A7B98A398DC76818F9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.34.14:475][811]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.34.14:475][811]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.34.15:594][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.34.15:613][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.05.19-09.34.15:661][944]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign61C716504CE534EF0DA08E86E018A673.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.34.15:668][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.34.15:685][944]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataAF10009E4C293407AA56D693B2844F59.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.34.15:696][944]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.34.15:696][944]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.34.15:696][944]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.34.16:641][ 31]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.34.16:649][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.34.16:649][ 31]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:34:16)
+[2022.05.19-09.34.16:649][ 31]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.34.16:668][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019357s)
+[2022.05.19-09.34.16:669][ 31]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.34.16:669][ 31]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2022.05.19-09.34.16:669][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.020241s)
+[2022.05.19-09.34.16:688][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.19-09.34.16:689][ 31]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.19-09.34.16:689][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.34.16:689][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.34.16:689][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.34.16:689][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.34.16:689][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.34.16:689][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.34.16:689][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.34.16:689][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.34.16:689][ 31]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.34.16:689][ 31]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.34.16:689][ 31]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.34.16:689][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.34.16:691][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.34.16:691][ 31]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.34.16:700][ 31]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.34.16:700][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.34.16:700][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.34.16:700][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.34.16:701][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.34.16:701][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.34.16:701][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.34.16:701][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.34.16:701][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.34.16:701][ 31]LogInit: FAudioDevice initialized.
+[2022.05.19-09.34.16:701][ 31]LogAudio: Display: Audio Device (ID: 6) registered with world 'LevelDesign'.
+[2022.05.19-09.34.16:744][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.34.16:745][ 31]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.34.16:749][ 31]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.34.16
+[2022.05.19-09.34.16:749][ 31]LogWorld: Bringing up level for play took: 0.003331
+[2022.05.19-09.34.16:750][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.05.19-09.34.16:751][ 31]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.34.16:753][ 31]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.34.16:753][ 31]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.34.16:754][ 31]PIE: Server logged in
+[2022.05.19-09.34.16:755][ 31]PIE: Play in editor total start time 0,109 seconds.
+[2022.05.19-09.34.22:336][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.34.22:336][685]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.34.22:336][685]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.34.22:341][685]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.34.22:342][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.34.22:353][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.34.22:364][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.34.22:382][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.34.22:383][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.34.22:388][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.05.19-09.34.22:409][686]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.05.19-09.34.38:733][174]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.34.38:769][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.05.19-09.34.39:219][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.34.39:237][198]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_ElevatorFC2AF24143C7E2B7FEFA6AAFFD39B038.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.34.39:248][198]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.34.39:248][198]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.34.40:370][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.34.40:390][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.05.19-09.34.40:438][311]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign2626B0FC4DA2991239A8FD9AF7DD8EF5.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.34.40:445][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.34.40:460][311]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataF15DA08B49D2D220F59407AF4FF60313.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.34.40:471][311]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.34.40:471][311]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.34.40:471][311]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.34.43:018][606]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.34.43:024][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.34.43:024][606]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:34:43)
+[2022.05.19-09.34.43:024][606]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.34.43:045][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020080s)
+[2022.05.19-09.34.43:045][606]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.34.43:045][606]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2022.05.19-09.34.43:045][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.020943s)
+[2022.05.19-09.34.43:062][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.05.19-09.34.43:063][606]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.19-09.34.43:064][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.34.43:064][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.34.43:064][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.34.43:064][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.34.43:064][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.34.43:064][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.34.43:064][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.34.43:064][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.34.43:064][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.34.43:064][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.34.43:064][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.34.43:064][606]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.34.43:066][606]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.34.43:066][606]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.34.43:074][606]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.34.43:075][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.34.43:075][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.34.43:075][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.34.43:075][606]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.34.43:075][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.34.43:075][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.34.43:076][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.34.43:076][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.34.43:076][606]LogInit: FAudioDevice initialized.
+[2022.05.19-09.34.43:076][606]LogAudio: Display: Audio Device (ID: 7) registered with world 'LevelDesign'.
+[2022.05.19-09.34.43:103][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.34.43:103][606]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.34.43:107][606]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.34.43
+[2022.05.19-09.34.43:107][606]LogWorld: Bringing up level for play took: 0.003281
+[2022.05.19-09.34.43:107][606]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.05.19-09.34.43:109][606]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.34.43:110][606]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.34.43:110][606]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.34.43:112][606]PIE: Server logged in
+[2022.05.19-09.34.43:112][606]PIE: Play in editor total start time 0,09 seconds.
+[2022.05.19-09.34.53:183][796]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.19-09.35.01:955][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.35.01:955][845]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.35.01:955][845]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.35.01:961][845]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.35.01:961][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.35.01:972][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.35.01:983][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.35.02:001][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.35.02:002][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.35.02:008][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.05.19-09.35.02:034][846]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.05.19-09.35.11:628][836]BlueprintLog: New page: Compile BP_Porte_Elevator
+[2022.05.19-09.35.11:664][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.19-09.35.12:159][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Porte_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset" SILENT=true
+[2022.05.19-09.35.12:176][872]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_ElevatorC344D6134561774D97747F91802B1313.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/BP_Porte_Elevator.uasset'
+[2022.05.19-09.35.12:189][872]AssetCheck: New page: Asset Save: BP_Porte_Elevator
+[2022.05.19-09.35.12:189][872]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.19-09.35.13:298][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.35.13:317][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.19-09.35.13:365][  0]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignD39361654CDAFC12D8DCFBBE8EFAF65D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.35.13:373][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.35.13:387][  0]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataAAE10B354CBE887437A3518CADB05FB3.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.35.13:398][  0]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.35.13:398][  0]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.35.13:398][  0]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.35.14:153][ 82]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.35.14:159][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.35.14:160][ 82]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:35:14)
+[2022.05.19-09.35.14:160][ 82]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.35.14:179][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019396s)
+[2022.05.19-09.35.14:180][ 82]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.35.14:180][ 82]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2022.05.19-09.35.14:180][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.020310s)
+[2022.05.19-09.35.14:198][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.05.19-09.35.14:199][ 82]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.19-09.35.14:199][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.35.14:199][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.35.14:199][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.35.14:199][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.35.14:199][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.35.14:199][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.35.14:199][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.35.14:199][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.35.14:199][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.35.14:199][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.35.14:199][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.35.14:199][ 82]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.35.14:201][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.35.14:201][ 82]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.35.14:210][ 82]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.35.14:210][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.35.14:210][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.35.14:210][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.35.14:210][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.35.14:210][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.35.14:210][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.35.14:211][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.35.14:211][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.35.14:211][ 82]LogInit: FAudioDevice initialized.
+[2022.05.19-09.35.14:211][ 82]LogAudio: Display: Audio Device (ID: 8) registered with world 'LevelDesign'.
+[2022.05.19-09.35.14:247][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.35.14:247][ 82]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.35.14:250][ 82]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.35.14
+[2022.05.19-09.35.14:250][ 82]LogWorld: Bringing up level for play took: 0.003016
+[2022.05.19-09.35.14:251][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.05.19-09.35.14:252][ 82]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.35.14:253][ 82]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.35.14:253][ 82]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.35.14:255][ 82]PIE: Server logged in
+[2022.05.19-09.35.14:256][ 82]PIE: Play in editor total start time 0,097 seconds.
+[2022.05.19-09.35.17:936][510]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_2
+	BP_FirstPersonCharacter_C /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:0CA3
+[2022.05.19-09.35.17:937][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_2". Blueprint:  BP_FirstPersonCharacter Function:  Execute Ubergraph BP First Person Character Graph:  InteractableObject Node:  Branch
+[2022.05.19-09.35.24:730][325]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_2
+	BP_FirstPersonCharacter_C /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:0CA3
+[2022.05.19-09.35.24:730][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_2". Blueprint:  BP_FirstPersonCharacter Function:  Execute Ubergraph BP First Person Character Graph:  InteractableObject Node:  Branch
+[2022.05.19-09.35.25:280][391]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_2
+	BP_FirstPersonCharacter_C /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:0CA3
+[2022.05.19-09.35.25:280][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_2". Blueprint:  BP_FirstPersonCharacter Function:  Execute Ubergraph BP First Person Character Graph:  InteractableObject Node:  Branch
+[2022.05.19-09.35.27:138][614]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitActor_2
+	BP_FirstPersonCharacter_C /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:0CA3
+[2022.05.19-09.35.27:138][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitActor_2". Blueprint:  BP_FirstPersonCharacter Function:  Execute Ubergraph BP First Person Character Graph:  InteractableObject Node:  Branch
+[2022.05.19-09.35.36:189][700]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.19-09.35.45:205][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.35.45:205][778]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.35.45:205][778]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.35.45:212][778]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.35.45:212][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.35.45:226][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.35.45:237][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.35.45:257][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.35.45:257][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.35.45:263][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.19-09.35.45:374][779]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.19-09.38.00:692][575]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-09.38.00:697][575]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-09.38.26:733][270]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.19-09.38.26:737][270]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_128 has an invalid curve.  Please fix!
+[2022.05.19-09.38.26:804][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.05.19-09.38.50:318][387]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.19-09.38.50:321][387]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_140 has an invalid curve.  Please fix!
+[2022.05.19-09.38.50:385][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.05.19-09.38.50:976][423]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterD432AE8D428B3B5FA5AF33A4758B4922.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-09.38.50:992][423]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-09.38.50:992][423]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-09.38.52:229][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.38.52:249][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.05.19-09.38.52:298][567]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignBDEC8BC7418608CB79DA748698718AAB.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.38.52:306][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.38.52:320][567]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData6D9F5C9945A71B0EAEA51C8C02882E1F.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.38.52:332][567]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.38.52:332][567]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.38.52:332][567]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.38.52:857][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.38.52:864][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.38.52:864][611]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:38:52)
+[2022.05.19-09.38.52:864][611]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.38.52:884][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019654s)
+[2022.05.19-09.38.52:884][611]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.38.52:885][611]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2022.05.19-09.38.52:885][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.020559s)
+[2022.05.19-09.38.52:904][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.05.19-09.38.52:905][611]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.19-09.38.52:905][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.38.52:905][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.38.52:905][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.38.52:905][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.38.52:905][611]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.38.52:905][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.38.52:905][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.38.52:905][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.38.52:906][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.38.52:906][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.38.52:906][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.38.52:906][611]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.38.52:908][611]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.38.52:908][611]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.38.52:917][611]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.38.52:917][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.38.52:917][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.38.52:917][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.38.52:918][611]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.38.52:918][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.38.52:918][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.38.52:918][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.38.52:918][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.38.52:918][611]LogInit: FAudioDevice initialized.
+[2022.05.19-09.38.52:919][611]LogAudio: Display: Audio Device (ID: 9) registered with world 'LevelDesign'.
+[2022.05.19-09.38.52:963][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.38.52:964][611]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.38.52:967][611]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.38.52
+[2022.05.19-09.38.52:968][611]LogWorld: Bringing up level for play took: 0.003252
+[2022.05.19-09.38.52:968][611]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.05.19-09.38.52:970][611]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.38.52:971][611]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.38.52:971][611]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.38.52:972][611]PIE: Server logged in
+[2022.05.19-09.38.52:974][611]PIE: Play in editor total start time 0,111 seconds.
+[2022.05.19-09.38.56:484][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.38.56:484][ 13]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.38.56:485][ 13]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.38.56:492][ 13]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.38.56:492][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.38.56:499][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.38.56:510][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.38.56:528][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.38.56:528][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.38.56:533][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.05.19-09.38.56:555][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.05.19-09.39.24:408][948]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.19-09.39.24:415][948]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_152 has an invalid curve.  Please fix!
+[2022.05.19-09.39.24:479][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.05.19-09.39.25:104][990]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter839B9C024AB208E04D7976B90DB57A27.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-09.39.25:121][990]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-09.39.25:122][990]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-09.39.26:492][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.39.26:512][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.05.19-09.39.26:568][121]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignA3FA7FD54206B775D991A8B2D04CCB01.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.39.26:576][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.39.26:592][121]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataCFE358DE4E6847396B9CABB448C3F5C9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.39.26:603][121]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.39.26:603][121]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.39.26:603][121]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.39.27:105][168]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.39.27:111][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.39.27:111][168]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:39:27)
+[2022.05.19-09.39.27:111][168]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.39.27:131][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019790s)
+[2022.05.19-09.39.27:132][168]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.39.27:132][168]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2022.05.19-09.39.27:132][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.020671s)
+[2022.05.19-09.39.27:151][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.05.19-09.39.27:151][168]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.19-09.39.27:151][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.39.27:151][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.39.27:151][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.39.27:151][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.39.27:151][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.39.27:151][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.39.27:151][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.39.27:151][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.39.27:152][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.39.27:152][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.39.27:152][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.39.27:152][168]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.39.27:154][168]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.39.27:154][168]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.39.27:162][168]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.39.27:163][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.39.27:163][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.39.27:163][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.39.27:163][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.39.27:163][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.39.27:163][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.39.27:164][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.39.27:164][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.39.27:164][168]LogInit: FAudioDevice initialized.
+[2022.05.19-09.39.27:164][168]LogAudio: Display: Audio Device (ID: 10) registered with world 'LevelDesign'.
+[2022.05.19-09.39.27:190][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.39.27:190][168]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.39.27:194][168]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.39.27
+[2022.05.19-09.39.27:194][168]LogWorld: Bringing up level for play took: 0.003536
+[2022.05.19-09.39.27:194][168]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.05.19-09.39.27:196][168]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.39.27:198][168]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.39.27:198][168]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.39.27:199][168]PIE: Server logged in
+[2022.05.19-09.39.27:200][168]PIE: Play in editor total start time 0,09 seconds.
+[2022.05.19-09.39.28:929][362]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] false
+[2022.05.19-09.39.33:845][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.39.33:845][947]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.39.33:845][947]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.39.33:852][947]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.39.33:852][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.39.33:860][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.39.33:871][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.39.33:889][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.39.33:890][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.39.33:895][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.19-09.39.33:915][948]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.05.19-09.39.54:980][926]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.19-09.39.54:989][926]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_164 has an invalid curve.  Please fix!
+[2022.05.19-09.39.55:051][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.05.19-09.39.55:505][955]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter8C76FD0D481325654D5A4CB7C21EC395.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-09.39.55:517][955]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-09.39.55:517][955]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-09.39.56:470][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.39.56:490][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.05.19-09.39.56:538][ 62]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign41D971864F1B6C3BCD6DD4B40433F84E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.39.56:546][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.39.56:561][ 62]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataA44AE9934E682CF211BF18B904F0B0F7.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.39.56:572][ 62]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.39.56:572][ 62]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.39.56:572][ 62]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.39.57:290][139]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.39.57:296][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.39.57:296][139]PIE: New page: PIE session: LevelDesign (19 mai 2022 à 13:39:57)
+[2022.05.19-09.39.57:296][139]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.39.57:316][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020136s)
+[2022.05.19-09.39.57:317][139]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.19-09.39.57:317][139]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2022.05.19-09.39.57:317][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.021037s)
+[2022.05.19-09.39.57:335][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.05.19-09.39.57:336][139]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.19-09.39.57:336][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.39.57:336][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.39.57:336][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.39.57:336][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.39.57:336][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-09.39.57:336][139]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-09.39.57:336][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-09.39.57:336][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.39.57:336][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.39.57:336][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.39.57:336][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.39.57:336][139]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-09.39.57:339][139]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-09.39.57:339][139]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-09.39.57:347][139]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.19-09.39.57:347][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.39.57:347][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.39.57:347][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.39.57:348][139]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-09.39.57:348][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-09.39.57:348][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-09.39.57:348][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-09.39.57:348][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-09.39.57:349][139]LogInit: FAudioDevice initialized.
+[2022.05.19-09.39.57:349][139]LogAudio: Display: Audio Device (ID: 11) registered with world 'LevelDesign'.
+[2022.05.19-09.39.57:401][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.39.57:402][139]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-09.39.57:405][139]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.19-11.39.57
+[2022.05.19-09.39.57:406][139]LogWorld: Bringing up level for play took: 0.003186
+[2022.05.19-09.39.57:406][139]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.05.19-09.39.57:407][139]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.19-09.39.57:409][139]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter)
+[2022.05.19-09.39.57:409][139]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.19-09.39.57:410][139]PIE: Server logged in
+[2022.05.19-09.39.57:411][139]PIE: Play in editor total start time 0,116 seconds.
+[2022.05.19-09.39.59:217][333]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] false
+[2022.05.19-09.40.10:533][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.40.10:533][686]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.19-09.40.10:534][686]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.19-09.40.10:539][686]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.40.10:540][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.40.10:549][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.40.10:560][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.40.10:576][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.40.10:577][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-09.40.10:582][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.05.19-09.40.10:630][688]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.05.19-09.40.27:961][ 87]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.19-09.40.27:964][ 87]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_176 has an invalid curve.  Please fix!
+[2022.05.19-09.40.28:027][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.05.19-09.40.28:957][165]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter49B6439F4C0463CEAE3B45B4F7AD4351.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-09.40.28:970][165]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-09.40.28:970][165]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-09.40.30:450][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.40.30:470][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.05.19-09.40.30:519][326]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign1258AEC0401883D63F4780A38DFA22F9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.40.30:526][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.40.30:541][326]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData1D6DC0FA4FB128AE97D311A6C9421651.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.40.30:551][326]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.40.30:551][326]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.40.30:551][326]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.19-09.40.47:954][132]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Kate/Mesh/character.character
+[2022.05.19-09.40.47:977][132]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.05.19-09.40.47:984][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.19-09.40.47:991][132]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.05.19-09.40.59:268][329]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2022.05.19-09.42.30:719][991]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.19-09.42.30:779][991]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.19-09.42.31:159][  2]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.19-09.42.31:214][  2]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.19-09.42.31:528][ 18]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.19-09.42.31:588][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.19-09.42.32:019][ 67]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.19-09.42.32:074][ 67]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.19-09.42.33:457][215]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.19-09.42.33:463][215]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_188 has an invalid curve.  Please fix!
+[2022.05.19-09.42.33:587][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.05.19-09.42.34:269][271]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter7D1B4D0A41D237AAD2A0D5AEF410A8FF.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.19-09.42.34:280][271]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.19-09.42.34:280][271]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.19-09.42.37:810][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.42.37:851][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.05.19-09.42.37:902][655]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign55DBD233464CB6E4430EA19969499E69.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.19-09.42.37:909][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.19-09.42.37:924][655]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData1FAEFEA1400F700B2866A2AFD9F729DF.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.19-09.42.37:934][655]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-09.42.37:934][655]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.19-09.42.37:934][655]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
