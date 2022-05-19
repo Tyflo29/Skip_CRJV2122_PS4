@@ -942,6 +942,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.19-09.22.55:912][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/' took 0.33s
 [2022.05.19-09.22.56:260][  2]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.05.19-09.22.56:922][  4]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+<<<<<<< HEAD
 [2022.05.19-09.23.11:640][932]LogSlate: Window 'Message Log' being destroyed
 [2022.05.19-09.23.11:645][932]LogSlate: Window 'Message Log' being destroyed
 [2022.05.19-09.23.12:903][ 80]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3CProject/Actors/BP_LockedDoor.BP_LockedDoor
@@ -4158,3 +4159,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.19-09.57.51:110][777]LogD3D11RHI: CleanupD3DDevice
 [2022.05.19-09.57.51:113][777]LogExit: Exiting.
 [2022.05.19-09.57.51:125][777]Log file closed, 05/19/22 11:57:51
+=======
+>>>>>>> parent of 58a4e96 (Deni_Puzzle#3)
