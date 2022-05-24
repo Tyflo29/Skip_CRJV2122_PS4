@@ -940,3 +940,787 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.24-09.40.45:635][100]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.05.24-09.40.46:892][198]LogSlate: Window 'Message Log' being destroyed
 [2022.05.24-09.40.46:897][198]LogSlate: Window 'Message Log' being destroyed
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default_C' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default:BasicActorsCommunication.K2Node_FunctionEntry_0' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default:TriggerShader.K2Node_FunctionEntry_0' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default:TriggerShader.K2Node_FunctionResult_0' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default:BasicActorsCommunication.K2Node_FunctionResult_0' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default:DeniCall.K2Node_FunctionEntry_0' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default:DeniCall.K2Node_FunctionResult_0' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.SKEL_BI_Default_C:BasicActorsCommunication' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.SKEL_BI_Default_C:TriggerShader' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.SKEL_BI_Default_C:DeniCall' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.SKEL_BI_Default_C' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default_C:BasicActorsCommunication' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default_C:TriggerShader' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:143][703]LogMetaData: Removing '/Game/BP/BI_Default.BI_Default_C:DeniCall' ref from Metadata '/Game/Matérials/Shader/Pick/BI_Default.PackageMetaData'
+[2022.05.24-09.41.44:177][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BI_Default" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/BI_Default.uasset" SILENT=true
+[2022.05.24-09.41.44:181][703]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BI_Default2B310CCF4EEE5511A69694BD4DB4A87F.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/BI_Default.uasset'
+[2022.05.24-09.41.44:248][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.24-09.41.44:260][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.05.24-09.41.44:265][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.24-09.41.44:282][703]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_ObjectActor7F9BCEFB41F284089330B1812E06EDF2.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/2-Colere/BP_ObjectActor.uasset'
+[2022.05.24-09.41.44:331][703]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Sphere2_BlueprintCC5EA48046A76D9E2903FB82D6D0A126.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Matérials/Shader/Pick/Sphere2_Blueprint.uasset'
+[2022.05.24-09.41.44:338][703]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_ShaderTrigger78D8360E45AB955AF2E662B8974F2866.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Matérials/Shader/Pick/BP_ShaderTrigger.uasset'
+[2022.05.24-09.41.44:346][703]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_Trigger_ElevatorD86C5F904F55A8F729758BB52AC4B88F.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Trigger_Elevator.uasset'
+[2022.05.24-09.41.44:383][703]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_Porte_Elevator0E5C005443C3E5DE5F4D8489DEE9376C.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Porte_Elevator.uasset'
+[2022.05.24-09.41.44:506][703]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter37CCE58A4E485BD47D72F09AA6AFC369.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.41.44:550][703]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-09.41.44:550][703]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.41.44:550][703]LogContentValidation: Display: Validating Blueprint /Game/BP/BI_Default.BI_Default
+[2022.05.24-09.41.44:550][703]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Porte_Elevator.BP_Porte_Elevator
+[2022.05.24-09.41.44:550][703]LogContentValidation: Display: Validating Blueprint /Game/Matérials/Shader/Pick/BP_ShaderTrigger.BP_ShaderTrigger
+[2022.05.24-09.41.44:550][703]LogContentValidation: Display: Validating Blueprint /Game/Matérials/Shader/Pick/Sphere2_Blueprint.Sphere2_Blueprint
+[2022.05.24-09.41.44:588][703]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Trigger_Elevator.BP_Trigger_Elevator
+[2022.05.24-09.41.44:588][703]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/2-Colere/BP_ObjectActor.BP_ObjectActor
+[2022.05.24-09.41.48:364][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BI_Default.BI_Default
+[2022.05.24-09.41.48:458][103]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.05.24-09.41.51:036][307]LogSlate: Window 'BI_Default' being destroyed
+[2022.05.24-09.41.53:421][549]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.24-09.42.03:600][650]BlueprintLog: New page: Compile BI_Default
+[2022.05.24-09.42.03:624][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.24-09.42.04:271][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BI_Default" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/BI_Default.uasset" SILENT=true
+[2022.05.24-09.42.04:275][705]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BI_DefaultDE4E1E5A46EE748E09540589C654168D.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/BI_Default.uasset'
+[2022.05.24-09.42.04:283][705]AssetCheck: New page: Asset Save: BI_Default
+[2022.05.24-09.42.04:283][705]LogContentValidation: Display: Validating Blueprint /Game/BP/BI_Default.BI_Default
+[2022.05.24-09.42.17:130][142]BlueprintLog: New page: Compile BI_Default
+[2022.05.24-09.42.17:154][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.24-09.42.17:643][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BI_Default" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/BI_Default.uasset" SILENT=true
+[2022.05.24-09.42.17:647][175]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BI_DefaultABABA89846A7B488D0F2C08DCAF70F17.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/BI_Default.uasset'
+[2022.05.24-09.42.17:657][175]AssetCheck: New page: Asset Save: BI_Default
+[2022.05.24-09.42.17:657][175]LogContentValidation: Display: Validating Blueprint /Game/BP/BI_Default.BI_Default
+[2022.05.24-09.42.23:942][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.24-09.42.24:253][853]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Alpha.Alpha
+[2022.05.24-09.42.24:253][853]Cmd: MAP LOAD FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.24-09.42.24:253][853]LightingResults: New page: Lighting Build
+[2022.05.24-09.42.24:253][853]LoadErrors: New page: Loading map: Alpha.umap
+[2022.05.24-09.42.24:254][853]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.42.24:254][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-09.42.24:255][853]MapCheck: New page: Map Check
+[2022.05.24-09.42.24:255][853]LightingResults: New page: Lighting Build
+[2022.05.24-09.42.24:271][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.24-09.42.24:277][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.05.24-09.42.24:277][853]LogAudio: Display: Audio Device (ID: 1) registered with world 'Alpha'.
+[2022.05.24-09.42.24:287][853]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.24-09.42.24:287][853]LogAIModule: Creating AISystem for world Alpha
+[2022.05.24-09.42.24:306][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.05.24-09.42.24:313][853]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.24-09.42.24:313][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,062ms to complete.
+[2022.05.24-09.42.24:313][853]LogFileHelpers: Loading map 'Alpha' took 0.060
+[2022.05.24-09.42.24:343][855]LogRenderer: Reallocating scene render targets to support 2172x1080 Format 10 NumSamples 1 (Frame:1).
+[2022.05.24-09.42.43:871][643]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Enigme/2-Colere/BP_ObjectActor.BP_ObjectActor
+[2022.05.24-09.42.46:785][899]BlueprintLog: New page: Compile BP_ObjectActor
+[2022.05.24-09.42.46:821][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.05.24-09.42.47:257][933]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_ObjectActor8DA2496C459D57580BA0DDA84844873C.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/2-Colere/BP_ObjectActor.uasset'
+[2022.05.24-09.42.47:267][933]AssetCheck: New page: Asset Save: BP_ObjectActor
+[2022.05.24-09.42.47:267][933]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/2-Colere/BP_ObjectActor.BP_ObjectActor
+[2022.05.24-09.42.56:175][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.42.56:625][792]LogSlate: Took 0.000496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.24-09.42.58:095][952]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.42.58:100][952]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_123 has an invalid curve.  Please fix!
+[2022.05.24-09.42.58:177][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.05.24-09.42.59:240][ 37]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter1EC1DEB647DF38D4F2C1D19880C33010.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.42.59:249][ 37]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.42.59:249][ 37]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.43.01:044][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.24-09.43.01:067][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.05.24-09.43.01:084][207]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha95E5E6B247D566725F89EB90007EA753.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.24-09.43.01:092][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.24-09.43.01:127][207]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataD8C2DB71425A283A608802B88A5ED4FF.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.24-09.43.01:139][207]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-09.43.01:139][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.24-09.43.01:139][207]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.24-09.43.11:400][155]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter6FFD08FF4CB49DB23ADDB485273447CE.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.43.11:407][155]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.43.11:407][155]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.43.19:619][996]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterBB8926D64D326A911A6B3D973D22D7C1.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.43.19:628][996]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.43.19:628][996]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.43.26:323][650]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterCFEC37D34CEE0C341BAAD98E56AF32D9.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.43.26:332][650]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.43.26:333][650]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.43.36:198][576]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterE954177341D4AB2468AEE2AB4DC302CC.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.43.36:210][576]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.43.36:210][576]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.44.02:430][320]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.44.02:434][320]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_143 has an invalid curve.  Please fix!
+[2022.05.24-09.44.02:452][320]LogBlueprint: Warning: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a variable named "CurrentObject" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Set CurrentObject
+[2022.05.24-09.44.02:458][320]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The property associated with  Current Object  could not be found in '/Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2022.05.24-09.44.02:501][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.05.24-09.44.03:158][371]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter19FC84754D6B6BD098E7E5BF21C83AD9.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.44.03:167][371]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.44.03:168][371]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.44.16:936][907]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.44.16:941][907]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_161 has an invalid curve.  Please fix!
+[2022.05.24-09.44.16:958][907]LogBlueprint: Warning: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a variable named "CurrentObject" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Set CurrentObject
+[2022.05.24-09.44.16:963][907]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The property associated with  Current Object  could not be found in '/Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2022.05.24-09.44.17:006][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.05.24-09.44.44:382][977]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.44.44:386][977]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_183 has an invalid curve.  Please fix!
+[2022.05.24-09.44.44:403][977]LogBlueprint: Warning: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a variable named "CurrentObject" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Set CurrentObject
+[2022.05.24-09.44.44:409][977]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The property associated with  Current Object  could not be found in '/Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2022.05.24-09.44.44:452][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.05.24-09.44.47:676][309]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.24-09.44.53:266][898]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.44.53:270][898]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_203 has an invalid curve.  Please fix!
+[2022.05.24-09.44.53:288][898]LogBlueprint: Warning: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a variable named "CurrentObject" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Set CurrentObject
+[2022.05.24-09.44.53:293][898]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The property associated with  Current Object  could not be found in '/Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2022.05.24-09.44.53:336][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.05.24-09.44.54:495][  0]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter61B4B5094CFED2B6678AAAA0D33120C5.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.44.54:507][  0]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.44.54:507][  0]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.44.57:679][307]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.44.57:684][307]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_221 has an invalid curve.  Please fix!
+[2022.05.24-09.44.57:753][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.24-09.45.06:675][996]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.45.06:680][996]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_239 has an invalid curve.  Please fix!
+[2022.05.24-09.45.06:749][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.05.24-09.45.07:569][ 49]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterB88326FD430A9329FCC768A073F84C1E.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.45.07:580][ 49]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.45.07:580][ 49]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.45.09:153][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.24-09.45.09:176][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.05.24-09.45.09:192][203]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/AlphaF620D533444E256E6B462EA4627B3D55.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.24-09.45.09:201][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.24-09.45.09:221][203]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData80ECC342466C98711A8B5B924A31E245.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.24-09.45.09:230][203]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-09.45.09:230][203]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.24-09.45.09:230][203]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.24-09.46.00:050][776]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter3F8F0F4A4652AF06326C20BA836C1E26.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.46.00:059][776]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.46.00:059][776]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.46.29:311][479]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.46.29:316][479]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_257 has an invalid curve.  Please fix!
+[2022.05.24-09.46.29:385][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.05.24-09.46.29:794][496]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter1063B00F47182666C895BE9071915978.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.46.29:805][496]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.46.29:805][496]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.49.30:005][909]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.49.30:010][909]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_283 has an invalid curve.  Please fix!
+[2022.05.24-09.49.30:030][909]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2022.05.24-09.49.30:032][909]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.05.24-09.49.30:080][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.24-09.49.30:926][977]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterB9FA53DB4129FBAABCADFC928AA16006.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.49.30:937][977]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.49.30:937][977]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.49.41:075][915]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.49.41:080][915]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_301 has an invalid curve.  Please fix!
+[2022.05.24-09.49.41:150][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.05.24-09.49.41:747][964]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter96083F344D2F47B17870BE97BA230BA4.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.49.41:760][964]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.49.41:760][964]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.50.09:736][519]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.50.09:740][519]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_319 has an invalid curve.  Please fix!
+[2022.05.24-09.50.09:813][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.24-09.50.10:741][595]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter72586F324FA1C2CCAF6A5791042ECF42.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.50.10:752][595]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.50.10:752][595]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.50.18:874][426]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.50.18:880][426]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_365 has an invalid curve.  Please fix!
+[2022.05.24-09.50.18:954][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.05.24-09.50.19:664][480]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterA64E450B43E85DCE71018E8038F5A4B3.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.50.19:677][480]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.50.19:677][480]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.50.21:829][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.24-09.50.21:853][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.05.24-09.50.21:869][701]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha727B53BD44340E761AA4398B6DB731A4.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.24-09.50.21:878][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.24-09.50.21:898][701]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataDE50C96C46F12976CE9B6F86C2DE3547.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.24-09.50.21:907][701]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-09.50.21:907][701]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.24-09.50.21:907][701]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.24-09.50.44:590][ 69]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.50.44:597][ 69]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_395 has an invalid curve.  Please fix!
+[2022.05.24-09.50.44:668][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.24-09.50.45:229][105]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter092AB16D45EE9FE8BC2FC1AF45419865.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.50.45:242][105]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.50.45:242][105]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.51.21:679][359]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.51.21:685][359]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_425 has an invalid curve.  Please fix!
+[2022.05.24-09.51.21:703][359]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Current Object  and  New Item : Actor Object Reference is not compatible with BP Affiche ID-0 Object Reference (by ref).
+[2022.05.24-09.51.21:703][359]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  New Item  and  Current Object : BP Affiche ID-0 Object Reference (by ref) is not compatible with Actor Object Reference.
+[2022.05.24-09.51.21:754][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.05.24-09.51.22:191][386]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter51CF0A4D48C0DD5BD717A8BD0CE80068.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.51.22:203][386]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.51.22:203][386]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.51.26:054][746]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.51.26:060][746]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_455 has an invalid curve.  Please fix!
+[2022.05.24-09.51.26:078][746]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Current Object  and  New Item : Actor Object Reference is not compatible with BP Affiche ID-0 Object Reference (by ref).
+[2022.05.24-09.51.26:078][746]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  New Item  and  Current Object : BP Affiche ID-0 Object Reference (by ref) is not compatible with Actor Object Reference.
+[2022.05.24-09.51.26:128][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.24-09.51.26:604][778]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter92E69EA84356834C4DBD90BAD0C955A4.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.51.26:616][778]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.51.26:616][778]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.52.19:094][454]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.52.19:100][454]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_485 has an invalid curve.  Please fix!
+[2022.05.24-09.52.19:173][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.05.24-09.52.19:816][493]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterFAE60FC14EED3408DC4B5FBEA00B3C64.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.52.19:828][493]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.52.19:828][493]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.52.44:277][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.24-09.52.44:302][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.05.24-09.52.44:319][195]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha90A851FB46FBD374086806B0A5A67B91.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.24-09.52.44:327][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.24-09.52.44:348][195]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData503646D64D169277C054EE90E1379E25.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.24-09.52.44:357][195]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-09.52.44:357][195]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.24-09.52.44:357][195]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.24-09.53.02:905][931]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.05.24-09.53.09:440][653]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.05.24-09.53.09:445][653]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.05.24-09.53.45:419][831]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.53.45:426][831]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_517 has an invalid curve.  Please fix!
+[2022.05.24-09.53.45:498][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.24-09.53.46:622][913]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterEDFB3D834555F5B7C09B9285E8017E91.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.53.46:634][913]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.53.46:634][913]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.53.48:023][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.24-09.53.48:047][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.24-09.53.48:063][ 46]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha830651004C9194A4287348B87DA84263.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.24-09.53.48:072][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.24-09.53.48:093][ 46]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataCBC6446C4837ADE81F084C8B79695683.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.24-09.53.48:102][ 46]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-09.53.48:102][ 46]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.24-09.53.48:102][ 46]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.24-09.53.54:734][650]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter238FC131499715D2026411A9E7D2CDF5.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.53.54:748][650]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.53.54:748][650]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.54.18:173][803]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterC8B0C31B41EF015D0BB719AE4C79E3B9.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.54.18:187][803]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.54.18:187][803]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.54.32:322][284]LogEditorViewport: Clicking on Actor (LMB): BP_Affiche_ID-2_C (BP_Affiche_ID-2)
+[2022.05.24-09.54.34:160][441]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Enigme/1-Deni/BP_Affiche_ID-0.BP_Affiche_ID-0
+[2022.05.24-09.54.39:129][960]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.54.39:129][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-09.54.46:687][695]BlueprintLog: New page: Compile BP_ObjectActor
+[2022.05.24-09.54.46:736][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.05.24-09.54.47:322][748]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_ObjectActor3E956B04498E416277D2439B1B3BD989.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/2-Colere/BP_ObjectActor.uasset'
+[2022.05.24-09.54.47:331][748]AssetCheck: New page: Asset Save: BP_ObjectActor
+[2022.05.24-09.54.47:331][748]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/2-Colere/BP_ObjectActor.BP_ObjectActor
+[2022.05.24-09.54.48:734][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.24-09.54.48:757][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.24-09.54.48:773][863]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha7A271E00456A3375D6C4159FBAA0AC75.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.24-09.54.48:781][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.24-09.54.48:802][863]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltDataBE798AB84732B3501B13C3B48B9E3D50.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.24-09.54.48:811][863]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-09.54.48:811][863]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.24-09.54.48:811][863]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.24-09.55.10:217][ 38]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.55.10:223][ 38]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_563 has an invalid curve.  Please fix!
+[2022.05.24-09.55.10:241][ 38]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Current Object  and  New Item : Actor Object Reference is not compatible with BP Object Actor Object Reference (by ref).
+[2022.05.24-09.55.10:241][ 38]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  New Item  and  Current Object : BP Object Actor Object Reference (by ref) is not compatible with Actor Object Reference.
+[2022.05.24-09.55.10:289][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.24-09.55.11:250][119]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter386532E042663EA11E419A85A71DA997.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.55.11:263][119]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.55.11:263][119]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.55.29:242][ 75]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.55.29:249][ 75]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_593 has an invalid curve.  Please fix!
+[2022.05.24-09.55.29:266][ 75]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Current Object  and  New Item : Actor Object Reference is not compatible with BP Object Actor Object Reference (by ref).
+[2022.05.24-09.55.29:266][ 75]LogBlueprint: Error: [AssetLog] D:\JV2_2021-2022\florianBreton\Skip_CRJV2122_PS4\Alpha\Content\Character\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  New Item  and  Current Object : BP Object Actor Object Reference (by ref) is not compatible with Actor Object Reference.
+[2022.05.24-09.55.29:316][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.24-09.55.30:135][142]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter00CA9BAD4E5FBF9E1D6F2191B9D069A1.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.55.30:147][142]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.55.30:147][142]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.55.39:838][132]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.24-09.55.39:844][132]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_623 has an invalid curve.  Please fix!
+[2022.05.24-09.55.39:919][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.05.24-09.55.40:629][177]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter28E6079C40E191ABC1D7A9BB3D266C9D.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.24-09.55.40:642][177]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.24-09.55.40:642][177]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.24-09.55.41:775][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.24-09.55.41:800][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.05.24-09.55.41:816][271]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha6B690C3645BC59DD27CC99BF0CA6F95B.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap'
+[2022.05.24-09.55.41:824][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Alpha_BuiltData" FILE="../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset" SILENT=true
+[2022.05.24-09.55.41:844][271]LogSavePackage: Moving '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Saved/Alpha_BuiltData7346ABDD49A8340B947C44B8747C9DC4.tmp' to '../../../../../../JV2_2021-2022/florianBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha_BuiltData.uasset'
+[2022.05.24-09.55.41:853][271]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.24-09.55.41:853][271]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Alpha_BuiltData.Alpha_BuiltData
+[2022.05.24-09.55.41:853][271]LogContentValidation: Display: Validating World /Game/Maps/Alpha.Alpha
+[2022.05.24-09.55.42:595][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.05.24-09.55.42:612][341]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.42:612][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-09.55.42:644][341]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.24-09.55.42:644][341]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.42:644][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-09.55.42:685][341]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.24-09.55.42:685][341]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.42:685][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-09.55.42:740][341]LogSlate: Window 'SkipUe4 - Unreal Editor' being destroyed
+[2022.05.24-09.55.42:835][342]Cmd: QUIT_EDITOR
+[2022.05.24-09.55.42:835][342]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.24-09.55.42:843][342]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.24-09.55.42:845][342]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.24-09.55.42:845][342]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.24-09.55.42:845][342]LogAudio: Display: Audio Device unregistered from world 'Alpha'.
+[2022.05.24-09.55.42:845][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.24-09.55.42:845][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.24-09.55.42:848][342]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.24-09.55.42:848][342]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.24-09.55.42:855][342]LogExit: Preparing to exit.
+[2022.05.24-09.55.42:876][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.05.24-09.55.43:409][342]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.43:411][342]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.43:413][342]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.43:415][342]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.43:417][342]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.43:418][342]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.43:459][342]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.24-09.55.43:477][342]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-09.55.43:477][342]LogExit: Editor shut down
+[2022.05.24-09.55.43:477][342]LogExit: Transaction tracking system shut down
+[2022.05.24-09.55.43:695][342]LogExit: Object subsystem successfully closed.
+[2022.05.24-09.55.43:705][342]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.24-09.55.43:705][342]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.24-09.55.43:705][342]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.24-09.55.43:705][342]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.24-09.55.43:705][342]LogShaderCompilers: Display: ================================================
+[2022.05.24-09.55.43:710][342]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module PlanarCut (848)
+[2022.05.24-09.55.43:719][342]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module OpenXRInput (838)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module GooglePADEditor (836)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (834)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (832)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (830)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (828)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (826)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module WebMMedia (824)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (822)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (820)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module SequenceRecorder (819)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (816)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (814)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (812)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (810)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (808)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (806)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (804)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (802)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (800)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (798)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (796)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.05.24-09.55.43:720][342]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.05.24-09.55.43:721][342]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.05.24-09.55.43:802][342]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.05.24-09.55.43:802][342]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.05.24-09.55.43:802][342]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.05.24-09.55.43:802][342]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.05.24-09.55.43:802][342]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.05.24-09.55.43:802][342]MemoryProfiler: Shutdown
+[2022.05.24-09.55.43:802][342]NetworkingProfiler: Shutdown
+[2022.05.24-09.55.43:803][342]LoadingProfiler: Shutdown
+[2022.05.24-09.55.43:803][342]TimingProfiler: Shutdown
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.05.24-09.55.43:803][342]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.05.24-09.55.43:835][342]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.05.24-09.55.43:840][342]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.05.24-09.55.43:840][342]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.05.24-09.55.43:840][342]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.05.24-09.55.43:840][342]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.05.24-09.55.43:840][342]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.05.24-09.55.43:840][342]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.05.24-09.55.43:840][342]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.05.24-09.55.43:841][342]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.05.24-09.55.43:845][342]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (594)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (590)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MotoSynth (588)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (586)
+[2022.05.24-09.55.43:866][342]LogOpenImageDenoise: OIDN shutting down
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module TakeSequencer (580)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module TakeMovieScene (578)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (576)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (574)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module OpenXREditor (572)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (570)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ScreenshotTools (568)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module GooglePAD (566)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module EditableMesh (564)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (562)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module CableComponent (560)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module AudioCapture (558)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (557)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module AssetTags (554)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (552)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (550)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module AppleImageUtils (548)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module AndroidPermission (546)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (544)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (542)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MediaCompositing (540)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module ImgMedia (538)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module TemplateSequence (536)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (534)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (532)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (530)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (528)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (526)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (524)
+[2022.05.24-09.55.43:866][342]LogModuleManager: Shutting down and abandoning module MeshConversion (522)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module DynamicMesh (520)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (518)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometricObjects (516)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (514)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (513)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (510)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (508)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (506)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (504)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module ChaosNiagara (500)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module FractureEditor (498)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (497)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (494)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module AlembicImporter (486)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module AlembicLibrary (485)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometryCache (484)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (483)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (478)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (476)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (474)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module PluginBrowser (472)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (470)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module CurveEditorTools (466)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (464)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module CryptoKeys (462)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (460)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (458)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (456)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (452)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (450)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module PluginUtils (448)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (446)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (444)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (438)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.05.24-09.55.43:867][342]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.05.24-09.55.44:839][342]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.05.24-09.55.44:839][342]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.05.24-09.55.44:839][342]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.05.24-09.55.44:839][342]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.05.24-09.55.44:839][342]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.05.24-09.55.44:839][342]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.05.24-09.55.44:839][342]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (410)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (404)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (402)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (400)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (390)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module ActorSequence (388)
+[2022.05.24-09.55.44:840][342]LogModuleManager: Shutting down and abandoning module UdpMessaging (386)
+[2022.05.24-09.55.44:941][342]LogModuleManager: Shutting down and abandoning module TcpMessaging (384)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2022.05.24-09.55.45:042][342]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.05.24-09.55.45:042][342]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.05.24-09.55.45:043][342]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.05.24-09.55.45:045][342]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.05.24-09.55.45:046][342]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.05.24-09.55.45:047][342]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.05.24-09.55.45:048][342]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.05.24-09.55.45:049][342]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.05.24-09.55.45:052][342]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.05.24-09.55.45:052][342]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2022.05.24-09.55.45:052][342]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.05.24-09.55.45:053][342]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.05.24-09.55.45:053][342]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.05.24-09.55.45:053][342]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.05.24-09.55.45:053][342]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.05.24-09.55.45:053][342]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.05.24-09.55.45:084][342]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.05.24-09.55.45:084][342]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.24-09.55.45:084][342]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B530F78FB-4D10-EABE-DA6A-C5BA1B8A4B02%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=881976da453c87b1447367b703211aeb%7Cc1116c433d77406cb5e3ccfabc1dff2b%7C5d2c5540-0ac6-460c-a37a-7ddfc7faa2f0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.24-09.55.45:084][342]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.05.24-09.55.45:095][342]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.05.24-09.55.45:096][342]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.05.24-09.55.45:097][342]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.05.24-09.55.45:098][342]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.24-09.55.45:099][342]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.24-09.55.45:100][342]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.24-09.55.45:100][342]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.24-09.55.45:112][342]LogD3D11RHI: Shutdown
+[2022.05.24-09.55.45:112][342]LogD3D11RHI: CleanupD3DDevice
+[2022.05.24-09.55.45:114][342]LogExit: Exiting.
+[2022.05.24-09.55.45:146][342]Log file closed, 05/24/22 11:55:45
