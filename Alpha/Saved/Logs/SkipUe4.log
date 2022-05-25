@@ -2020,3 +2020,102 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.25-07.16.44:592][198]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_MenuD644548D4A9FF0C43903CBB58E1CE41D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
 [2022.05.25-07.16.44:600][198]AssetCheck: New page: Asset Save: Starter_Menu
 [2022.05.25-07.16.44:600][198]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.17.26:417][653]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.17.30:045][993]LogSlate: Window 'Starter_Menu' being destroyed
+[2022.05.25-07.18.14:134][ 98]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.18.14:192][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.05.25-07.18.14:658][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.18.14:662][144]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_MenuA39353E6431104DF2ABF6AB8A5A4EB4D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.18.14:672][144]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.18.14:673][144]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.18.57:559][264]LogEditorTransaction: Undo Edit Size
+[2022.05.25-07.19.41:859][443]LogEditorTransaction: Undo Resize Widget
+[2022.05.25-07.19.59:882][130]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.19.59:929][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.05.25-07.20.00:678][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.20.00:681][214]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_Menu8BF635384AB0312E650D0A914BC71D84.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.20.00:691][214]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.20.00:691][214]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.20.13:770][481]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.20.13:812][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.05.25-07.20.14:482][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.20.14:486][553]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_MenuBF75C2D843D54B29CA7EECB433C11E8E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.20.14:497][553]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.20.14:497][553]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.20.43:213][987]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.20.43:254][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.05.25-07.20.43:893][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.20.43:897][ 56]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_MenuFB0F4650455ADCAB5CF7DAB495EB3669.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.20.43:906][ 56]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.20.43:907][ 56]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.20.59:762][948]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.20.59:803][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.05.25-07.21.00:367][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.21.00:371][  6]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_MenuE2CB24614BF5C3F71A36988F635C65A3.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.21.00:381][  6]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.21.00:381][  6]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.21.36:493][197]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.21.36:533][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.05.25-07.21.36:981][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.21.36:985][243]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_MenuDF85DDD640D1847CA37425AB61D03090.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.21.36:995][243]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.21.36:995][243]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.21.44:938][175]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-07.21.49:798][742]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-07.21.50:872][858]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.21.50:914][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.05.25-07.21.51:435][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.21.51:439][911]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_MenuD63B282C4F6F10E84648418ED4FF6E98.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.21.51:449][911]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.21.51:449][911]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.22.02:684][234]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.22.02:725][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.05.25-07.22.03:224][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.22.03:228][290]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_Menu0498158F4F249E7FB7DB728645D373A4.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.22.03:237][290]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.22.03:237][290]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.22.12:101][312]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.05.25-07.22.20:618][234]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.05.25-07.22.31:688][503]LogEditorTransaction: Undo Edit ZOrder
+[2022.05.25-07.22.36:181][983]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.22.36:224][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.05.25-07.22.36:736][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.22.36:740][ 33]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_Menu91008B394E981D8B8490738C4F392ADD.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.22.36:750][ 33]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.22.36:750][ 33]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.22.42:300][618]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.22.42:340][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.05.25-07.22.46:255][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.22.46:259][ 33]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_Menu7D0CA3024D2BCB164FD790B3030C4ECD.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.22.46:268][ 33]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.22.46:268][ 33]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.24.49:609][  7]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-07.25.23:180][961]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/PointLight2_Blueprint.PointLight2_Blueprint
+[2022.05.25-07.25.25:958][258]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-07.25.25:958][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-07.25.26:361][301]Cmd: TRANSACTION UNDO
+[2022.05.25-07.25.26:361][301]LogEditorTransaction: Undo Move Anchor
+[2022.05.25-07.25.29:112][572]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.25.29:157][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.05.25-07.25.29:767][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.25.29:771][634]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_Menu504CD5AC4FBD50F763937CBDF86F5052.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.25.29:782][634]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.25.29:782][634]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.25.45:476][495]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.25.45:519][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.05.25-07.25.46:006][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.25.46:018][542]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_MenuE3B76DDB4562C384E9845589E14E6893.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.25.46:029][542]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.25.46:029][542]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.26.45:148][464]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.26.45:191][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.05.25-07.26.46:028][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.26.46:032][553]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_Menu745C6B8D4E6A9AC88769CBBEB88F273E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.26.46:043][553]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.26.46:043][553]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
+[2022.05.25-07.26.58:154][982]BlueprintLog: New page: Compile Starter_Menu
+[2022.05.25-07.26.58:195][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.05.25-07.26.58:982][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Starter_Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset" SILENT=true
+[2022.05.25-07.26.58:987][ 67]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Starter_MenuEF8E87DD41EA255D8FBFF383E1967511.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Starter_Menu.uasset'
+[2022.05.25-07.26.58:996][ 67]AssetCheck: New page: Asset Save: Starter_Menu
+[2022.05.25-07.26.58:996][ 67]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Starter_Menu.Starter_Menu
