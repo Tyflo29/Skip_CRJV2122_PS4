@@ -1,0 +1,1745 @@
+﻿Log file open, 05/25/22 13:43:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SkipUe4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.174651
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Engine.ini]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Engine.ini]
+[2022.05.25-11.43.50:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Engine.ini]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Engine.ini]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.25-11.43.50:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Engine.ini]
+[2022.05.25-11.43.50:286][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Engine.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.25-11.43.50:291][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.25-11.43.50:291][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.25-11.43.50:291][  0]LogHAL: Display: Platform has ~ 16 GB [16945225728 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.25-11.43.50:291][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.25-11.43.50:291][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Scalability.ini]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.25-11.43.50:292][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Engine.ini]
+[2022.05.25-11.43.50:292][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Config/Windows/Editor.ini]
+[2022.05.25-11.43.50:292][  0]LogInit: Computer: RNSS20902
+[2022.05.25-11.43.50:292][  0]LogInit: User: fbreton
+[2022.05.25-11.43.50:292][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.05.25-11.43.50:292][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.25-11.43.50:292][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.05.25-11.43.50:292][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.25-11.43.50:292][  0]LogMemory: Process Physical Memory: 147.71 MB used, 147.72 MB peak
+[2022.05.25-11.43.50:292][  0]LogMemory: Process Virtual Memory: 131.08 MB used, 131.08 MB peak
+[2022.05.25-11.43.50:292][  0]LogMemory: Physical Memory: 4926.45 MB used,  11233.78 MB free, 16160.23 MB total
+[2022.05.25-11.43.50:292][  0]LogMemory: Virtual Memory: 134206512.00 MB used,  11216.18 MB free, 134217728.00 MB total
+[2022.05.25-11.43.50:296][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.25-11.43.50:320][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.25-11.43.50:322][  0]LogInit: Using OS detected language (fr-FR).
+[2022.05.25-11.43.50:323][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.05.25-11.43.50:326][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.05.25-11.43.50:326][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.05.25-11.43.50:326][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.05.25-11.43.50:326][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.05.25-11.43.50:326][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.05.25-11.43.50:326][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.05.25-11.43.50:326][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.05.25-11.43.50:326][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.05.25-11.43.50:327][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.25-11.43.50:337][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.25-11.43.50:347][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.25-11.43.50:347][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.25-11.43.50:421][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.05.25-11.43.50:423][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.25-11.43.50:423][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.25-11.43.50:423][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.25-11.43.50:423][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.25-11.43.50:506][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.05.25-11.43.50:506][  0]LogD3D11RHI:       8043/0/8080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.25-11.43.50:551][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 750' (Feature Level 11_0)
+[2022.05.25-11.43.50:551][  0]LogD3D11RHI:       128/0/8080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:       0/0/8080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:     DeviceId    : 2484
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:     SubSysId    : 88dc103c
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:     SharedSystemMemory : 8472612864 bytes
+[2022.05.25-11.43.50:552][  0]LogD3D11RHI:     AdapterLuid : 0 57873
+[2022.05.25-11.43.50:556][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.25-11.43.50:556][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.25-11.43.50:556][  0]LogWindows: EnumDisplayDevices:
+[2022.05.25-11.43.50:556][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2022.05.25-11.43.50:556][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.05.25-11.43.50:556][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.05.25-11.43.50:557][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.05.25-11.43.50:557][  0]LogWindows:    4. 'Intel(R) UHD Graphics 750' (P:0 D:0)
+[2022.05.25-11.43.50:557][  0]LogWindows:    5. 'Intel(R) UHD Graphics 750' (P:0 D:0)
+[2022.05.25-11.43.50:557][  0]LogWindows:    6. 'Intel(R) UHD Graphics 750' (P:0 D:0)
+[2022.05.25-11.43.50:557][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2022.05.25-11.43.50:557][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     DeviceId    : 2484
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     SubSysId    : 88dc103c
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     SharedSystemMemory : 8472612864 bytes
+[2022.05.25-11.43.50:557][  0]LogD3D11RHI:     AdapterLuid : 0 57873
+[2022.05.25-11.43.50:613][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.25-11.43.50:613][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.25-11.43.50:613][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.25-11.43.50:614][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2022.05.25-11.43.50:630][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.05.25-11.43.50:645][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.25-11.43.50:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.25-11.43.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.25-11.43.50:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.25-11.43.50:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.25-11.43.50:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.25-11.43.50:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.25-11.43.50:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.25-11.43.50:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.25-11.43.50:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.25-11.43.50:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.25-11.43.50:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.25-11.43.50:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.25-11.43.50:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.25-11.43.50:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.25-11.43.50:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.25-11.43.50:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.25-11.43.50:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.25-11.43.50:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.25-11.43.50:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.25-11.43.50:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.25-11.43.50:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.25-11.43.50:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.25-11.43.50:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.25-11.43.50:943][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.25-11.43.50:947][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.25-11.43.50:967][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.05.25-11.43.50:986][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.25-11.43.50:986][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Intermediate/Shaders/WorkingDirectory/12656/).
+[2022.05.25-11.43.50:986][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/f.breton/AppData/Local/Temp/UnrealShaderWorkingDir/2822A67648BA097BFCBC5498CC1531E8/'.
+[2022.05.25-11.43.50:986][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.25-11.43.50:986][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.25-11.43.50:986][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.25-11.43.51:493][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.25-11.43.51:536][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/f.breton/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.05.25-11.43.51:536][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/f.breton/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.05.25-11.43.51:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.25-11.43.51:536][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.25-11.43.51:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.25-11.43.51:536][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.25-11.43.51:549][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.25-11.43.51:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.25-11.43.51:549][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.25-11.43.51:563][  0]LogDerivedDataCache: Speed tests for C:/Users/f.breton/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.25-11.43.51:563][  0]LogDerivedDataCache: Display: Performance to C:/Users/f.breton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1489.65MBs, RandomWriteSpeed=71.84MBs. Assigned SpeedClass 'Local'
+[2022.05.25-11.43.51:564][  0]LogDerivedDataCache: Using Local data cache path C:/Users/f.breton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.25-11.43.51:564][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.25-11.43.51:564][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.25-11.43.51:596][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.25-11.43.51:596][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.25-11.43.51:613][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2022.05.25-11.43.51:764][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.25-11.43.51:764][  0]LogInit: Active device profile: [000001EB4D06CB00][000001EB4210F200 49] Windows
+[2022.05.25-11.43.51:764][  0]LogInit: Profiles: [000001EB4D06CB00][000001EB4210F200 49] Windows, [000001EB4D042100][000001EB4C2F1380 49] WindowsNoEditor, [000001EB4D06D900][000001EB4C2F5500 49] WindowsServer, [000001EB4D042E00][000001EB4C2F9680 49] WindowsClient, [000001EB4D06FC00][000001EB4C2FD800 49] IOS, [000001EB4D040F00][000001EB4C301980 49] iPadAir, [000001EB4D06FE00][000001EB4C305B00 49] iPadAir2, [000001EB4CFF8C00][000001EB4C30C240 49] IPadPro, [000001EB4CFF8D00][000001EB4C308280 49] iPadAir3, [000001EB4D043B00][000001EB4C310400 49] iPadAir4, [000001EB4CFFB600][000001EB42112540 49] iPadMini2, [000001EB4D043200][000001EB4C314680 49] iPadMini3, [000001EB4CFFB800][000001EB4C3187C0 49] iPadMini4, [000001EB4D043800][000001EB4C31C900 49] iPadMini5, [000001EB4D000600][000001EB4C328BC0 49] iPhone6, [000001EB4D000700][000001EB4C324C00 49] iPodTouch6, [000001EB4D06E900][000001EB4C330EC0 49] iPhone7, [000001EB4D06E800][000001EB4C32CF00 49] iPodTouch7, [000001EB4D000100][000001EB4C335080 49] iPhone5S, [000001EB4CFF8700][000001EB4C339200 49] iPhone6Plus, [000001EB4D002500][000001EB4C33D380 49] iPhone6S, [000001EB4CFF9300][000001EB4C341500 49] iPhone6SPlus, [000001EB4D003B00][000001EB4C345680 49] iPhone7Plus, [000001EB4CFFB500][000001EB4C349800 49] iPhoneSE, [000001EB4D06E600][000001EB4C34D980 49] iPhone8, [000001EB4CFF8600][000001EB4C351B00 49] iPhone8Plus, [000001EB4D06E200][000001EB4C354100 49] iPhoneX, [000001EB4CFFB300][000001EB4C358280 49] iPhoneXS, [000001EB4D06F400][000001EB4C35C400 49] iPhoneXSMax, [000001EB4CFFAD00][000001EB4C360580 49] iPhoneXR, [000001EB4D06C200][000001EB4C364700 49] iPhone11, [000001EB4CFF9E00][000001EB4C320840 49] iPhone11Pro, [000001EB4D06EA00][000001EB4C368980 49] iPhone11ProMax, [000001EB4CFFB700][000001EB4C36CAC0 49] iPhoneSE2, [000001EB4D06CD00][000001EB4C374C40 49] iPhone12Mini, [000001EB4CFF9F00][000001EB4C378DC0 49] iPhone12, [000001EB4D06C700][000001EB4C37CF40 49] iPhone12Pro, [000001EB4CFF9400][000001EB4C3850C0 49] iPhone12ProMax, [000001EB4D06CC00][000001EB4C389240 49] iPadPro105, [000001EB4CFF9700][000001EB48CC53C0 49] iPadPro129, [000001EB4D06C100][000001EB48CCD540 49] iPadPro97, [000001EB4CFFBC00][000001EB4C3A16C0 49] iPadPro2_129, [000001EB4D06C800][000001EB4C3A5840 49] iPad5, [000001EB4CFFB100][000001EB4C3A99C0 49] iPad6, [000001EB4D06C500][000001EB48A49B40 49] iPad7, [000001EB4CFFA800][000001EB48A64140 49] iPad8, [000001EB4D06D500][000001EB48A682C0 49] iPadPro11, [000001EB4CFF9500][000001EB48A84440 49] iPadPro2_11, [000001EB4D06CF00][000001EB48A885C0 49] iPadPro3_129, [000001EB4CFFAC00][000001EB49268740 49] iPadPro4_129, [000001EB4D06E500][000001EB4927A8C0 49] AppleTV, [000001EB4CFF9100][000001EB4C370A00 49] AppleTV4K, [000001EB4D06C400][000001EB4D620B40 49] TVOS, [000001EB4CFFA600][000001EB4975AC80 49] Mac, [000001EB4D06FD00][000001EB4D7B4DC0 49] MacClient, [000001EB4CFF9800][000001EB4D7BCF40 49] MacNoEditor, [000001EB4D06F100][000001EB3CB110C0 49] MacServer, [000001EB4CFFB900][000001EB3CB1D240 49] Linux, [000001EB4D06C900][000001EB3CB213C0 49] LinuxAArch64, [000001EB4CFFBF00][000001EB3CB25540 49] LinuxNoEditor, [000001EB4D06DB00][000001EB3CB296C0 49] LinuxAArch64NoEditor, [000001EB4CFFB400][000001EB3CB2D840 49] LinuxClient, [000001EB4D06DC00][000001EB3CB359C0 49] LinuxAArch64Client, [000001EB4CFF9D00][000001EB48CA7B40 49] LinuxServer, [000001EB4D06EF00][000001EB48CBA140 49] LinuxAArch64Server, [000001EB4CFF8500][000001EB4D6042C0 49] Android, [000001EB4D06DE00][000001EB48CBE440 49] Android_Low, [000001EB4CFFB000][000001EB497A05C0 49] Android_Mid, [000001EB4D06E400][000001EB497F4740 49] Android_High, [000001EB4CFF8800][000001EB497F88C0 49] Android_Default, [000001EB4D06F200][000001EB497FCA40 49] Android_Adreno4xx, [000001EB4D042400][000001EB4D7B8B80 49] Android_Adreno5xx_Low, [000001EB4D001C00][000001EB49800CC0 49] Android_Adreno5xx, [000001EB4D043D00][000001EB49804E00 49] Android_Adreno6xx, [000001EB4D002B00][000001EB48C32F40 49] Android_Adreno6xx_Vulkan, [000001EB4D043E00][000001EB48C710C0 49] Android_Mali_T6xx, [000001EB4D000F00][000001EB48C75240 49] Android_Mali_T7xx, [000001EB4D041300][000001EB4D8793C0 49] Android_Mali_T8xx, [000001EB4D001F00][000001EB4D8B9540 49] Android_Mali_G71, [000001EB4D041C00][000001EB4DB7F6C0 49] Android_Mali_G72, [000001EB4D002400][000001EB4DB93840 49] Android_Mali_G72_Vulkan, [000001EB4D043600][000001EB4DBA59C0 49] Android_Mali_G76, [000001EB4D002100][000001EB4DBB7B40 49] Android_Mali_G76_Vulkan, [000001EB4D041B00][000001EB4D64E140 49] Android_Mali_G77, [000001EB4D000A00][000001EB4D6622C0 49] Android_Mali_G77_Vulkan, [000001EB4D043400][000001EB4D6D0440 49] Android_Mali_G78, [000001EB4D001300][000001EB4D6DE5C0 49] Android_Mali_G78_Vulkan, [000001EB4D042900][000001EB4D6F0740 49] Android_Mali_G710, [000001EB4D003D00][000001EB4D6FE8C0 49] Android_Mali_G710_Vulkan, [000001EB4D041E00][000001EB4D702A40 49] Android_Vulkan_SM5, [000001EB4D000900][000001EB4D710BC0 49] Android_PowerVR_G6xxx, [000001EB4D041F00][000001EB4D744D40 49] Android_PowerVR_GT7xxx, [000001EB4D002700][000001EB48C6CE80 49] Android_PowerVR_GE8xxx, [000001EB4D042300][000001EB4D788FC0 49] Android_PowerVR_GM9xxx, [000001EB4D003200][000001EB4D78D100 49] Android_PowerVR_GM9xxx_Vulkan, [000001EB4D043000][000001EB4D795280 49] Android_TegraK1, [000001EB4D001700][000001EB4D799400 49] Android_Unknown_Vulkan, [000001EB4D043700][000001EB4D79D580 49] Lumin, [000001EB4D000200][000001EB4D7A1700 49] Lumin_Desktop, [000001EB4D042200][000001EB4D7A5880 49] HoloLens, 
+[2022.05.25-11.43.51:848][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.25-11.43.51:848][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.25-11.43.51:848][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.25-11.43.51:848][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.25-11.43.51:848][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.25-11.43.51:860][  0]LogNetVersion: SkipUe4 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 257355023)
+[2022.05.25-11.43.52:105][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.25-11.43.52:143][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.25-11.43.52:147][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.05.25-11.43.52:147][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.05.25-11.43.52:147][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.25-11.43.52:303][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 58D6B06641F5F7A61D3927B99B8B6765 | Instance: 548BDE094DAEC99281464E91ABB5B836 (RNSS20902-12656).
+[2022.05.25-11.43.52:389][  0]LogPython: Using Python 3.7.7
+[2022.05.25-11.43.52:709][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.25-11.43.52:712][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.25-11.43.52:803][  0]SourceControl: Source control is disabled
+[2022.05.25-11.43.52:804][  0]SourceControl: Source control is disabled
+[2022.05.25-11.43.52:805][  0]SourceControl: Source control is disabled
+[2022.05.25-11.43.52:809][  0]SourceControl: Source control is disabled
+[2022.05.25-11.43.52:810][  0]SourceControl: Source control is disabled
+[2022.05.25-11.43.52:814][  0]LogUProjectInfo: Found projects:
+[2022.05.25-11.43.52:957][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.25-11.43.52:975][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.25-11.43.52:988][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.25-11.43.52:988][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.25-11.43.53:063][  0]LogCollectionManager: Loaded 0 collections in 0.001242 seconds
+[2022.05.25-11.43.53:081][  0]LogFileCache: Scanning file cache for directory 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Collections/' took 0.00s
+[2022.05.25-11.43.53:081][  0]LogFileCache: Scanning file cache for directory 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Developers/fbreton/Collections/' took 0.00s
+[2022.05.25-11.43.53:081][  0]LogFileCache: Scanning file cache for directory 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Collections/' took 0.00s
+[2022.05.25-11.43.53:081][  0]LogOcInput: OculusInput pre-init called
+[2022.05.25-11.43.53:236][  0]LogEngine: Initializing Engine...
+[2022.05.25-11.43.53:238][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.05.25-11.43.53:238][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.25-11.43.53:238][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.25-11.43.53:238][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.25-11.43.53:322][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.25-11.43.53:328][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.25-11.43.53:335][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.25-11.43.53:338][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.25-11.43.53:338][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.25-11.43.53:338][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.25-11.43.53:338][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.25-11.43.53:339][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-11.43.53:339][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-11.43.53:339][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-11.43.53:339][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-11.43.53:339][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-11.43.53:339][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-11.43.53:339][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-11.43.53:339][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-11.43.53:339][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-11.43.53:339][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-11.43.53:339][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-11.43.53:339][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-11.43.53:346][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-11.43.53:346][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-11.43.53:369][  0]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-11.43.53:371][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-11.43.53:373][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-11.43.53:373][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-11.43.53:373][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-11.43.53:373][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-11.43.53:373][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-11.43.53:374][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-11.43.53:374][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-11.43.53:374][  0]LogInit: FAudioDevice initialized.
+[2022.05.25-11.43.53:374][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.25-11.43.53:374][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.25-11.43.53:418][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/f.breton/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.05.25-11.43.53:420][  0]LogInit: Texture streaming: Enabled
+[2022.05.25-11.43.53:427][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.05.25-11.43.53:429][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.25-11.43.53:429][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.25-11.43.53:430][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.25-11.43.53:452][  0]LogInit: Transaction tracking system initialized
+[2022.05.25-11.43.53:466][  0]BlueprintLog: New page: Editor Load
+[2022.05.25-11.43.53:503][  0]LocalizationService: Localization service is disabled
+[2022.05.25-11.43.53:517][  0]TimingProfiler: Initialize
+[2022.05.25-11.43.53:517][  0]TimingProfiler: OnSessionChanged
+[2022.05.25-11.43.53:517][  0]LoadingProfiler: Initialize
+[2022.05.25-11.43.53:517][  0]LoadingProfiler: OnSessionChanged
+[2022.05.25-11.43.53:517][  0]NetworkingProfiler: Initialize
+[2022.05.25-11.43.53:517][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.25-11.43.53:517][  0]MemoryProfiler: Initialize
+[2022.05.25-11.43.53:517][  0]MemoryProfiler: OnSessionChanged
+[2022.05.25-11.43.53:610][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.25-11.43.53:610][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.25-11.43.53:727][  0]LogFileCache: Scanning file cache for directory 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/' took 0.00s
+[2022.05.25-11.43.53:853][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.25-11.43.53:856][  0]SourceControl: Source control is disabled
+[2022.05.25-11.43.53:856][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.202
+[2022.05.25-11.43.53:856][  0]Cmd: MAP LOAD FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.25-11.43.53:856][  0]LightingResults: New page: Lighting Build
+[2022.05.25-11.43.53:857][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-11.43.53:857][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.43.53:857][  0]MapCheck: New page: Map Check
+[2022.05.25-11.43.53:857][  0]LightingResults: New page: Lighting Build
+[2022.05.25-11.43.53:860][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-11.43.53:862][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.25-11.43.53:883][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Porte\Porte.uasset: Failed to load '/Game/Zone_De_Test/Materials/Porte1': Can't find file.
+[2022.05.25-11.43.53:883][  0]LoadErrors: Failed to load /Game/3CProject/Actors/BP_LockedDoor.BP_LockedDoor_C Referenced by SkeletalMesh_GEN_VARIABLE
+[2022.05.25-11.43.53:883][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Porte\Porte.uasset: Failed to load '/Game/Zone_De_Test/Materials/Porte1': Can't find file.
+[2022.05.25-11.43.53:883][  0]LoadErrors: Failed to load /Game/3CProject/Actors/BP_LockedDoor.BP_LockedDoor_C Referenced by SkeletalMesh_GEN_VARIABLE
+[2022.05.25-11.43.53:883][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Porte\Porte.uasset: Failed to load '/Game/Zone_De_Test/Materials/Porte1': Can't find file.
+[2022.05.25-11.43.53:883][  0]LoadErrors: Failed to load /Game/3CProject/Actors/BP_LockedDoor.BP_LockedDoor_C Referenced by SkeletalMesh_GEN_VARIABLE
+[2022.05.25-11.43.53:929][  0]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_16 has an invalid curve.  Please fix!
+[2022.05.25-11.43.54:025][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Bibliotheque\Bibliotheque_Attach.uasset: Failed to load '/Game/Zone_De_Test/Materials/Bibliotheque': Can't find file.
+[2022.05.25-11.43.54:026][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Bibliotheque\Bibliotheque_Attach.uasset: Failed to load '/Game/Zone_De_Test/Materials/Bibliotheque': Can't find file.
+[2022.05.25-11.43.54:026][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Bibliotheque\Bibliotheque_Attach.uasset: Failed to load '/Game/Zone_De_Test/Materials/Bibliotheque': Can't find file.
+[2022.05.25-11.43.54:028][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Table\Table.uasset: Failed to load '/Game/Zone_De_Test/Materials/Table1': Can't find file.
+[2022.05.25-11.43.54:028][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Table\Table.uasset: Failed to load '/Game/Zone_De_Test/Materials/Table1': Can't find file.
+[2022.05.25-11.43.54:028][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Table\Table.uasset: Failed to load '/Game/Zone_De_Test/Materials/Table1': Can't find file.
+[2022.05.25-11.43.54:028][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Television\Television.uasset: Failed to load '/Game/Zone_De_Test/Materials/Television1': Can't find file.
+[2022.05.25-11.43.54:029][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Television\Television.uasset: Failed to load '/Game/Zone_De_Test/Materials/Television1': Can't find file.
+[2022.05.25-11.43.54:029][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Television\Television.uasset: Failed to load '/Game/Zone_De_Test/Materials/Television1': Can't find file.
+[2022.05.25-11.43.54:048][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Bibliotheque\Bibliotheque_Attach.uasset: Failed to load '/Game/Zone_De_Test/Materials/Bibliotheque': Can't find file.
+[2022.05.25-11.43.54:048][  0]LoadErrors: Failed to load /Game/Zone_De_Test/Materials/Bibliotheque.Bibliotheque Referenced by Bibliotheque_Attach
+[2022.05.25-11.43.54:048][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Bibliotheque\Bibliotheque_Attach.uasset: Failed to load '/Game/Zone_De_Test/Materials/Bibliotheque': Can't find file.
+[2022.05.25-11.43.54:048][  0]LoadErrors: Failed to load /Game/Zone_De_Test/Materials/Bibliotheque.Bibliotheque Referenced by Bibliotheque_Attach
+[2022.05.25-11.43.54:049][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Television\Television.uasset: Failed to load '/Game/Zone_De_Test/Materials/Television1': Can't find file.
+[2022.05.25-11.43.54:049][  0]LoadErrors: Failed to load /Game/Zone_De_Test/Materials/Television1.Television1 Referenced by Television
+[2022.05.25-11.43.54:049][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Television\Television.uasset: Failed to load '/Game/Zone_De_Test/Materials/Television1': Can't find file.
+[2022.05.25-11.43.54:049][  0]LoadErrors: Failed to load /Game/Zone_De_Test/Materials/Television1.Television1 Referenced by Television
+[2022.05.25-11.43.54:049][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Table\Table.uasset: Failed to load '/Game/Zone_De_Test/Materials/Table1': Can't find file.
+[2022.05.25-11.43.54:050][  0]LoadErrors: Failed to load /Game/Zone_De_Test/Materials/Table1.Table1 Referenced by Table
+[2022.05.25-11.43.54:050][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Table\Table.uasset: Failed to load '/Game/Zone_De_Test/Materials/Table1': Can't find file.
+[2022.05.25-11.43.54:050][  0]LoadErrors: Failed to load /Game/Zone_De_Test/Materials/Table1.Table1 Referenced by Table
+[2022.05.25-11.43.54:079][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Porte\Porte.uasset: Failed to load '/Game/Zone_De_Test/Materials/Porte1': Can't find file.
+[2022.05.25-11.43.54:079][  0]LoadErrors: Failed to load /Game/Zone_De_Test/Materials/Porte1.Porte1 Referenced by Porte
+[2022.05.25-11.43.54:079][  0]LogLinker: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\Mesh\Props_Moyens\Porte\Porte.uasset: Failed to load '/Game/Zone_De_Test/Materials/Porte1': Can't find file.
+[2022.05.25-11.43.54:079][  0]LoadErrors: Failed to load /Game/Zone_De_Test/Materials/Porte1.Porte1 Referenced by Porte
+[2022.05.25-11.43.54:220][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelDesign'.
+[2022.05.25-11.43.54:221][  0]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-11.43.54:232][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.25-11.43.54:250][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.25-11.43.54:250][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.25-11.43.54:250][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2022.05.25-11.43.54:250][  0]LogFileHelpers: Loading map 'LevelDesign' took 0.395
+[2022.05.25-11.43.54:252][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.598
+[2022.05.25-11.43.54:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.43.54:380][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.43.54:383][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.43.54:387][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.43.54:396][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0063 seconds. Added 3822 classes and 928 folders.
+[2022.05.25-11.43.54:398][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2022.05.25-11.43.54:400][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.25-11.43.54:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.25-11.43.54:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.05.25-11.43.54:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.05.25-11.43.54:400][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.25-11.43.54:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.25-11.43.54:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.05.25-11.43.54:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.05.25-11.43.54:400][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.25-11.43.54:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.25-11.43.54:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.05.25-11.43.54:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.25-11.43.54:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.05.25-11.43.54:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.25-11.43.54:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.05.25-11.43.54:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.25-11.43.54:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.05.25-11.43.54:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.25-11.43.54:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.05.25-11.43.54:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.05.25-11.43.54:402][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.25-11.43.54:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.25-11.43.54:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.05.25-11.43.54:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.05.25-11.43.54:402][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.25-11.43.54:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.25-11.43.54:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.05.25-11.43.54:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.05.25-11.43.54:402][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.25-11.43.54:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.05.25-11.43.54:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.25-11.43.54:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.05.25-11.43.54:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.25-11.43.54:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.05.25-11.43.54:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.25-11.43.54:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.05.25-11.43.54:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.25-11.43.54:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.05.25-11.43.54:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.25-11.43.54:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.05.25-11.43.54:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.25-11.43.54:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.05.25-11.43.54:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.05.25-11.43.54:404][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.25-11.43.54:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.05.25-11.43.54:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.25-11.43.54:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.05.25-11.43.54:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.25-11.43.54:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.05.25-11.43.54:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.25-11.43.54:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.05.25-11.43.54:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.25-11.43.54:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.05.25-11.43.54:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.25-11.43.54:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.05.25-11.43.54:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.25-11.43.54:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.05.25-11.43.54:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.05.25-11.43.54:406][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.25-11.43.54:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.25-11.43.54:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.05.25-11.43.54:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.05.25-11.43.54:407][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.25-11.43.54:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.25-11.43.54:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.05.25-11.43.54:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.25-11.43.54:407][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.25-11.43.54:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.25-11.43.54:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.25-11.43.54:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.25-11.43.54:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.05.25-11.43.54:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.05.25-11.43.54:434][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.25-11.43.54:435][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.05.25-11.43.54:466][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.25-11.43.54:467][  0]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.25-11.43.54:467][  0]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.25-11.43.54:527][  0]LogRenderer: Reallocating scene render targets to support 1616x540 Format 10 NumSamples 1 (Frame:1).
+[2022.05.25-11.43.54:804][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.25-11.43.54:878][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.25-11.43.54:878][  0]LogLoad: (Engine Initialization) Total time: 5.22 seconds
+[2022.05.25-11.43.54:878][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.25-11.43.54:917][  0]LogAssetRegistry: Asset discovery search completed in 3.3043 seconds
+[2022.05.25-11.43.54:921][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.05.25-11.43.54:921][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.25-11.43.54:974][  0]LogSlate: Took 0.000942 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.05.25-11.43.55:001][  0]LogRenderer: Reallocating scene render targets to support 1616x556 Format 10 NumSamples 1 (Frame:3).
+[2022.05.25-11.43.55:002][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.25-11.43.55:007][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/' took 0.11s
+[2022.05.25-11.43.55:894][ 88]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.25-11.44.03:433][947]LogSlate: Window 'Message Log' being destroyed
+[2022.05.25-11.44.03:438][947]LogSlate: Window 'Message Log' being destroyed
+[2022.05.25-11.44.05:378][167]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-11.44.05:381][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-11.44.05:381][167]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 15:44:05)
+[2022.05.25-11.44.05:383][167]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.25-11.44.05:383][167]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.25-11.44.05:383][167]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.44.05:404][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022060s)
+[2022.05.25-11.44.05:405][167]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-11.44.05:405][167]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2022.05.25-11.44.05:405][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.022969s)
+[2022.05.25-11.44.05:410][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.25-11.44.05:411][167]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.25-11.44.05:411][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-11.44.05:411][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-11.44.05:411][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-11.44.05:411][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-11.44.05:411][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-11.44.05:411][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-11.44.05:411][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-11.44.05:411][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-11.44.05:411][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-11.44.05:411][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-11.44.05:411][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-11.44.05:411][167]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-11.44.05:413][167]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-11.44.05:413][167]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-11.44.05:423][167]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-11.44.05:423][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-11.44.05:423][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-11.44.05:423][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-11.44.05:423][167]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-11.44.05:423][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-11.44.05:423][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-11.44.05:424][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-11.44.05:424][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-11.44.05:424][167]LogInit: FAudioDevice initialized.
+[2022.05.25-11.44.05:424][167]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelDesign'.
+[2022.05.25-11.44.05:432][167]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-11.44.05:435][167]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-13.44.05
+[2022.05.25-11.44.05:435][167]LogWorld: Bringing up level for play took: 0.001705
+[2022.05.25-11.44.05:435][167]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.05.25-11.44.05:436][167]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-11.44.05:437][167]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2022.05.25-11.44.05:439][167]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-11.44.05:439][167]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-11.44.05:439][167]PIE: Server logged in
+[2022.05.25-11.44.05:440][167]PIE: Play in editor total start time 0,06 seconds.
+[2022.05.25-11.44.06:188][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.44.06:998][349]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.44.06:998][349]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.44.06:998][349]LogBlueprintUserMessages: [BP_Affiche_ID-2_2] Hello
+[2022.05.25-11.44.08:989][588]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.44.08:989][588]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.44.08:989][588]LogBlueprintUserMessages: [BP_Affiche_ID-4_2] Hello
+[2022.05.25-11.44.09:940][702]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.44.09:940][702]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.44.09:940][702]LogBlueprintUserMessages: [BP_Affiche_ID-1_3] Hello
+[2022.05.25-11.44.11:340][870]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.44.11:340][870]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.44.11:340][870]LogBlueprintUserMessages: [BP_Affiche_ID-0_2] Hello
+[2022.05.25-11.44.13:064][ 77]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.25-11.44.34:909][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.44.34:909][695]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.44.34:909][695]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-11.44.34:909][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.44.34:919][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-11.44.34:921][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.44.34:925][695]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-11.44.34:925][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.44.34:926][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.44.34:928][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.44.34:930][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.25-11.44.34:983][699]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.05.25-11.44.36:034][825]LogEditorViewport: Clicking Background
+[2022.05.25-11.44.38:715][142]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (BP_Elevator)
+[2022.05.25-11.44.40:189][307]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.44.40:281][307]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
+[2022.05.25-11.44.40:820][307]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.25-11.44.40:848][308]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.25-11.44.42:690][520]LogRenderer: Reallocating scene render targets to support 1616x692 Format 10 NumSamples 1 (Frame:1).
+[2022.05.25-11.45.03:961][ 36]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.45.03:993][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.25-11.45.04:662][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.45.04:673][107]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_ElevatorFA4B36234A94FECD1666329E84BC1042.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.45.04:685][107]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.45.04:685][107]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.45.06:001][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.45.06:014][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.05.25-11.45.06:068][258]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign072453FD49D164BABBB68D9765A5FFBF.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.45.06:076][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.45.06:113][258]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData6E7DBC76404CAEC389759C9EFCDB6C65.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.45.06:126][258]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.45.06:126][258]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.45.06:126][258]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.45.42:174][401]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.25-11.46.14:937][241]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.46.15:042][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.05.25-11.46.15:413][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.46.15:425][276]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator6F020FA04207A07F3CDC999095E3E345.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.46.15:435][276]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.46.15:435][276]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.46.16:491][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.46.16:511][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.05.25-11.46.16:566][396]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignE92501BA4D5E3D74FFE5B1BC9DBE3C82.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.46.16:574][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.46.16:597][396]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData1DC440C645DEDCD486B480B5BCF6A0ED.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.46.16:608][396]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.46.16:608][396]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.46.16:608][396]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.46.27:541][688]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.46.27:581][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.05.25-11.46.28:018][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.46.28:029][732]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_ElevatorFE212B81470CC1D256EAEC9348B62D28.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.46.28:039][732]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.46.28:039][732]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.46.29:162][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.46.29:179][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.05.25-11.46.29:233][860]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign817D8C224CBF7DEB49C308BFA415C915.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.46.29:241][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.46.29:265][860]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData1EB09A2C402716AE40EA41A6EDD7A0AB.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.46.29:277][860]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.46.29:277][860]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.46.29:278][860]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.46.49:107][206]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.46.49:178][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.05.25-11.46.49:576][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.46.49:587][246]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator505489BB490905B5642C44A88FE0772B.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.46.49:598][246]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.46.49:598][246]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.46.51:070][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.46.51:087][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.05.25-11.46.51:142][417]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign95CE78494721FB9DD07EB9A30CA6819E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.46.51:150][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.46.51:173][417]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData9617D69341429F9784365F9130A7B487.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.46.51:184][417]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.46.51:184][417]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.46.51:184][417]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.46.57:069][102]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.46.57:107][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.25-11.46.57:528][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.46.57:540][142]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator730ECE4343E431E1694C1081E1732D5C.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.46.57:549][142]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.46.57:549][142]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.47.05:646][ 93]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.47.05:684][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.05.25-11.47.06:681][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.47.06:693][205]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_ElevatorD30AAFA94B86F824A5C2E68B3DCC94D1.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.47.06:702][205]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.47.06:702][205]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.47.07:927][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.47.07:943][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.05.25-11.47.07:998][340]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign7C4B70C74748DDE622DDE8B713C1A866.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.47.08:006][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.47.08:028][340]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataE51867974993E8321C08B89B14C4DEB0.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.47.08:038][340]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.47.08:039][340]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.47.08:039][340]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.47.14:326][ 80]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.47.14:362][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.25-11.47.14:717][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.47.14:729][114]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator578ECBF5473BB6501E4C34A3CB42B75E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.47.14:739][114]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.47.14:739][114]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.47.16:013][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.47.16:029][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.25-11.47.16:084][254]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignCEF7507E4ACD0686328983809D5ACAAD.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.47.16:091][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.47.16:114][254]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataF5A7BBCD4B440CE16D2FCCABE5B4D81D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.47.16:125][254]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.47.16:125][254]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.47.16:125][254]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.47.25:579][371]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.47.25:628][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.25-11.47.26:191][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.47.26:202][430]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_ElevatorB4BE04B34EC8CF33FEC16E9AEE1DCD28.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.47.26:213][430]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.47.26:213][430]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.47.27:285][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.47.27:302][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.05.25-11.47.27:361][552]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign929F9B3940AE36B526D8E2B1D6635B67.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.47.27:369][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.47.27:392][552]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData96BE95BB425190303CC0038D52B97F3F.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.47.27:404][552]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.47.27:404][552]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.47.27:404][552]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.47.39:099][939]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.25-11.47.52:531][488]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.47.52:595][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.05.25-11.47.53:138][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.47.53:150][546]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_ElevatorD8FCBF3B47EB723616631DA55E1CBB07.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.47.53:161][546]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.47.53:161][546]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.47.54:343][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.47.54:360][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.25-11.47.54:415][676]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign71D7E78D4179EE3AE62993905A25E925.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.47.54:423][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.47.54:446][676]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData8F83474D484D1E48C7E6A6A6D0E264B6.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.47.54:457][676]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.47.54:457][676]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.47.54:457][676]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.48.01:401][484]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.48.01:439][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.05.25-11.48.01:858][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.48.01:869][525]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator7F91602D4C7B373982C007BFC85ED581.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.48.01:880][525]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.48.01:880][525]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.48.13:422][873]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.48.13:464][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.05.25-11.48.13:817][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.48.13:828][904]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator1DE3BD5F43D325D5AEAEECBCCC06A038.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.48.13:838][904]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.48.13:838][904]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.48.25:452][266]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.48.25:491][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.05.25-11.48.25:922][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.48.25:933][306]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_ElevatorFA59339C43662CAC6EF5F796F23A2E4F.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.48.25:944][306]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.48.25:944][306]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.48.27:405][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.48.27:422][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.25-11.48.27:476][466]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign7979AF7C4909C9BAB9FD5F94D4CED185.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.48.27:484][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.48.27:508][466]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataDD6134BC4629C44578A7D7AF84B61026.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.48.27:520][466]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.48.27:520][466]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.48.27:520][466]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.48.35:048][360]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.48.35:086][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.25-11.48.35:473][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.48.35:484][397]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator8B5BAD3243E41080D0F160A2BA0DAD18.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.48.35:495][397]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.48.35:495][397]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.48.42:595][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.48.42:611][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.05.25-11.48.42:668][208]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignC4861F3D4E74107CCD3FE5B5579C017F.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.48.42:675][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.48.42:699][208]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataFDCFF2C048B23A8A38D509989FB75C56.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.48.42:711][208]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.48.42:711][208]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.48.42:711][208]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.48.43:575][304]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-11.48.43:582][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-11.48.43:582][304]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 15:48:43)
+[2022.05.25-11.48.43:609][304]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.48.43:631][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022358s)
+[2022.05.25-11.48.43:632][304]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-11.48.43:632][304]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2022.05.25-11.48.43:632][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.023344s)
+[2022.05.25-11.48.43:648][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.25-11.48.43:649][304]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.25-11.48.43:649][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-11.48.43:649][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-11.48.43:649][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-11.48.43:649][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-11.48.43:649][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-11.48.43:649][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-11.48.43:649][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-11.48.43:649][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-11.48.43:649][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-11.48.43:649][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-11.48.43:649][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-11.48.43:649][304]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-11.48.43:652][304]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-11.48.43:652][304]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-11.48.43:661][304]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-11.48.43:661][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-11.48.43:662][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-11.48.43:662][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-11.48.43:662][304]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-11.48.43:662][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-11.48.43:662][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-11.48.43:663][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-11.48.43:663][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-11.48.43:663][304]LogInit: FAudioDevice initialized.
+[2022.05.25-11.48.43:663][304]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelDesign'.
+[2022.05.25-11.48.43:672][304]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-11.48.43:676][304]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-13.48.43
+[2022.05.25-11.48.43:676][304]LogWorld: Bringing up level for play took: 0.002190
+[2022.05.25-11.48.43:676][304]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.05.25-11.48.43:677][304]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-11.48.43:678][304]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-11.48.43:679][304]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-11.48.43:679][304]PIE: Server logged in
+[2022.05.25-11.48.43:679][304]PIE: Play in editor total start time 0,099 seconds.
+[2022.05.25-11.48.46:239][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.48.47:514][763]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.48.47:514][763]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.48.47:514][763]LogBlueprintUserMessages: [BP_Affiche_ID-2_2] Hello
+[2022.05.25-11.48.49:448][995]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.48.49:448][995]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.48.49:448][995]LogBlueprintUserMessages: [BP_Affiche_ID-4_2] Hello
+[2022.05.25-11.48.50:407][110]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.48.50:407][110]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.48.50:407][110]LogBlueprintUserMessages: [BP_Affiche_ID-1_3] Hello
+[2022.05.25-11.48.51:973][298]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.48.51:973][298]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.48.51:973][298]LogBlueprintUserMessages: [BP_Affiche_ID-0_2] Hello
+[2022.05.25-11.48.53:698][505]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.25-11.49.08:619][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.49.08:619][292]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.49.08:619][292]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-11.49.08:620][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.49.08:629][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-11.49.08:636][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.49.08:651][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.49.08:651][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.49.08:652][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.49.08:656][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.25-11.49.08:709][294]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.05.25-11.49.16:542][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.49.16:551][174]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_ElevatorC561328A467FCBE6369411A722147496.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.49.16:562][174]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.49.16:562][174]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.49.17:523][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.49.17:539][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.25-11.49.17:596][283]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignEE8B407C4E0F5B3AF72BE5A4F9295598.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.49.17:604][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.49.17:627][283]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataAD01E9EB46B6B8A4D562489C9C4E2840.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.49.17:637][283]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.49.17:637][283]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.49.17:637][283]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.49.21:012][658]MapCheck: New page: Map Check
+[2022.05.25-11.49.21:020][658]Cmd: MAP REBUILD ALLVISIBLE
+[2022.05.25-11.49.21:020][658]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.05.25-11.49.21:216][658]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=false
+[2022.05.25-11.49.21:260][658]LightingResults: New page: Lighting Build - 25 mai 2022 à 15:49:21
+[2022.05.25-11.49.21:287][658]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.25-11.49.21:319][658]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.25-11.49.21:327][658]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.25-11.49.21:833][658]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.25-11.49.21:833][658]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12656
+[2022.05.25-11.49.28:291][658]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.05.25-11.49.28:291][658]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.25-11.49.28:291][658]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.25-11.49.28:291][658]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.25-11.49.28:291][658]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.25-11.49.28:291][658]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.25-11.49.28:375][658]LogEditorBuildUtils: Build time 0:07
+[2022.05.25-11.49.28:391][658]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Table in PCD3D_SM5, Default, SM5 (DDC key hash: E11508E0E8D6E7A07085B215A755409805C3F872), compiling. 
+[2022.05.25-11.49.28:397][658]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:398][658]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Table in PCD3D_SM5, Default, SM5 (DDC key hash: CB646241225E3D643FCCF7BC90364BCA52210AC7), compiling. 
+[2022.05.25-11.49.28:400][658]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:401][658]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.05.25-11.49.28:401][658]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.05.25-11.49.28:401][658]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.05.25-11.49.28:401][658]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.05.25-11.49.28:401][658]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:401][658]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Table in PCD3D_SM5, Default, SM5 (DDC key hash: 6D2F18D54F379499071F18EDF53779EE8851FC2D), compiling. 
+[2022.05.25-11.49.28:403][658]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:445][659]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.05.25-11.49.28:445][659]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.05.25-11.49.28:445][659]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:447][659]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Television in PCD3D_SM5, Default, SM5 (DDC key hash: E582F02372704E598A60815ACCE17F17F24966A1), compiling. 
+[2022.05.25-11.49.28:451][659]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:452][659]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.05.25-11.49.28:452][659]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.05.25-11.49.28:452][659]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:452][659]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Television in PCD3D_SM5, Default, SM5 (DDC key hash: A8FB6EE32866D418F13B589A9D6B08E03C5511AD), compiling. 
+[2022.05.25-11.49.28:455][659]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:457][659]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Television in PCD3D_SM5, Default, SM5 (DDC key hash: 69BF14252CA2CF8B1620815461C639BE96F83FB2), compiling. 
+[2022.05.25-11.49.28:460][659]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:465][659]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.05.25-11.49.28:465][659]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.05.25-11.49.28:465][659]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.05.25-11.49.28:465][659]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.05.25-11.49.28:465][659]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:516][660]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material__231 in PCD3D_SM5, Default, SM5 (DDC key hash: 4DBD886F51B440DA6E0B4383846F99CAE673270D), compiling. 
+[2022.05.25-11.49.28:520][660]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.25-11.49.28:521][660]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material__231 in PCD3D_SM5, Default, SM5 (DDC key hash: F7A28BA1A0E0A19EFD0059DDAFCD28E20FE70A63), compiling. 
+[2022.05.25-11.49.28:525][660]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 5 distinct outputs (31.25%)
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.25-11.49.29:660][662]LogShaderCompilers: Display: ================================================
+[2022.05.25-11.49.29:984][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.05.25-11.49.34:145][975]Job is a success!
+[2022.05.25-11.49.34:297][976]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2022.05.25-11.49.34:297][976]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.05.25-11.49.34:297][976]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.6Mb due to 0.010000 MinBrickError)
+[2022.05.25-11.49.34:297][976]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.25-11.49.34:297][976]LogVolumetricLightmapImport:          0: 4.5% covering 100.0% of volume
+[2022.05.25-11.49.34:297][976]LogVolumetricLightmapImport:          1: 86.4% covering 29.7% of volume
+[2022.05.25-11.49.34:297][976]LogVolumetricLightmapImport:          2: 9.1% covering 0.0% of volume
+[2022.05.25-11.49.34:297][976]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.25-11.49.34:297][976]LogVolumetricLightmapImport:          LevelDesign 			 22 bricks 	 100.0% (Persistent Level)
+[2022.05.25-11.49.34:442][976]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.05.25-11.49.34:442][976]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.05.25-11.49.34:442][976]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.25-11.49.34:442][976]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2022.05.25-11.49.34:442][976]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.25-11.49.34:442][976]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2022.05.25-11.49.34:442][976]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X64)
+[2022.05.25-11.49.34:474][976]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X512)
+[2022.05.25-11.49.34:494][976]Lightmass on RNSS20902: 4.16 sec total, 110 ms importing, 10 ms setup, 342 ms photons, 3.66 sec processing, 0 ms extra exporting [570/570 mappings]. Threads: 54.9 sec total, 11.6 sec processing.
+[2022.05.25-11.49.34:496][976]LogStaticLightingSystem: LevelDesign_BuiltData storing lightmap data for 60 meshes in 4 LightmapResourceClusters (15.0 Meshes per cluster).
+[2022.05.25-11.49.34:517][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.05.25-11.49.34:601][976]LogStaticLightingSystem: Illumination: 13.2 sec (56 ms encoding lightmaps, 49 ms encoding shadowmaps)
+[2022.05.25-11.49.34:601][976]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 4 textures
+[2022.05.25-11.49.34:601][976]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.1 MB streaming, 1.3 MB non-streaming), 2 textures
+[2022.05.25-11.49.35:299][976]DumpUnbuiltLightIteractions
+[2022.05.25-11.49.35:299][976]Lights with unbuilt interactions: 0
+[2022.05.25-11.49.35:299][976]
+[2022.05.25-11.49.35:299][976]Primitives with unbuilt interactions: 0
+[2022.05.25-11.49.35:375][977]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.25-11.49.35:375][977]MapCheck: New page: LevelDesign - 25 mai 2022 à 15:49:35
+[2022.05.25-11.49.35:377][977]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,557ms to complete.
+[2022.05.25-11.49.39:352][447]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.25-11.49.42:649][789]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.25-11.49.49:083][503]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.49.49:130][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.05.25-11.49.49:818][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.49.49:830][577]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator5F1698204458221D54385D83FDE324D5.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.49.49:840][577]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.49.49:840][577]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.49.50:787][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.49.50:804][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.25-11.49.50:859][684]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign28DE07EC4025F075635FCEA944552D6A.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.49.50:867][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.49.50:892][684]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataC7C385A34B2AB030362EE0979267A8C3.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.49.50:904][684]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.49.50:904][684]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.49.50:904][684]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.49.53:319][951]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-11.49.53:325][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-11.49.53:325][951]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 15:49:53)
+[2022.05.25-11.49.53:349][951]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.49.53:371][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022314s)
+[2022.05.25-11.49.53:372][951]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-11.49.53:372][951]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2022.05.25-11.49.53:372][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.023233s)
+[2022.05.25-11.49.53:388][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.05.25-11.49.53:390][951]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.25-11.49.53:390][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-11.49.53:390][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-11.49.53:390][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-11.49.53:390][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-11.49.53:390][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-11.49.53:390][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-11.49.53:390][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-11.49.53:390][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-11.49.53:391][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-11.49.53:391][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-11.49.53:391][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-11.49.53:391][951]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-11.49.53:393][951]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-11.49.53:393][951]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-11.49.53:402][951]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-11.49.53:402][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-11.49.53:402][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-11.49.53:403][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-11.49.53:403][951]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-11.49.53:403][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-11.49.53:403][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-11.49.53:404][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-11.49.53:404][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-11.49.53:404][951]LogInit: FAudioDevice initialized.
+[2022.05.25-11.49.53:404][951]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelDesign'.
+[2022.05.25-11.49.53:413][951]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-11.49.53:416][951]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-13.49.53
+[2022.05.25-11.49.53:416][951]LogWorld: Bringing up level for play took: 0.001857
+[2022.05.25-11.49.53:416][951]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.05.25-11.49.53:417][951]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-11.49.53:418][951]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-11.49.53:418][951]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-11.49.53:418][951]PIE: Server logged in
+[2022.05.25-11.49.53:419][951]PIE: Play in editor total start time 0,096 seconds.
+[2022.05.25-11.49.54:646][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.49.55:587][210]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.49.55:587][210]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.49.55:587][210]LogBlueprintUserMessages: [BP_Affiche_ID-2_2] Hello
+[2022.05.25-11.49.57:487][438]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.49.57:487][438]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.49.57:487][438]LogBlueprintUserMessages: [BP_Affiche_ID-4_2] Hello
+[2022.05.25-11.49.58:238][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.49.58:238][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.49.58:238][528]LogBlueprintUserMessages: [BP_Affiche_ID-1_3] Hello
+[2022.05.25-11.49.59:621][694]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.49.59:621][694]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.49.59:621][694]LogBlueprintUserMessages: [BP_Affiche_ID-0_2] Hello
+[2022.05.25-11.50.01:448][911]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.25-11.50.21:741][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.50.21:741][340]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.50.21:742][340]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-11.50.21:743][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.50.21:752][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-11.50.21:762][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.50.21:777][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.50.21:777][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.50.21:778][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.50.21:783][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.25-11.50.21:809][341]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.25-11.50.30:773][376]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.50.30:812][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.05.25-11.50.31:216][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.50.31:227][417]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator35CF5B7F45A219E6D102FB8F4664550F.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.50.31:237][417]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.50.31:237][417]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.50.32:320][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.50.32:336][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.05.25-11.50.32:391][542]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignBDF2DAFC45E8F7DDDD068BA45F33848E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.50.32:398][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.50.32:421][542]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData4B5109694B5044BD96199B85742422E5.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.50.32:432][542]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.50.32:432][542]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.50.32:432][542]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.50.33:334][646]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-11.50.33:340][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-11.50.33:340][646]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 15:50:33)
+[2022.05.25-11.50.33:369][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.50.33:392][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022809s)
+[2022.05.25-11.50.33:392][646]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-11.50.33:392][646]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2022.05.25-11.50.33:393][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.023803s)
+[2022.05.25-11.50.33:409][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.25-11.50.33:410][646]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.25-11.50.33:410][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-11.50.33:410][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-11.50.33:410][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-11.50.33:410][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-11.50.33:410][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-11.50.33:410][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-11.50.33:410][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-11.50.33:410][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-11.50.33:411][646]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-11.50.33:411][646]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-11.50.33:411][646]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-11.50.33:411][646]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-11.50.33:413][646]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-11.50.33:413][646]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-11.50.33:422][646]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-11.50.33:422][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-11.50.33:422][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-11.50.33:422][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-11.50.33:422][646]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-11.50.33:423][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-11.50.33:423][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-11.50.33:424][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-11.50.33:424][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-11.50.33:424][646]LogInit: FAudioDevice initialized.
+[2022.05.25-11.50.33:424][646]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelDesign'.
+[2022.05.25-11.50.33:430][646]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-11.50.33:434][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-13.50.33
+[2022.05.25-11.50.33:434][646]LogWorld: Bringing up level for play took: 0.002314
+[2022.05.25-11.50.33:434][646]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.05.25-11.50.33:435][646]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-11.50.33:436][646]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-11.50.33:436][646]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-11.50.33:436][646]PIE: Server logged in
+[2022.05.25-11.50.33:437][646]PIE: Play in editor total start time 0,099 seconds.
+[2022.05.25-11.50.34:231][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.50.35:214][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.50.35:214][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.50.35:214][858]LogBlueprintUserMessages: [BP_Affiche_ID-2_2] Hello
+[2022.05.25-11.50.36:914][ 62]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.50.36:914][ 62]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.50.36:914][ 62]LogBlueprintUserMessages: [BP_Affiche_ID-4_2] Hello
+[2022.05.25-11.50.37:706][157]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.50.37:706][157]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.50.37:706][157]LogBlueprintUserMessages: [BP_Affiche_ID-1_3] Hello
+[2022.05.25-11.50.38:856][295]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.50.38:856][295]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.50.38:856][295]LogBlueprintUserMessages: [BP_Affiche_ID-0_2] Hello
+[2022.05.25-11.50.40:548][498]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.25-11.51.00:180][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.51.00:180][849]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.51.00:180][849]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-11.51.00:181][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.51.00:187][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-11.51.00:194][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.51.00:209][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.51.00:209][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.51.00:210][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.51.00:215][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.25-11.51.00:241][850]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.05.25-11.51.12:050][222]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.25-11.51.18:469][921]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.51.18:508][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.05.25-11.51.19:232][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.51.19:244][999]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator414BD9134F5A726BEEE1BBB3C1532C81.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.51.19:254][999]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.51.19:254][999]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.51.20:155][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.51.20:172][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.05.25-11.51.20:227][101]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignF3DCCB1C4F8C55660B1D1085DB866805.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.51.20:235][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.51.20:259][101]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataE9A8839B41970D97B203FA901E0D1AA7.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.51.20:270][101]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.51.20:270][101]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.51.20:270][101]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.51.20:753][151]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-11.51.20:759][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-11.51.20:759][151]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 15:51:20)
+[2022.05.25-11.51.20:798][151]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.51.20:825][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026690s)
+[2022.05.25-11.51.20:826][151]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-11.51.20:826][151]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2022.05.25-11.51.20:826][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.027619s)
+[2022.05.25-11.51.20:842][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.25-11.51.20:843][151]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.25-11.51.20:843][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-11.51.20:843][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-11.51.20:843][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-11.51.20:843][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-11.51.20:843][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-11.51.20:843][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-11.51.20:843][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-11.51.20:843][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-11.51.20:843][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-11.51.20:843][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-11.51.20:843][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-11.51.20:843][151]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-11.51.20:846][151]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-11.51.20:846][151]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-11.51.20:855][151]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-11.51.20:855][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-11.51.20:855][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-11.51.20:855][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-11.51.20:855][151]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-11.51.20:855][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-11.51.20:855][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-11.51.20:856][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-11.51.20:856][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-11.51.20:856][151]LogInit: FAudioDevice initialized.
+[2022.05.25-11.51.20:856][151]LogAudio: Display: Audio Device (ID: 6) registered with world 'LevelDesign'.
+[2022.05.25-11.51.20:862][151]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-11.51.20:865][151]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-13.51.20
+[2022.05.25-11.51.20:866][151]LogWorld: Bringing up level for play took: 0.001954
+[2022.05.25-11.51.20:866][151]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.05.25-11.51.20:867][151]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-11.51.20:868][151]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-11.51.20:868][151]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-11.51.20:868][151]PIE: Server logged in
+[2022.05.25-11.51.20:869][151]PIE: Play in editor total start time 0,111 seconds.
+[2022.05.25-11.51.21:869][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.51.22:836][386]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.51.22:836][386]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.51.22:836][386]LogBlueprintUserMessages: [BP_Affiche_ID-2_2] Hello
+[2022.05.25-11.51.24:436][578]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.51.24:436][578]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.51.24:436][578]LogBlueprintUserMessages: [BP_Affiche_ID-4_2] Hello
+[2022.05.25-11.51.25:244][675]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.51.25:244][675]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.51.25:244][675]LogBlueprintUserMessages: [BP_Affiche_ID-1_3] Hello
+[2022.05.25-11.51.26:302][802]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.51.26:303][802]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.51.26:303][802]LogBlueprintUserMessages: [BP_Affiche_ID-0_2] Hello
+[2022.05.25-11.51.27:903][994]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.25-11.51.45:691][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.51.45:691][121]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.51.45:691][121]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-11.51.45:692][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.51.45:703][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-11.51.45:710][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.51.45:725][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.51.45:726][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.51.45:727][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.51.45:732][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.05.25-11.51.45:757][122]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.05.25-11.51.51:788][826]LogEditorTransaction: Undo Modify Component Location
+[2022.05.25-11.51.56:780][362]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.51.56:818][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.25-11.51.57:162][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.51.57:174][395]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_ElevatorC9088EF543413618987C8087AFAE3137.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.51.57:184][395]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.51.57:184][395]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.51.58:234][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.51.58:251][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.05.25-11.51.58:305][515]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignE8DB49AE4C66815D9D57F19BC9E1A057.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.51.58:313][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.51.58:336][515]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataA91A752E4910274779FA3E812EF5FD83.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.51.58:350][515]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.51.58:350][515]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.51.58:350][515]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.52.10:193][903]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.52.10:231][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.25-11.52.12:317][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.52.12:328][128]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator40E2390A46EEC5642E48D48782D11A7C.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.52.12:339][128]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.52.12:339][128]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.52.13:424][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.52.13:441][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.05.25-11.52.13:496][254]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign52EC55E3408CDD53893939BCD6582DD0.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.52.13:504][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.52.13:527][254]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData9F511E6B4EBBDFEA94A01CAAF95E5565.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.52.13:542][254]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.52.13:542][254]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.52.13:542][254]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.52.22:978][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.52.22:987][357]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator793669374CA17C5FE3ECE6A28EA30DEE.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.52.22:996][357]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.52.22:996][357]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.52.23:994][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.52.24:010][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.05.25-11.52.24:066][468]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign0B8B901C45A75404514E9C80BE42795D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.52.24:074][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.52.24:097][468]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData0961BC7C40202BD8F6923E881D02D6C4.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.52.24:107][468]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.52.24:107][468]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.52.24:107][468]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.52.31:459][325]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.52.31:497][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.05.25-11.52.34:979][726]BlueprintLog: New page: Compile BP_Elevator
+[2022.05.25-11.52.35:019][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.05.25-11.52.35:694][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Enigme/1-Deni/BP_Elevator" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset" SILENT=true
+[2022.05.25-11.52.35:705][797]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_Elevator4CB66DB64B8E6475FA4972B48CD458C6.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/BP/Enigme/1-Deni/BP_Elevator.uasset'
+[2022.05.25-11.52.35:718][797]AssetCheck: New page: Asset Save: BP_Elevator
+[2022.05.25-11.52.35:718][797]LogContentValidation: Display: Validating Blueprint /Game/BP/Enigme/1-Deni/BP_Elevator.BP_Elevator
+[2022.05.25-11.52.36:581][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.52.36:598][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.25-11.52.36:653][896]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign81BC81AD40A9F3F1584F2BBDF0AFDB2F.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.52.36:661][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.52.36:683][896]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataCAD243284D1C209CFA453686A7A2D9EE.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.52.36:695][896]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.52.36:695][896]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.52.36:695][896]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-11.52.39:338][200]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-11.52.39:345][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-11.52.39:345][200]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 15:52:39)
+[2022.05.25-11.52.39:369][200]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.52.39:392][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022389s)
+[2022.05.25-11.52.39:392][200]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-11.52.39:392][200]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2022.05.25-11.52.39:392][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.023369s)
+[2022.05.25-11.52.39:409][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.05.25-11.52.39:411][200]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.25-11.52.39:411][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-11.52.39:411][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-11.52.39:411][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-11.52.39:411][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-11.52.39:411][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-11.52.39:411][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-11.52.39:411][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-11.52.39:411][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-11.52.39:411][200]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-11.52.39:411][200]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-11.52.39:411][200]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-11.52.39:411][200]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-11.52.39:414][200]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-11.52.39:414][200]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-11.52.39:423][200]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-11.52.39:423][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-11.52.39:423][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-11.52.39:423][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-11.52.39:423][200]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-11.52.39:423][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-11.52.39:423][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-11.52.39:424][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-11.52.39:424][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-11.52.39:424][200]LogInit: FAudioDevice initialized.
+[2022.05.25-11.52.39:424][200]LogAudio: Display: Audio Device (ID: 7) registered with world 'LevelDesign'.
+[2022.05.25-11.52.39:429][200]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-11.52.39:432][200]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-13.52.39
+[2022.05.25-11.52.39:432][200]LogWorld: Bringing up level for play took: 0.002288
+[2022.05.25-11.52.39:432][200]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.05.25-11.52.39:433][200]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-11.52.39:435][200]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-11.52.39:435][200]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-11.52.39:435][200]PIE: Server logged in
+[2022.05.25-11.52.39:435][200]PIE: Play in editor total start time 0,092 seconds.
+[2022.05.25-11.52.40:528][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.52.41:636][463]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.52.41:636][463]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.52.41:636][463]LogBlueprintUserMessages: [BP_Affiche_ID-2_2] Hello
+[2022.05.25-11.52.43:344][668]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.52.43:344][668]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.52.43:344][668]LogBlueprintUserMessages: [BP_Affiche_ID-4_2] Hello
+[2022.05.25-11.52.43:970][743]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.52.43:970][743]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.52.43:970][743]LogBlueprintUserMessages: [BP_Affiche_ID-1_3] Hello
+[2022.05.25-11.52.45:028][870]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-11.52.45:028][870]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-11.52.45:028][870]LogBlueprintUserMessages: [BP_Affiche_ID-0_2] Hello
+[2022.05.25-11.52.46:736][ 75]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.25-11.54.27:950][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.54.27:950][214]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-11.54.27:950][214]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-11.54.27:951][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.54.27:957][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-11.54.27:964][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-11.54.27:981][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-11.54.27:981][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.54.27:982][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-11.54.27:987][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.05.25-11.54.28:039][216]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.25-11.54.29:091][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-11.54.29:107][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.05.25-11.54.29:161][338]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignEF1734144A5CAE2BB75AC298CB0B226D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-11.54.29:169][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-11.54.29:193][338]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData26256F4D4716F9085BB571A9D7BC056D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-11.54.29:206][338]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-11.54.29:206][338]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-11.54.29:206][338]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
