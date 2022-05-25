@@ -2140,3 +2140,1363 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.25-08.16.31:202][716]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
 [2022.05.25-08.16.32:420][745]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 125
 [2022.05.25-08.16.32:420][745]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.35:238][802]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 115
+[2022.05.25-08.16.35:238][802]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.37:015][840]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 105
+[2022.05.25-08.16.37:015][840]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.37:285][845]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 96
+[2022.05.25-08.16.37:285][845]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.37:658][853]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 87
+[2022.05.25-08.16.37:658][853]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.38:076][861]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 79
+[2022.05.25-08.16.38:076][861]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.38:361][866]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 72
+[2022.05.25-08.16.38:361][866]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.38:361][866]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 65
+[2022.05.25-08.16.38:361][866]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.38:837][874]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 59
+[2022.05.25-08.16.38:837][874]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.38:965][876]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 54
+[2022.05.25-08.16.38:965][876]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.39:011][877]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 49
+[2022.05.25-08.16.39:011][877]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.39:860][891]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 44
+[2022.05.25-08.16.39:860][891]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.41:301][918]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 40
+[2022.05.25-08.16.41:302][918]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.43:255][954]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 36
+[2022.05.25-08.16.43:256][954]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.43:311][955]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 32
+[2022.05.25-08.16.43:312][955]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.43:501][959]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 29
+[2022.05.25-08.16.43:501][959]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.43:502][959]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2022.05.25-08.16.43:502][959]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.43:604][961]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2022.05.25-08.16.43:604][961]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.44:044][969]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2022.05.25-08.16.44:044][969]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.44:192][972]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2022.05.25-08.16.44:192][972]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.44:630][983]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2022.05.25-08.16.44:630][983]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.45:023][993]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2022.05.25-08.16.45:024][993]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.45:532][  6]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2022.05.25-08.16.45:532][  6]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.45:712][ 11]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.05.25-08.16.45:712][ 11]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:019][ 19]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2022.05.25-08.16.46:019][ 19]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:019][ 19]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2022.05.25-08.16.46:019][ 19]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:069][ 20]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.05.25-08.16.46:070][ 20]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:113][ 21]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2022.05.25-08.16.46:113][ 21]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:290][ 25]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.05.25-08.16.46:290][ 25]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:334][ 26]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2022.05.25-08.16.46:334][ 26]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:378][ 27]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2022.05.25-08.16.46:378][ 27]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:568][ 32]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2022.05.25-08.16.46:568][ 32]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:647][ 34]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.05.25-08.16.46:647][ 34]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.16.46:918][ 41]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.05.25-08.16.46:918][ 41]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.25-08.17.06:575][926]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.17.06:581][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.17.06:581][926]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:17:06)
+[2022.05.25-08.17.06:581][926]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.17.06:607][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025110s)
+[2022.05.25-08.17.06:607][926]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.17.06:607][926]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2022.05.25-08.17.06:607][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.026029s)
+[2022.05.25-08.17.06:673][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.05.25-08.17.06:679][926]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.25-08.17.06:679][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.17.06:679][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.17.06:679][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.17.06:679][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.17.06:679][926]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.17.06:679][926]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.17.06:679][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.17.06:679][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.17.06:679][926]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.17.06:679][926]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.17.06:679][926]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.17.06:679][926]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.17.06:682][926]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.17.06:682][926]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.17.06:691][926]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.17.06:691][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.17.06:691][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.17.06:691][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.17.06:692][926]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.17.06:692][926]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.17.06:692][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.17.06:693][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.17.06:693][926]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.17.06:693][926]LogInit: FAudioDevice initialized.
+[2022.05.25-08.17.06:693][926]LogAudio: Display: Audio Device (ID: 10) registered with world 'LevelDesign'.
+[2022.05.25-08.17.06:697][926]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.17.06:700][926]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.17.06
+[2022.05.25-08.17.06:700][926]LogWorld: Bringing up level for play took: 0.001821
+[2022.05.25-08.17.06:700][926]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.05.25-08.17.06:701][926]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.17.06:703][926]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.17.06:703][926]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.17.06:703][926]PIE: Server logged in
+[2022.05.25-08.17.06:703][926]PIE: Play in editor total start time 0,123 seconds.
+[2022.05.25-08.17.08:192][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.17.08:193][100]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.17.08:193][100]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.17.08:193][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.17.08:198][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.17.08:211][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.17.08:243][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.17.08:245][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.17.08:246][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.17.08:268][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.25-08.17.08:295][101]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.05.25-08.17.12:953][616]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (AmbientSound)
+[2022.05.25-08.17.16:663][994]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.17.16:670][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.17.16:670][994]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:17:16)
+[2022.05.25-08.17.16:711][994]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.17.16:734][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022225s)
+[2022.05.25-08.17.16:734][994]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.17.16:735][994]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2022.05.25-08.17.16:735][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.023148s)
+[2022.05.25-08.17.16:761][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.25-08.17.16:766][994]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.25-08.17.16:766][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.17.16:766][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.17.16:766][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.17.16:766][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.17.16:766][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.17.16:766][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.17.16:766][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.17.16:766][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.17.16:767][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.17.16:767][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.17.16:767][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.17.16:767][994]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.17.16:768][994]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.17.16:768][994]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.17.16:777][994]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.17.16:777][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.17.16:777][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.17.16:777][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.17.16:778][994]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.17.16:778][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.17.16:778][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.17.16:778][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.17.16:779][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.17.16:779][994]LogInit: FAudioDevice initialized.
+[2022.05.25-08.17.16:779][994]LogAudio: Display: Audio Device (ID: 11) registered with world 'LevelDesign'.
+[2022.05.25-08.17.16:786][994]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.17.16:789][994]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.17.16
+[2022.05.25-08.17.16:789][994]LogWorld: Bringing up level for play took: 0.002213
+[2022.05.25-08.17.16:789][994]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.05.25-08.17.16:790][994]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.17.16:791][994]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.17.16:792][994]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.17.16:792][994]PIE: Server logged in
+[2022.05.25-08.17.16:792][994]PIE: Play in editor total start time 0,124 seconds.
+[2022.05.25-08.17.21:662][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.17.23:282][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.17.23:282][768]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.17.23:282][768]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.17.23:282][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.17.23:287][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.17.23:307][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.17.23:331][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.17.23:332][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.17.23:333][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.17.23:338][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.05.25-08.17.23:370][769]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.05.25-08.17.28:320][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-08.17.28:348][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.05.25-08.17.28:406][320]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignBFCBAA234A69DF99A62C76B581A6D6A4.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-08.17.28:413][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-08.17.28:437][320]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData7D89FBEE43F9C3F7CF38E7B39A80712D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-08.17.28:449][320]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-08.17.28:449][320]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-08.17.28:449][320]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-08.17.29:126][392]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.17.29:132][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.17.29:132][392]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:17:29)
+[2022.05.25-08.17.29:161][392]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.17.29:185][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023816s)
+[2022.05.25-08.17.29:186][392]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.17.29:186][392]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2022.05.25-08.17.29:186][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.024733s)
+[2022.05.25-08.17.29:212][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.05.25-08.17.29:213][392]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.25-08.17.29:213][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.17.29:213][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.17.29:213][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.17.29:213][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.17.29:213][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.17.29:213][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.17.29:213][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.17.29:213][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.17.29:213][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.17.29:213][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.17.29:213][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.17.29:213][392]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.17.29:216][392]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.17.29:216][392]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.17.29:224][392]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.17.29:224][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.17.29:224][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.17.29:224][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.17.29:225][392]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.17.29:225][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.17.29:225][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.17.29:226][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.17.29:226][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.17.29:226][392]LogInit: FAudioDevice initialized.
+[2022.05.25-08.17.29:226][392]LogAudio: Display: Audio Device (ID: 12) registered with world 'LevelDesign'.
+[2022.05.25-08.17.29:231][392]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.17.29:234][392]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.17.29
+[2022.05.25-08.17.29:234][392]LogWorld: Bringing up level for play took: 0.002144
+[2022.05.25-08.17.29:234][392]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.05.25-08.17.29:235][392]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.17.29:237][392]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.17.29:237][392]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.17.29:237][392]PIE: Server logged in
+[2022.05.25-08.17.29:238][392]PIE: Play in editor total start time 0,107 seconds.
+[2022.05.25-08.17.30:908][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.17.33:658][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.17.36:841][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.17.36:841][300]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.17.36:842][300]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.17.36:842][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.17.36:847][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.17.36:866][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.17.36:890][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.17.36:891][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.17.36:892][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.17.36:897][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.25-08.17.36:928][301]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.05.25-08.18.05:104][623]BlueprintLog: New page: Compile Menu
+[2022.05.25-08.18.05:137][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.05.25-08.18.05:700][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Menu.uasset" SILENT=true
+[2022.05.25-08.18.05:708][685]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/MenuCA5A0B684E30F7D48574E7A15928BD49.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Menu.uasset'
+[2022.05.25-08.18.05:719][685]AssetCheck: New page: Asset Save: Menu
+[2022.05.25-08.18.05:719][685]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Menu.Menu
+[2022.05.25-08.18.07:006][817]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.18.07:013][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.18.07:013][817]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:18:07)
+[2022.05.25-08.18.07:013][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.18.07:034][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020865s)
+[2022.05.25-08.18.07:035][817]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.18.07:035][817]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2022.05.25-08.18.07:035][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.021718s)
+[2022.05.25-08.18.07:065][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.05.25-08.18.07:066][817]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.05.25-08.18.07:066][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.18.07:066][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.18.07:066][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.18.07:066][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.18.07:066][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.18.07:066][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.18.07:066][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.18.07:066][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.18.07:066][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.18.07:066][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.18.07:066][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.18.07:066][817]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.18.07:068][817]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.18.07:068][817]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.18.07:077][817]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.18.07:077][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.18.07:077][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.18.07:077][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.18.07:078][817]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.18.07:078][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.18.07:078][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.18.07:079][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.18.07:079][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.18.07:079][817]LogInit: FAudioDevice initialized.
+[2022.05.25-08.18.07:079][817]LogAudio: Display: Audio Device (ID: 13) registered with world 'LevelDesign'.
+[2022.05.25-08.18.07:088][817]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.18.07:091][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.18.07
+[2022.05.25-08.18.07:091][817]LogWorld: Bringing up level for play took: 0.001962
+[2022.05.25-08.18.07:091][817]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.05.25-08.18.07:092][817]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.18.07:094][817]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.18.07:094][817]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.18.07:094][817]PIE: Server logged in
+[2022.05.25-08.18.07:095][817]PIE: Play in editor total start time 0,083 seconds.
+[2022.05.25-08.18.07:870][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.18.13:088][535]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-08.18.13:088][535]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-08.18.13:088][535]LogBlueprintUserMessages: [BP_Affiche_ID-2_2] Hello
+[2022.05.25-08.18.14:664][724]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-08.18.14:665][724]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-08.18.14:665][724]LogBlueprintUserMessages: [BP_Affiche_ID-4_2] Hello
+[2022.05.25-08.18.15:540][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-08.18.15:540][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-08.18.15:540][829]LogBlueprintUserMessages: [BP_Affiche_ID-1_3] Hello
+[2022.05.25-08.18.16:981][  2]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-08.18.16:981][  2]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-08.18.16:981][  2]LogBlueprintUserMessages: [BP_Affiche_ID-0_2] Hello
+[2022.05.25-08.18.18:766][216]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.25-08.18.39:572][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.18.39:572][707]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.18.39:572][707]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.18.39:572][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.39:578][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.18.39:598][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.39:624][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.18.39:625][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.18.39:626][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.18.39:628][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.18.39:631][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.05.25-08.18.39:667][708]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.05.25-08.18.40:754][829]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.18.40:760][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.18.40:760][829]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:18:40)
+[2022.05.25-08.18.40:780][829]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.18.40:802][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021292s)
+[2022.05.25-08.18.40:802][829]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.18.40:802][829]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2022.05.25-08.18.40:802][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.022140s)
+[2022.05.25-08.18.40:829][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.05.25-08.18.40:830][829]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.05.25-08.18.40:830][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.18.40:830][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.18.40:830][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.18.40:830][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.18.40:830][829]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.18.40:830][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.18.40:830][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.18.40:830][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.18.40:830][829]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.18.40:830][829]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.18.40:830][829]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.18.40:830][829]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.18.40:833][829]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.18.40:833][829]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.18.40:841][829]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.18.40:841][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.18.40:841][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.18.40:841][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.18.40:842][829]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.18.40:842][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.18.40:842][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.18.40:843][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.18.40:843][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.18.40:843][829]LogInit: FAudioDevice initialized.
+[2022.05.25-08.18.40:843][829]LogAudio: Display: Audio Device (ID: 14) registered with world 'LevelDesign'.
+[2022.05.25-08.18.40:847][829]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.18.40:850][829]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.18.40
+[2022.05.25-08.18.40:850][829]LogWorld: Bringing up level for play took: 0.002953
+[2022.05.25-08.18.40:851][829]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.05.25-08.18.40:852][829]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.18.40:853][829]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.18.40:853][829]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.18.40:853][829]PIE: Server logged in
+[2022.05.25-08.18.40:854][829]PIE: Play in editor total start time 0,094 seconds.
+[2022.05.25-08.18.42:545][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.18.45:261][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.18.45:261][353]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.18.45:261][353]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.18.45:262][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.45:268][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.18.45:287][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.45:312][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.18.45:312][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.18.45:313][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.18.45:319][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.25-08.18.45:350][354]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.05.25-08.18.46:998][542]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.18.46:998][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.47:006][542]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.18.47:006][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.48:101][667]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.18.48:101][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.48:109][667]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.18.48:109][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.48:931][758]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.18.48:931][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.48:942][758]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.18.48:942][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.18.50:321][914]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.18.50:321][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.19.04:685][583]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.05.25-08.19.04:696][583]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.05.25-08.19.14:994][819]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> OptionsWidget
+[2022.05.25-08.19.14:997][819]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.05.25-08.19.18:059][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.19.18:062][160]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetDD067A1146C1D841B6915787F9B2E9D2.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.19.18:072][160]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.19.18:072][160]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.19.19:894][375]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.19.24:427][789]LogSlate: Window 'OptionsWidget' being destroyed
+[2022.05.25-08.21.14:457][833]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.21.14:522][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.05.25-08.21.15:005][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.21.15:008][879]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget06FE93C44BDF9FD4BB87668B296AB076.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.21.15:019][879]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.21.15:019][879]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.21.24:014][933]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.21.24:061][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.05.25-08.21.24:753][998]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.21.24:759][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.21.24:759][998]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:21:24)
+[2022.05.25-08.21.24:759][998]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.21.24:781][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021672s)
+[2022.05.25-08.21.24:781][998]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.21.24:781][998]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2022.05.25-08.21.24:782][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.022620s)
+[2022.05.25-08.21.24:801][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.05.25-08.21.24:801][998]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.05.25-08.21.24:801][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.21.24:801][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.21.24:801][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.21.24:801][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.21.24:801][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.21.24:801][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.21.24:801][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.21.24:801][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.21.24:801][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.21.24:802][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.21.24:802][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.21.24:802][998]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.21.24:804][998]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.21.24:804][998]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.21.24:813][998]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.21.24:813][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.21.24:813][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.21.24:813][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.21.24:813][998]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.21.24:813][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.21.24:813][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.21.24:815][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.21.24:815][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.21.24:815][998]LogInit: FAudioDevice initialized.
+[2022.05.25-08.21.24:815][998]LogAudio: Display: Audio Device (ID: 15) registered with world 'LevelDesign'.
+[2022.05.25-08.21.24:858][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.21.24:858][998]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.21.24:863][998]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.21.24
+[2022.05.25-08.21.24:863][998]LogWorld: Bringing up level for play took: 0.002951
+[2022.05.25-08.21.24:863][998]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.05.25-08.21.24:865][998]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.21.24:866][998]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.21.24:866][998]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.21.24:867][998]PIE: Server logged in
+[2022.05.25-08.21.24:868][998]PIE: Play in editor total start time 0,109 seconds.
+[2022.05.25-08.21.24:888][999]LogRenderer: Reallocating scene render targets to support 2268x1080 Format 10 NumSamples 1 (Frame:1).
+[2022.05.25-08.21.27:630][308]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.25-08.21.27:636][308]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.21.27:671][308]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.21.27:672][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.21.27:677][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.21.27:697][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.21.27:716][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.21.27:716][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.21.27:717][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.21.27:722][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.25-08.21.27:734][309]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.05.25-08.21.50:213][612]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.05.25-08.21.55:465][ 90]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.05.25-08.22.15:215][285]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.22.15:239][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.05.25-08.22.15:960][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.22.15:964][360]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetBF666F5E486DAEEF91EDCC89ACEB5E48.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.22.15:974][360]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.22.15:975][360]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.22.31:818][233]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.22.31:853][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.05.25-08.22.32:667][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.22.32:671][324]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetD55A416E48CC59CEE44A0AAB286A5146.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.22.32:684][324]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.22.32:684][324]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.22.39:346][ 87]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.22.39:379][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.05.25-08.22.39:786][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.22.39:791][131]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetC9B9D1904BEF982DCD1B8EAE69810814.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.22.39:803][131]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.22.39:803][131]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.23.13:469][ 34]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.25-08.23.13:473][ 34]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_244 has an invalid curve.  Please fix!
+[2022.05.25-08.23.13:539][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.05.25-08.23.14:169][ 82]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterF86A1D0F460A52D64ACC34862D9E664C.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.25-08.23.14:186][ 82]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.25-08.23.14:186][ 82]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.25-08.23.18:837][592]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.25-08.23.18:841][592]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_264 has an invalid curve.  Please fix!
+[2022.05.25-08.23.18:908][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.05.25-08.23.19:732][663]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter76C1D58B46964ECA414FA3B91E42DD9D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.25-08.23.19:746][663]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.25-08.23.19:746][663]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.25-08.23.57:083][  8]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.23.57:085][  8]LogBlueprint: Warning: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\UI\OptionsWidget.uasset: [Compiler] 'BP First Person Character' does not inherit from 'Player Controller' ( Cast To BP_FirstPersonCharacter  would always fail).
+[2022.05.25-08.23.57:111][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.05.25-08.23.58:198][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.23.58:203][134]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget541FA4EC40E6F0D9653DCDA618D68E96.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.23.58:214][134]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.23.58:214][134]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.24.11:458][660]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.24.11:494][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.05.25-08.24.12:068][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.24.12:074][723]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget8F94BFF94C2F686A70DE8B9D41B320E0.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.24.12:085][723]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.24.12:085][723]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.24.14:274][961]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.24.14:280][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.24.14:280][961]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:24:14)
+[2022.05.25-08.24.14:310][961]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.24.14:333][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023444s)
+[2022.05.25-08.24.14:334][961]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.24.14:334][961]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2022.05.25-08.24.14:334][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.024401s)
+[2022.05.25-08.24.14:357][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.05.25-08.24.14:358][961]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.05.25-08.24.14:358][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.24.14:358][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.24.14:358][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.24.14:358][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.24.14:358][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.24.14:358][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.24.14:358][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.24.14:358][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.24.14:358][961]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.24.14:358][961]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.24.14:358][961]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.24.14:359][961]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.24.14:361][961]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.24.14:361][961]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.24.14:370][961]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.24.14:370][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.24.14:370][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.24.14:370][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.24.14:371][961]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.24.14:371][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.24.14:371][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.24.14:372][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.24.14:372][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.24.14:372][961]LogInit: FAudioDevice initialized.
+[2022.05.25-08.24.14:372][961]LogAudio: Display: Audio Device (ID: 16) registered with world 'LevelDesign'.
+[2022.05.25-08.24.14:376][961]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.24.14:379][961]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.24.14
+[2022.05.25-08.24.14:379][961]LogWorld: Bringing up level for play took: 0.001855
+[2022.05.25-08.24.14:379][961]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.05.25-08.24.14:380][961]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.24.14:381][961]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.24.14:382][961]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.24.14:382][961]PIE: Server logged in
+[2022.05.25-08.24.14:382][961]PIE: Play in editor total start time 0,103 seconds.
+[2022.05.25-08.24.16:062][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.24.16:062][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.24.16:062][154]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.24.16:063][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.24.16:074][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.24.16:094][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.24.16:113][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.24.16:114][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.24.16:115][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.24.16:117][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.24.16:120][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.05.25-08.24.16:146][155]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.05.25-08.24.18:121][371]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Menu.Menu
+[2022.05.25-08.24.42:333][199]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.25-08.24.42:346][199]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.25-08.24.46:563][686]BlueprintLog: New page: Compile Menu
+[2022.05.25-08.24.46:590][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.05.25-08.24.47:566][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Menu.uasset" SILENT=true
+[2022.05.25-08.24.47:575][797]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/MenuF4E910524B612AC676CE74875162A485.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/Menu.uasset'
+[2022.05.25-08.24.47:589][797]AssetCheck: New page: Asset Save: Menu
+[2022.05.25-08.24.47:589][797]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Menu.Menu
+[2022.05.25-08.25.08:356][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.25.08:361][193]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget5399A51042347A0CD7939BA99F4E26E2.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.25.08:371][193]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.25.08:371][193]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.25.09:407][306]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/CreditWidget.CreditWidget
+[2022.05.25-08.25.22:915][877]BlueprintLog: New page: Compile CreditWidget
+[2022.05.25-08.25.22:947][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.05.25-08.25.23:544][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreditWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/CreditWidget.uasset" SILENT=true
+[2022.05.25-08.25.23:549][939]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/CreditWidgetDCD9F764451F6B1525CF3BBBF3DA0DAA.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/CreditWidget.uasset'
+[2022.05.25-08.25.23:558][939]AssetCheck: New page: Asset Save: CreditWidget
+[2022.05.25-08.25.23:558][939]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/CreditWidget.CreditWidget
+[2022.05.25-08.26.00:921][400]BlueprintLog: New page: Compile CreditWidget
+[2022.05.25-08.26.00:961][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.05.25-08.26.05:078][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreditWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/CreditWidget.uasset" SILENT=true
+[2022.05.25-08.26.05:083][854]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/CreditWidgetFB26731A4C88EA2F94D7DF80AF3CDE0D.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/CreditWidget.uasset'
+[2022.05.25-08.26.05:092][854]AssetCheck: New page: Asset Save: CreditWidget
+[2022.05.25-08.26.05:092][854]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/CreditWidget.CreditWidget
+[2022.05.25-08.26.41:570][ 81]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.26.41:599][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.05.25-08.26.42:210][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.26.42:216][141]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetEA914F104ECF513C10CA6697EFDFD0C7.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.26.42:230][141]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.26.42:230][141]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.26.51:777][263]BlueprintLog: New page: Compile CreditWidget
+[2022.05.25-08.26.51:807][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.05.25-08.27.12:839][745]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.27.12:867][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.05.25-08.27.13:603][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.27.13:609][821]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget7C25A8DA4AA4A46C7B7B94B9437620A0.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.27.13:620][821]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.27.13:620][821]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.27.19:152][444]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-08.27.30:539][804]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.27.30:584][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.05.25-08.27.31:275][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.27.31:281][879]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetEA88185B4CC1C3A7B5E621A275AB69D7.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.27.31:292][879]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.27.31:292][879]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.27.57:780][979]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.27.57:822][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.05.25-08.27.58:302][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.27.58:307][ 32]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetC6A8444E464DBA7B3AAE38AE3254817A.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.27.58:316][ 32]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.27.58:316][ 32]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.28.04:333][733]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.28.04:373][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.05.25-08.28.04:823][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.28.04:829][781]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetF69BC53B4D00A619AD96E4B5CAC6EE05.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.28.04:838][781]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.28.04:838][781]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.28.23:898][ 37]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.28.23:942][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.05.25-08.28.24:595][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.28.24:602][107]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget5BFD165846418E661F8993AE19467D09.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.28.24:613][107]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.28.24:613][107]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.28.35:139][351]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.28.35:180][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.25-08.28.35:799][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.28.35:806][420]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget3AA3F7B842122873C93E549DE1817091.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.28.35:817][420]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.28.35:817][420]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.28.39:965][905]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.28.40:008][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.05.25-08.28.40:469][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.28.40:475][955]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetC65BFEF24E7177BE6556678293DA7E20.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.28.40:490][955]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.28.40:490][955]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.29.12:153][678]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.05.25-08.29.12:153][678]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] A function can only be converted if it does not have any output parameters.
+[2022.05.25-08.29.12:153][678]BlueprintLog: New page: Convert Event to Function
+[2022.05.25-08.29.12:153][678]BlueprintLog: Error: A function can only be converted if it does not have any output parameters.
+[2022.05.25-08.29.33:232][111]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.29.33:275][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.05.25-08.29.33:971][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.29.33:978][190]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget2F746E0047165F82B1E80BBA0FE23B1A.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.29.33:989][190]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.29.33:989][190]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.29.53:966][533]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.29.53:973][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.29.53:974][533]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:29:53)
+[2022.05.25-08.29.53:974][533]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.29.53:995][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020976s)
+[2022.05.25-08.29.53:995][533]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.29.53:995][533]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2022.05.25-08.29.53:995][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.021897s)
+[2022.05.25-08.29.54:022][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.05.25-08.29.54:023][533]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.05.25-08.29.54:023][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.29.54:023][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.29.54:023][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.29.54:023][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.29.54:023][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.29.54:023][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.29.54:023][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.29.54:023][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.29.54:024][533]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.29.54:024][533]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.29.54:024][533]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.29.54:024][533]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.29.54:026][533]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.29.54:026][533]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.29.54:035][533]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.29.54:035][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.29.54:035][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.29.54:035][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.29.54:036][533]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.29.54:036][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.29.54:036][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.29.54:036][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.29.54:036][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.29.54:036][533]LogInit: FAudioDevice initialized.
+[2022.05.25-08.29.54:036][533]LogAudio: Display: Audio Device (ID: 17) registered with world 'LevelDesign'.
+[2022.05.25-08.29.54:078][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.29.54:078][533]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.29.54:081][533]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.29.54
+[2022.05.25-08.29.54:082][533]LogWorld: Bringing up level for play took: 0.002545
+[2022.05.25-08.29.54:082][533]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.05.25-08.29.54:083][533]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.29.54:085][533]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.29.54:085][533]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.29.54:086][533]PIE: Server logged in
+[2022.05.25-08.29.54:086][533]PIE: Play in editor total start time 0,115 seconds.
+[2022.05.25-08.29.56:436][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.30.01:478][398]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.25-08.30.01:485][398]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.30.01:520][398]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.30.01:521][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.30.01:532][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.30.01:553][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.30.01:575][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.30.01:576][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.30.01:577][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.30.01:581][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.05.25-08.30.01:597][399]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.05.25-08.30.03:798][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreditWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/CreditWidget.uasset" SILENT=true
+[2022.05.25-08.30.03:805][650]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/CreditWidgetAF5A363D41E239981FBDF79DF6271529.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/CreditWidget.uasset'
+[2022.05.25-08.30.03:819][650]AssetCheck: New page: Asset Save: CreditWidget
+[2022.05.25-08.30.03:819][650]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/CreditWidget.CreditWidget
+[2022.05.25-08.30.56:663][831]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.30.56:697][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.05.25-08.30.57:153][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.30.57:161][879]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetF45491B94BC055B8C72ACFA4E4B1EC6C.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.30.57:175][879]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.30.57:175][879]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.31.32:404][979]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-08.31.38:371][681]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-08.31.42:505][157]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.31.42:548][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.05.25-08.31.43:454][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.31.43:462][259]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetFAAAB0C74D70D40521E6268EBC0657A2.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.31.43:475][259]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.31.43:475][259]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.31.46:498][616]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.31.46:504][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.31.46:504][616]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:31:46)
+[2022.05.25-08.31.46:504][616]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.31.46:526][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021755s)
+[2022.05.25-08.31.46:527][616]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.31.46:527][616]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2022.05.25-08.31.46:527][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.022615s)
+[2022.05.25-08.31.46:552][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.05.25-08.31.46:553][616]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.05.25-08.31.46:553][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.31.46:553][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.31.46:553][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.31.46:553][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.31.46:553][616]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.31.46:553][616]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.31.46:553][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.31.46:553][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.31.46:553][616]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.31.46:553][616]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.31.46:553][616]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.31.46:553][616]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.31.46:555][616]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.31.46:555][616]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.31.46:564][616]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.31.46:564][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.31.46:564][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.31.46:564][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.31.46:565][616]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.31.46:565][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.31.46:565][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.31.46:566][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.31.46:566][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.31.46:566][616]LogInit: FAudioDevice initialized.
+[2022.05.25-08.31.46:566][616]LogAudio: Display: Audio Device (ID: 18) registered with world 'LevelDesign'.
+[2022.05.25-08.31.46:622][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.31.46:622][616]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.31.46:626][616]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.31.46
+[2022.05.25-08.31.46:626][616]LogWorld: Bringing up level for play took: 0.002929
+[2022.05.25-08.31.46:626][616]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.05.25-08.31.46:628][616]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.31.46:629][616]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.31.46:629][616]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.31.46:630][616]PIE: Server logged in
+[2022.05.25-08.31.46:631][616]PIE: Play in editor total start time 0,127 seconds.
+[2022.05.25-08.31.48:757][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.31.53:950][465]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.25-08.31.53:957][465]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.31.53:990][465]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.31.53:991][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.31.53:997][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.31.54:016][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.31.54:039][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.31.54:040][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.31.54:041][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.31.54:046][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.05.25-08.31.54:059][466]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.05.25-08.32.00:238][196]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.32.00:267][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.05.25-08.32.00:691][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.32.00:700][238]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget9D441DE0481C24D1236660AAAC625FBC.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.32.00:714][238]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.32.00:714][238]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.32.02:596][450]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.32.02:602][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.32.02:602][450]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:32:02)
+[2022.05.25-08.32.02:602][450]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.32.02:624][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021604s)
+[2022.05.25-08.32.02:624][450]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.32.02:624][450]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2022.05.25-08.32.02:624][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.022455s)
+[2022.05.25-08.32.02:650][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.05.25-08.32.02:651][450]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.05.25-08.32.02:651][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.32.02:651][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.32.02:651][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.32.02:651][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.32.02:651][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.32.02:651][450]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.32.02:651][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.32.02:651][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.32.02:651][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.32.02:651][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.32.02:651][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.32.02:651][450]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.32.02:653][450]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.32.02:653][450]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.32.02:662][450]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.32.02:662][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.32.02:663][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.32.02:663][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.32.02:663][450]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.32.02:663][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.32.02:663][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.32.02:664][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.32.02:664][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.32.02:664][450]LogInit: FAudioDevice initialized.
+[2022.05.25-08.32.02:664][450]LogAudio: Display: Audio Device (ID: 19) registered with world 'LevelDesign'.
+[2022.05.25-08.32.02:711][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.32.02:711][450]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.32.02:714][450]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.32.02
+[2022.05.25-08.32.02:714][450]LogWorld: Bringing up level for play took: 0.002327
+[2022.05.25-08.32.02:714][450]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.05.25-08.32.02:716][450]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.32.02:717][450]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.32.02:717][450]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.32.02:718][450]PIE: Server logged in
+[2022.05.25-08.32.02:719][450]PIE: Play in editor total start time 0,117 seconds.
+[2022.05.25-08.32.04:553][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.32.10:623][375]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.25-08.32.10:629][375]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.32.10:660][375]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.32.10:660][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.32.10:667][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.32.10:686][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.32.10:709][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.32.10:709][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.32.10:710][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.32.10:715][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.05.25-08.32.10:728][376]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.05.25-08.32.12:284][545]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.32.12:291][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.32.12:291][545]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:32:12)
+[2022.05.25-08.32.12:291][545]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.32.12:312][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020966s)
+[2022.05.25-08.32.12:312][545]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.32.12:313][545]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2022.05.25-08.32.12:313][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.021807s)
+[2022.05.25-08.32.12:336][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.25-08.32.12:337][545]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.05.25-08.32.12:337][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.32.12:337][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.32.12:337][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.32.12:337][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.32.12:337][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.32.12:337][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.32.12:337][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.32.12:337][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.32.12:337][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.32.12:337][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.32.12:337][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.32.12:337][545]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.32.12:339][545]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.32.12:339][545]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.32.12:348][545]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.32.12:348][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.32.12:348][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.32.12:348][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.32.12:348][545]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.32.12:348][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.32.12:348][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.32.12:349][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.32.12:349][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.32.12:349][545]LogInit: FAudioDevice initialized.
+[2022.05.25-08.32.12:349][545]LogAudio: Display: Audio Device (ID: 20) registered with world 'LevelDesign'.
+[2022.05.25-08.32.12:356][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.32.12:359][545]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.32.12
+[2022.05.25-08.32.12:359][545]LogWorld: Bringing up level for play took: 0.002181
+[2022.05.25-08.32.12:359][545]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.05.25-08.32.12:360][545]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.32.12:361][545]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.32.12:361][545]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.32.12:361][545]PIE: Server logged in
+[2022.05.25-08.32.12:362][545]PIE: Play in editor total start time 0,072 seconds.
+[2022.05.25-08.32.13:298][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.32.16:271][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.32.16:271][  9]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.32.16:271][  9]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.32.16:271][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.32.16:282][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.32.16:299][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.32.16:322][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.32.16:322][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.32.16:323][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.32.16:328][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.25-08.32.16:358][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.05.25-08.32.30:408][627]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.05.25-08.32.30:412][627]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_352 has an invalid curve.  Please fix!
+[2022.05.25-08.32.30:482][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.05.25-08.32.31:026][664]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter40D031294A23C8B647259DB54DFFB4B7.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.25-08.32.31:041][664]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.25-08.32.31:041][664]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.25-08.32.38:026][463]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.32.38:062][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.05.25-08.32.38:557][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.32.38:566][514]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetC8CC8D6742F9D03CE7A6C79ABE22797E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.32.38:577][514]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.32.38:577][514]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.32.40:503][714]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.32.40:509][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.32.40:509][714]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:32:40)
+[2022.05.25-08.32.40:551][714]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.32.40:578][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027614s)
+[2022.05.25-08.32.40:578][714]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.32.40:578][714]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2022.05.25-08.32.40:579][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.028534s)
+[2022.05.25-08.32.40:604][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.05.25-08.32.40:605][714]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.05.25-08.32.40:605][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.32.40:605][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.32.40:605][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.32.40:605][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.32.40:605][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.32.40:605][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.32.40:605][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.32.40:605][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.32.40:606][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.32.40:606][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.32.40:606][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.32.40:606][714]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.32.40:608][714]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.32.40:608][714]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.32.40:617][714]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.32.40:617][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.32.40:617][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.32.40:617][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.32.40:617][714]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.32.40:617][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.32.40:617][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.32.40:618][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.32.40:618][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.32.40:618][714]LogInit: FAudioDevice initialized.
+[2022.05.25-08.32.40:618][714]LogAudio: Display: Audio Device (ID: 21) registered with world 'LevelDesign'.
+[2022.05.25-08.32.40:626][714]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.32.40:629][714]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.32.40
+[2022.05.25-08.32.40:629][714]LogWorld: Bringing up level for play took: 0.001664
+[2022.05.25-08.32.40:629][714]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.05.25-08.32.40:630][714]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.32.40:631][714]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.32.40:631][714]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.32.40:631][714]PIE: Server logged in
+[2022.05.25-08.32.40:632][714]PIE: Play in editor total start time 0,124 seconds.
+[2022.05.25-08.32.41:701][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.32.57:641][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.32.57:641][721]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.32.57:641][721]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.32.57:641][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.32.57:648][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.32.57:667][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.32.57:689][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.32.57:689][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.32.57:690][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.32.57:692][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.32.57:696][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.05.25-08.32.57:719][723]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.05.25-08.33.01:911][197]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.33.01:913][197]LogBlueprint: Error: [AssetLog] D:\F.breton\Projet-4\Skip_CRJV2122_PS4\Alpha\Content\UI\OptionsWidget.uasset: [Compiler] Binding: Property ' /Script/UMG.CheckBox:CheckedStateDelegate ' on Widget ' CheckBox_0 ': Binding: 'None' : 'None' was not found on 'Options Widget'.
+[2022.05.25-08.33.01:941][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.05.25-08.33.02:397][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.33.02:403][245]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetE16E40D44087B078F11C05BA3575E4D0.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.33.02:414][245]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.33.02:414][245]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.33.06:136][677]LogBlueprint: Warning: Unknown type of hyperlinked object (CheckBox_0), cannot focus it
+[2022.05.25-08.33.14:272][622]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.33.14:314][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.25-08.33.14:902][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.33.14:908][677]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget6014977E4C4ECFEA112BB495C7315D1E.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.33.14:918][677]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.33.14:918][677]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.33.20:708][362]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.33.20:716][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.33.20:716][362]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:33:20)
+[2022.05.25-08.33.20:716][362]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.33.20:738][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021406s)
+[2022.05.25-08.33.20:739][362]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.33.20:739][362]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2022.05.25-08.33.20:739][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.022357s)
+[2022.05.25-08.33.20:765][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.05.25-08.33.20:766][362]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.05.25-08.33.20:766][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.33.20:766][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.33.20:766][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.33.20:766][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.33.20:766][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.33.20:766][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.33.20:766][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.33.20:766][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.33.20:767][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.33.20:767][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.33.20:767][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.33.20:767][362]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.33.20:769][362]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.33.20:769][362]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.33.20:776][362]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.33.20:778][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.33.20:778][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.33.20:778][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.33.20:778][362]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.33.20:778][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.33.20:778][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.33.20:779][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.33.20:779][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.33.20:779][362]LogInit: FAudioDevice initialized.
+[2022.05.25-08.33.20:779][362]LogAudio: Display: Audio Device (ID: 22) registered with world 'LevelDesign'.
+[2022.05.25-08.33.20:820][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.33.20:821][362]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.33.20:824][362]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.33.20
+[2022.05.25-08.33.20:824][362]LogWorld: Bringing up level for play took: 0.002413
+[2022.05.25-08.33.20:824][362]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.05.25-08.33.20:826][362]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.33.20:827][362]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.33.20:827][362]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.33.20:828][362]PIE: Server logged in
+[2022.05.25-08.33.20:829][362]PIE: Play in editor total start time 0,113 seconds.
+[2022.05.25-08.33.22:203][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.33.27:471][130]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.25-08.33.27:477][130]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.33.27:521][130]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.33.27:522][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.33.27:531][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.33.27:550][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.33.27:573][130]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.33.27:574][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.33.27:575][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.33.27:580][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.05.25-08.33.27:593][131]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.05.25-08.33.43:693][ 23]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.33.43:722][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.05.25-08.33.44:130][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.33.44:136][ 60]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetCA3F6CBF4E0C2F86D67FA689E598F0A9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.33.44:147][ 60]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.33.44:147][ 60]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.34.11:661][312]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.34.11:702][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.05.25-08.34.12:358][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.34.12:364][374]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetC6417243491DE7C9EDA86CA452A373D0.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.34.12:375][374]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.34.12:375][374]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.34.59:957][  2]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.35.00:002][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.05.25-08.35.00:725][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.35.00:733][ 83]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget1E36293D4983DAB9A626668F3DED3FAC.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.35.00:743][ 83]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.35.00:743][ 83]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.35.01:899][203]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.35.01:906][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.35.01:906][203]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:35:01)
+[2022.05.25-08.35.01:941][203]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.35.01:964][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023302s)
+[2022.05.25-08.35.01:965][203]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.35.01:965][203]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2022.05.25-08.35.01:965][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.024278s)
+[2022.05.25-08.35.01:990][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.05.25-08.35.01:991][203]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.05.25-08.35.01:991][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.35.01:991][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.35.01:991][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.35.01:991][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.35.01:991][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.35.01:991][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.35.01:991][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.35.01:991][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.35.01:992][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.35.01:992][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.35.01:992][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.35.01:992][203]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.35.01:994][203]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.35.01:994][203]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.35.02:003][203]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.35.02:003][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.35.02:003][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.35.02:003][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.35.02:004][203]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.35.02:004][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.35.02:004][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.35.02:004][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.35.02:004][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.35.02:004][203]LogInit: FAudioDevice initialized.
+[2022.05.25-08.35.02:004][203]LogAudio: Display: Audio Device (ID: 23) registered with world 'LevelDesign'.
+[2022.05.25-08.35.02:011][203]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.35.02:014][203]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.35.02
+[2022.05.25-08.35.02:014][203]LogWorld: Bringing up level for play took: 0.001844
+[2022.05.25-08.35.02:014][203]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.05.25-08.35.02:015][203]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.35.02:016][203]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.35.02:016][203]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.35.02:016][203]PIE: Server logged in
+[2022.05.25-08.35.02:017][203]PIE: Play in editor total start time 0,112 seconds.
+[2022.05.25-08.35.03:301][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.35.09:859][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.35.14:021][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.35.14:021][634]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.35.14:021][634]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.35.14:022][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.35.14:033][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.35.14:053][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.35.14:075][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.35.14:075][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.35.14:076][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.35.14:078][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.35.14:081][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.05.25-08.35.14:111][635]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.05.25-08.36.50:584][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.25-08.36.50:586][ 71]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LevelDesign' took 0.029
+[2022.05.25-08.36.50:588][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/OptionsWidget] ([2] browsable assets)...
+[2022.05.25-08.36.50:588][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/OptionsWidget]
+[2022.05.25-08.36.50:588][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Autosaves/Game/UI/OptionsWidget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.25-08.36.50:595][ 71]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget_Auto13BC14CDC4E4E5899B3C3BF9254962752.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/Autosaves/Game/UI/OptionsWidget_Auto1.uasset'
+[2022.05.25-08.36.50:595][ 71]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.05.25-08.36.51:715][188]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.36.51:720][188]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.25-08.36.51:723][188]LogPlayLevel: [PlayLevel] Compiling OptionsWidget before play...
+[2022.05.25-08.36.51:804][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.05.25-08.36.51:804][188]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2022.05.25-08.36.51:805][188]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:36:51)
+[2022.05.25-08.36.51:805][188]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.36.51:826][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021564s)
+[2022.05.25-08.36.51:827][188]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.36.51:827][188]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2022.05.25-08.36.51:827][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.022431s)
+[2022.05.25-08.36.51:851][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.25-08.36.51:851][188]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.05.25-08.36.51:851][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.36.51:851][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.36.51:851][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.36.51:851][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.36.51:851][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.36.51:851][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.36.51:851][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.36.51:851][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.36.51:852][188]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.36.51:852][188]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.36.51:852][188]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.36.51:852][188]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.36.51:854][188]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.36.51:854][188]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.36.51:863][188]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.36.51:863][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.36.51:863][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.36.51:863][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.36.51:864][188]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.36.51:864][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.36.51:864][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.36.51:865][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.36.51:865][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.36.51:865][188]LogInit: FAudioDevice initialized.
+[2022.05.25-08.36.51:865][188]LogAudio: Display: Audio Device (ID: 24) registered with world 'LevelDesign'.
+[2022.05.25-08.36.51:871][188]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.36.51:874][188]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.36.51
+[2022.05.25-08.36.51:874][188]LogWorld: Bringing up level for play took: 0.002283
+[2022.05.25-08.36.51:874][188]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.05.25-08.36.51:876][188]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.36.51:877][188]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.36.51:877][188]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.36.51:877][188]PIE: Server logged in
+[2022.05.25-08.36.51:878][188]PIE: Play in editor total start time 0,157 seconds.
+[2022.05.25-08.36.54:197][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.37.00:551][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.37.00:551][210]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.37.00:551][210]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.37.00:552][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.37.00:563][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.37.00:585][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.37.00:606][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.37.00:607][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.37.00:608][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.37.00:613][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.05.25-08.37.00:626][211]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.05.25-08.37.02:670][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.37.02:677][437]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidgetB79BD9964251495AAFEF1FA90EFDC2E9.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.37.02:687][437]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.37.02:688][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.37.18:221][256]LogEditorTransaction: Undo Remove Widget
+[2022.05.25-08.37.29:216][500]BlueprintLog: New page: Compile OptionsWidget
+[2022.05.25-08.37.29:259][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.25-08.37.29:765][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsWidget" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset" SILENT=true
+[2022.05.25-08.37.29:772][553]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/OptionsWidget9918136A4E8B514307CC2A9E5F6F77EB.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/UI/OptionsWidget.uasset'
+[2022.05.25-08.37.29:785][553]AssetCheck: New page: Asset Save: OptionsWidget
+[2022.05.25-08.37.29:785][553]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/OptionsWidget.OptionsWidget
+[2022.05.25-08.37.31:252][712]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.37.31:258][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.37.31:258][712]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:37:31)
+[2022.05.25-08.37.31:259][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.37.31:278][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020514s)
+[2022.05.25-08.37.31:279][712]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.37.31:279][712]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2022.05.25-08.37.31:279][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.021390s)
+[2022.05.25-08.37.31:304][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.25-08.37.31:305][712]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.05.25-08.37.31:305][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.37.31:305][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.37.31:305][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.37.31:306][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.37.31:306][712]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.37.31:306][712]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.37.31:306][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.37.31:306][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.37.31:306][712]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.37.31:306][712]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.37.31:306][712]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.37.31:306][712]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.37.31:308][712]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.37.31:308][712]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.37.31:317][712]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.37.31:317][712]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.37.31:317][712]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.37.31:317][712]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.37.31:317][712]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.37.31:317][712]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.37.31:317][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.37.31:318][712]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.37.31:318][712]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.37.31:318][712]LogInit: FAudioDevice initialized.
+[2022.05.25-08.37.31:318][712]LogAudio: Display: Audio Device (ID: 25) registered with world 'LevelDesign'.
+[2022.05.25-08.37.31:325][712]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.37.31:328][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.37.31
+[2022.05.25-08.37.31:328][712]LogWorld: Bringing up level for play took: 0.001844
+[2022.05.25-08.37.31:328][712]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.05.25-08.37.31:329][712]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.37.31:330][712]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.37.31:331][712]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.37.31:331][712]PIE: Server logged in
+[2022.05.25-08.37.31:331][712]PIE: Play in editor total start time 0,074 seconds.
+[2022.05.25-08.37.32:457][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.37.36:491][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.37.38:142][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.37.38:142][525]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.37.38:142][525]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.37.38:142][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.37.38:149][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.37.38:169][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.37.38:192][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.37.38:192][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.37.38:193][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.37.38:195][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.37.38:198][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.25-08.37.38:230][526]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.05.25-08.37.39:162][634]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.37.39:168][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.37.39:169][634]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:37:39)
+[2022.05.25-08.37.39:190][634]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.37.39:213][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022335s)
+[2022.05.25-08.37.39:213][634]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.37.39:214][634]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2022.05.25-08.37.39:214][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.023233s)
+[2022.05.25-08.37.39:237][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.05.25-08.37.39:238][634]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.05.25-08.37.39:238][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.37.39:238][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.37.39:238][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.37.39:238][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.37.39:238][634]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.37.39:238][634]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.37.39:238][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.37.39:238][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.37.39:239][634]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.37.39:239][634]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.37.39:239][634]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.37.39:239][634]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.37.39:241][634]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.37.39:241][634]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.37.39:250][634]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.05.25-08.37.39:250][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.37.39:250][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.37.39:250][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.37.39:251][634]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.37.39:251][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.37.39:251][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.37.39:252][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.37.39:252][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.37.39:252][634]LogInit: FAudioDevice initialized.
+[2022.05.25-08.37.39:252][634]LogAudio: Display: Audio Device (ID: 26) registered with world 'LevelDesign'.
+[2022.05.25-08.37.39:261][634]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.37.39:264][634]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.37.39
+[2022.05.25-08.37.39:264][634]LogWorld: Bringing up level for play took: 0.002494
+[2022.05.25-08.37.39:264][634]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.05.25-08.37.39:266][634]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.37.39:267][634]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.25-08.37.39:267][634]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.37.39:267][634]PIE: Server logged in
+[2022.05.25-08.37.39:268][634]PIE: Play in editor total start time 0,1 seconds.
+[2022.05.25-08.37.40:468][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.37.42:893][ 68]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-08.37.42:893][ 68]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-08.37.42:893][ 68]LogBlueprintUserMessages: [BP_Affiche_ID-2_2] Hello
+[2022.05.25-08.37.44:468][257]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-08.37.44:468][257]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-08.37.44:468][257]LogBlueprintUserMessages: [BP_Affiche_ID-4_2] Hello
+[2022.05.25-08.37.45:485][379]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-08.37.45:485][379]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-08.37.45:485][379]LogBlueprintUserMessages: [BP_Affiche_ID-1_3] Hello
+[2022.05.25-08.37.47:110][574]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.05.25-08.37.47:110][574]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Deni
+[2022.05.25-08.37.47:110][574]LogBlueprintUserMessages: [BP_Affiche_ID-0_2] Hello
+[2022.05.25-08.37.48:835][781]LogBlueprintUserMessages: [BP_LockedDoor_5] Open
+[2022.05.25-08.38.01:271][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.38.01:271][270]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.38.01:271][270]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.38.01:271][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.38.01:277][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.38.01:295][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.38.01:318][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.38.01:318][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.38.01:319][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.38.01:324][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.25-08.38.01:356][271]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.05.25-08.45.39:796][583]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/MainMenuPC.MainMenuPC
+[2022.05.25-08.45.42:013][817]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.45.42:013][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.45.42:061][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/MainMenuPC.MainMenuPC
+[2022.05.25-08.45.49:315][655]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.45.49:315][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.45.54:165][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.05.25-08.45.55:224][212]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.25-08.45.55:305][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.05.25-08.45.55:336][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.25-08.45.55:359][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.25-08.45.57:468][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-08.45.57:490][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.25-08.45.57:545][456]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign06B7EA014C8DF504F089F6A160488E8B.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-08.45.57:555][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.05.25-08.45.57:579][456]LogSavePackage: Moving 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltDataFF2A27DA44E74F686AC5D4A8ADC5EF36.tmp' to 'D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-08.45.57:590][456]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-08.45.57:590][456]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-08.45.57:590][456]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-08.46.06:260][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.05.25-08.46.06:307][486]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Alpha.Alpha
+[2022.05.25-08.46.06:307][486]Cmd: MAP LOAD FILE="D:/F.breton/Projet-4/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.25-08.46.06:307][486]LightingResults: New page: Lighting Build
+[2022.05.25-08.46.06:308][486]LoadErrors: New page: Loading map: Alpha.umap
+[2022.05.25-08.46.06:309][486]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.46.06:310][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.46.06:310][486]MapCheck: New page: Map Check
+[2022.05.25-08.46.06:310][486]LightingResults: New page: Lighting Build
+[2022.05.25-08.46.06:332][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.46.06:337][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.05.25-08.46.06:338][486]LogAudio: Display: Audio Device (ID: 1) registered with world 'Alpha'.
+[2022.05.25-08.46.06:348][486]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.25-08.46.06:348][486]LogAIModule: Creating AISystem for world Alpha
+[2022.05.25-08.46.06:373][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.05.25-08.46.06:380][486]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.25-08.46.06:380][486]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,058ms to complete.
+[2022.05.25-08.46.06:380][486]LogFileHelpers: Loading map 'Alpha' took 0.072
