@@ -1737,3 +1737,1307 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.25-07.54.25:578][ 45]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2022.05.25-07.54.30:498][581]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2022.05.25-07.54.30:498][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.04.25:481][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.25-08.04.25:537][960]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-08.04.25:537][960]Cmd: MAP LOAD FILE="../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Maps/LevelDesign.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.25-08.04.25:537][960]LightingResults: New page: Lighting Build
+[2022.05.25-08.04.25:538][960]LoadErrors: New page: Loading map: LevelDesign.umap
+[2022.05.25-08.04.25:539][960]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.04.25:539][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.04.25:539][960]MapCheck: New page: Map Check
+[2022.05.25-08.04.25:539][960]LightingResults: New page: Lighting Build
+[2022.05.25-08.04.25:550][960]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.04.25:554][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.05.25-08.04.25:554][960]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelDesign'.
+[2022.05.25-08.04.25:561][960]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.25-08.04.25:561][960]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.04.25:575][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.05.25-08.04.25:581][960]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.25-08.04.25:582][960]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,136ms to complete.
+[2022.05.25-08.04.25:582][960]LogFileHelpers: Loading map 'LevelDesign' took 0.044
+[2022.05.25-08.04.32:116][185]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\PointDePivotPete.fbx)
+[2022.05.25-08.04.32:143][185]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\PointDePivotPete.fbx
+[2022.05.25-08.04.32:158][185]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.04.34:034][185]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.25-08.04.34:057][185]LogMaterial: Display: Missing cached shadermap for Sol in PCD3D_SM5, Default, SM5 (DDC key hash: 621B9864BFB8EA1DE2326D91DA364ADC71858516), compiling. 
+[2022.05.25-08.04.34:066][185]LogMaterial: Display: Missing cached shadermap for Plinthe in PCD3D_SM5, Default, SM5 (DDC key hash: F499C908398EF55D2834F6FD1B2A2A03AB926E2E), compiling. 
+[2022.05.25-08.04.34:076][185]LogMaterial: Display: Missing cached shadermap for Mur in PCD3D_SM5, Default, SM5 (DDC key hash: 933FF6C5246C07F8F44C1824724D5864B62A26C0), compiling. 
+[2022.05.25-08.04.34:078][185]LogFbx: Display: Triangulating static mesh T_MurBase_029
+[2022.05.25-08.04.34:119][185]LogStaticMesh: Building static mesh PointDePivotPete_T_MurBase_029...
+[2022.05.25-08.04.34:152][185]LogStaticMesh: Built static mesh [0.03s] /Game/Maps/PointDePivotPete_T_MurBase_029.PointDePivotPete_T_MurBase_029
+[2022.05.25-08.04.34:157][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_029 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:157][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_029 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:159][185]LogMaterial: Display: Missing cached shadermap for Plafond in PCD3D_SM5, Default, SM5 (DDC key hash: A8D2D602EC13C8A6CF383A26B87499CEDF76BA33), compiling. 
+[2022.05.25-08.04.34:161][185]LogFbx: Display: Triangulating static mesh T_Plafond113
+[2022.05.25-08.04.34:180][185]LogStaticMesh: Building static mesh PointDePivotPete_T_Plafond113...
+[2022.05.25-08.04.34:199][185]LogStaticMesh: Built static mesh [0.02s] /Game/Maps/PointDePivotPete_T_Plafond113.PointDePivotPete_T_Plafond113
+[2022.05.25-08.04.34:201][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond113 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:201][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond113 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:201][185]LogFbx: Display: Triangulating static mesh T_MurBase_030
+[2022.05.25-08.04.34:241][185]LogStaticMesh: Building static mesh PointDePivotPete_T_MurBase_030...
+[2022.05.25-08.04.34:289][185]LogStaticMesh: Built static mesh [0.05s] /Game/Maps/PointDePivotPete_T_MurBase_030.PointDePivotPete_T_MurBase_030
+[2022.05.25-08.04.34:294][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_030 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:294][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_030 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:295][185]LogFbx: Display: Triangulating static mesh T_Plafond114
+[2022.05.25-08.04.34:311][185]LogStaticMesh: Building static mesh PointDePivotPete_T_Plafond114...
+[2022.05.25-08.04.34:333][185]LogStaticMesh: Built static mesh [0.02s] /Game/Maps/PointDePivotPete_T_Plafond114.PointDePivotPete_T_Plafond114
+[2022.05.25-08.04.34:334][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond114 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:334][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond114 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:335][185]LogFbx: Display: Triangulating static mesh T_MurBase_031
+[2022.05.25-08.04.34:380][185]LogStaticMesh: Building static mesh PointDePivotPete_T_MurBase_031...
+[2022.05.25-08.04.34:422][185]LogStaticMesh: Built static mesh [0.04s] /Game/Maps/PointDePivotPete_T_MurBase_031.PointDePivotPete_T_MurBase_031
+[2022.05.25-08.04.34:428][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_031 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:428][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_031 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:429][185]LogFbx: Display: Triangulating static mesh T_Plafond115
+[2022.05.25-08.04.34:445][185]LogStaticMesh: Building static mesh PointDePivotPete_T_Plafond115...
+[2022.05.25-08.04.34:470][185]LogStaticMesh: Built static mesh [0.02s] /Game/Maps/PointDePivotPete_T_Plafond115.PointDePivotPete_T_Plafond115
+[2022.05.25-08.04.34:472][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond115 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:472][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond115 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:472][185]LogFbx: Display: Triangulating static mesh T_MurBase_032
+[2022.05.25-08.04.34:510][185]LogStaticMesh: Building static mesh PointDePivotPete_T_MurBase_032...
+[2022.05.25-08.04.34:543][185]LogStaticMesh: Built static mesh [0.03s] /Game/Maps/PointDePivotPete_T_MurBase_032.PointDePivotPete_T_MurBase_032
+[2022.05.25-08.04.34:548][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_032 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:548][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_032 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:548][185]LogFbx: Display: Triangulating static mesh T_Plafond116
+[2022.05.25-08.04.34:563][185]LogStaticMesh: Building static mesh PointDePivotPete_T_Plafond116...
+[2022.05.25-08.04.34:586][185]LogStaticMesh: Built static mesh [0.02s] /Game/Maps/PointDePivotPete_T_Plafond116.PointDePivotPete_T_Plafond116
+[2022.05.25-08.04.34:587][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond116 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:587][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond116 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:588][185]LogFbx: Display: Triangulating static mesh T_MurBase_033
+[2022.05.25-08.04.34:600][185]LogStaticMesh: Building static mesh PointDePivotPete_T_MurBase_033...
+[2022.05.25-08.04.34:610][185]LogStaticMesh: Built static mesh [0.01s] /Game/Maps/PointDePivotPete_T_MurBase_033.PointDePivotPete_T_MurBase_033
+[2022.05.25-08.04.34:611][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_033 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:611][185]LogStaticMesh: Warning: PointDePivotPete_T_MurBase_033 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:612][185]LogFbx: Display: Triangulating static mesh T_Plafond117
+[2022.05.25-08.04.34:617][185]LogStaticMesh: Building static mesh PointDePivotPete_T_Plafond117...
+[2022.05.25-08.04.34:626][185]LogStaticMesh: Built static mesh [0.01s] /Game/Maps/PointDePivotPete_T_Plafond117.PointDePivotPete_T_Plafond117
+[2022.05.25-08.04.34:627][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond117 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.04.34:627][185]LogStaticMesh: Warning: PointDePivotPete_T_Plafond117 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_029 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_029 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond113 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond113 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_030 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_030 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond114 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond114 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_031 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_031 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond115 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond115 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_032 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_032 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond116 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond116 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_033 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_MurBase_033 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond117 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.04.34:659][185]FBXImport: Warning: PointDePivotPete_T_Plafond117 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.04.34:812][189]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.25-08.04.34:812][189]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.25-08.04.34:812][189]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.05.25-08.04.34:812][189]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.05.25-08.04.34:812][189]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.05.25-08.04.34:812][189]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.05.25-08.04.34:812][189]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.25-08.04.34:812][189]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.25-08.04.34:819][189]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.34:825][189]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.34:831][189]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.34:843][189]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.25-08.04.34:849][189]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 56
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 51
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 46
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 41
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.34:879][189]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.25-08.04.35:586][208]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 36
+[2022.05.25-08.04.35:586][208]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.35:596][208]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.25-08.04.35:596][208]LogShaderCompilers: Display: Total job queries 2281, among them cache hits 1397 (61.25%)
+[2022.05.25-08.04.35:596][208]LogShaderCompilers: Display: Tracking 821 distinct input hashes that result in 548 distinct outputs (66.75%)
+[2022.05.25-08.04.35:596][208]LogShaderCompilers: Display: RAM used: 2.96 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.36%
+[2022.05.25-08.04.35:596][208]LogShaderCompilers: Display: ================================================
+[2022.05.25-08.04.35:673][210]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 32
+[2022.05.25-08.04.35:673][210]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.35:800][213]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2022.05.25-08.04.35:801][213]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.35:814][213]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2022.05.25-08.04.35:814][213]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.35:863][214]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2022.05.25-08.04.35:863][214]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.35:904][215]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2022.05.25-08.04.35:904][215]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.36:017][217]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2022.05.25-08.04.36:017][217]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.36:057][218]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2022.05.25-08.04.36:057][218]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.37:194][241]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2022.05.25-08.04.37:194][241]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.37:337][244]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2022.05.25-08.04.37:337][244]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.37:767][253]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2022.05.25-08.04.37:767][253]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.37:819][254]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2022.05.25-08.04.37:819][254]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.37:825][254]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.05.25-08.04.37:825][254]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.38:313][264]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2022.05.25-08.04.38:313][264]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.38:395][266]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.05.25-08.04.38:395][266]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.38:576][270]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.05.25-08.04.38:576][270]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.38:690][272]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.05.25-08.04.38:690][272]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.38:849][275]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2022.05.25-08.04.38:849][275]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.38:956][277]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.05.25-08.04.38:957][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.39:000][278]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.05.25-08.04.39:000][278]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.39:007][278]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.05.25-08.04.39:007][278]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.25-08.04.42:022][576]LogSlate: Window 'Message Log' being destroyed
+[2022.05.25-08.04.42:028][576]LogSlate: Window 'Message Log' being destroyed
+[2022.05.25-08.05.08:158][387]LogActorFactory: Actor Factory created PointDePivotPete_T_Plafond117
+[2022.05.25-08.05.10:962][710]LogActorFactory: Actor Factory created PointDePivotPete_T_Plafond117
+[2022.05.25-08.05.22:776][ 91]Cmd: DELETE
+[2022.05.25-08.05.22:777][ 91]Cmd: ACTOR DELETE
+[2022.05.25-08.05.22:789][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.25-08.05.22:801][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.05.25-08.05.22:808][ 91]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.05.25-08.05.24:128][229]LogActorFactory: Actor Factory created PointDePivotPete_T_Plafond117
+[2022.05.25-08.05.25:342][373]LogActorFactory: Actor Factory created PointDePivotPete_T_Plafond117
+[2022.05.25-08.05.50:076][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PointDePivotPete_T_Plafond117)
+[2022.05.25-08.05.50:711][390]Cmd: DELETE
+[2022.05.25-08.05.50:711][390]Cmd: ACTOR DELETE
+[2022.05.25-08.05.50:717][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.25-08.05.50:728][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.05.25-08.05.50:733][390]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.05.25-08.14.25:899][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.25-08.14.25:956][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/LevelDesign_Auto1231CC8EE41FB57FE21C258AA5ADE7C7B.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/LevelDesign_Auto1.umap'
+[2022.05.25-08.14.25:958][ 92]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LevelDesign' took 0.071
+[2022.05.25-08.14.25:958][ 92]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2022.05.25-08.14.25:959][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_Plafond117] ([1] browsable assets)...
+[2022.05.25-08.14.25:973][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_Plafond117.PointDePivotPete_T_Plafond117]
+[2022.05.25-08.14.25:973][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_Plafond117]
+[2022.05.25-08.14.25:980][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_Plafond117_Au701FC11D410C78F5CC745FB891D58472.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_Plafond117_Auto1.uasset'
+[2022.05.25-08.14.25:981][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_MurBase_029] ([1] browsable assets)...
+[2022.05.25-08.14.25:993][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_MurBase_029.PointDePivotPete_T_MurBase_029]
+[2022.05.25-08.14.25:993][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_MurBase_029]
+[2022.05.25-08.14.26:002][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_MurBase_029_AB42B811945832AA38C0DC9AB0CD1F214.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_MurBase_029_Auto1.uasset'
+[2022.05.25-08.14.26:003][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_Plafond113] ([1] browsable assets)...
+[2022.05.25-08.14.26:015][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_Plafond113.PointDePivotPete_T_Plafond113]
+[2022.05.25-08.14.26:015][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_Plafond113]
+[2022.05.25-08.14.26:022][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_Plafond113_Au22BD861D44DAE173A1B159A7FF1F6552.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_Plafond113_Auto1.uasset'
+[2022.05.25-08.14.26:023][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_MurBase_030] ([1] browsable assets)...
+[2022.05.25-08.14.26:034][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_MurBase_030.PointDePivotPete_T_MurBase_030]
+[2022.05.25-08.14.26:034][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_MurBase_030]
+[2022.05.25-08.14.26:044][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_MurBase_030_AD53A8C8442B979665DBA67928276DC6E.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_MurBase_030_Auto1.uasset'
+[2022.05.25-08.14.26:044][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_Plafond114] ([1] browsable assets)...
+[2022.05.25-08.14.26:056][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_Plafond114.PointDePivotPete_T_Plafond114]
+[2022.05.25-08.14.26:056][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_Plafond114]
+[2022.05.25-08.14.26:063][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_Plafond114_Au8289148C42D627CFF1FFCEBE16791666.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_Plafond114_Auto1.uasset'
+[2022.05.25-08.14.26:064][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_MurBase_031] ([1] browsable assets)...
+[2022.05.25-08.14.26:075][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_MurBase_031.PointDePivotPete_T_MurBase_031]
+[2022.05.25-08.14.26:075][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_MurBase_031]
+[2022.05.25-08.14.26:086][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_MurBase_031_ADC9366754D4DB7748CB040B426B57862.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_MurBase_031_Auto1.uasset'
+[2022.05.25-08.14.26:087][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_Plafond115] ([1] browsable assets)...
+[2022.05.25-08.14.26:101][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_Plafond115.PointDePivotPete_T_Plafond115]
+[2022.05.25-08.14.26:102][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_Plafond115]
+[2022.05.25-08.14.26:109][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_Plafond115_Au88A8979A4A48896D6E8A858FB2700089.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_Plafond115_Auto1.uasset'
+[2022.05.25-08.14.26:109][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_MurBase_032] ([1] browsable assets)...
+[2022.05.25-08.14.26:121][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_MurBase_032.PointDePivotPete_T_MurBase_032]
+[2022.05.25-08.14.26:121][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_MurBase_032]
+[2022.05.25-08.14.26:131][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_MurBase_032_A9247CBF247CC40A5C1FF3882F5A28529.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_MurBase_032_Auto1.uasset'
+[2022.05.25-08.14.26:132][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_Plafond116] ([1] browsable assets)...
+[2022.05.25-08.14.26:143][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_Plafond116.PointDePivotPete_T_Plafond116]
+[2022.05.25-08.14.26:143][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_Plafond116]
+[2022.05.25-08.14.26:151][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_Plafond116_Au715EB1AF4A89E714341C5D837A2A68A4.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_Plafond116_Auto1.uasset'
+[2022.05.25-08.14.26:151][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/PointDePivotPete_T_MurBase_033] ([1] browsable assets)...
+[2022.05.25-08.14.26:163][ 92]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/PointDePivotPete_T_MurBase_033.PointDePivotPete_T_MurBase_033]
+[2022.05.25-08.14.26:163][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/PointDePivotPete_T_MurBase_033]
+[2022.05.25-08.14.26:170][ 92]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PointDePivotPete_T_MurBase_033_A133ED5964310A9FDED071A9CDC0EE220.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/PointDePivotPete_T_MurBase_033_Auto1.uasset'
+[2022.05.25-08.14.26:170][ 92]LogFileHelpers: Auto-saving content packages took 0.213
+[2022.05.25-08.15.36:747][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.05.25-08.15.37:936][718]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.25-08.15.37:960][718]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/Maps/Sol.Sol
+	Asset Name: /Game/Maps/Mur.Mur
+	Asset Name: /Game/Maps/Plafond.Plafond
+	Asset Name: /Game/Maps/Plinthe.Plinthe
+	Asset Name: /Game/Maps/PointDePivotPete_T_MurBase_029.PointDePivotPete_T_MurBase_029
+	Asset Name: /Game/Maps/PointDePivotPete_T_MurBase_030.PointDePivotPete_T_MurBase_030
+	Asset Name: /Game/Maps/PointDePivotPete_T_MurBase_031.PointDePivotPete_T_MurBase_031
+	Asset Name: /Game/Maps/PointDePivotPete_T_MurBase_032.PointDePivotPete_T_MurBase_032
+	Asset Name: /Game/Maps/PointDePivotPete_T_MurBase_033.PointDePivotPete_T_MurBase_033
+	Asset Name: /Game/Maps/PointDePivotPete_T_Plafond113.PointDePivotPete_T_Plafond113
+[2022.05.25-08.15.39:007][718]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.05.25-08.15.39:931][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.05.25-08.15.46:611][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Acceptation_Murs.fbx)
+[2022.05.25-08.15.46:617][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Acceptation_Murs.fbx
+[2022.05.25-08.15.46:621][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:070][373]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.25-08.15.48:088][373]LogMaterial: Display: Missing cached shadermap for Sol in PCD3D_SM5, Default, SM5 (DDC key hash: 8C7FE2E1CA22044296CA2B290497DA3B93A584A5), compiling. 
+[2022.05.25-08.15.48:097][373]LogMaterial: Display: Missing cached shadermap for Plinthe in PCD3D_SM5, Default, SM5 (DDC key hash: CA06F4554B8AE31941DDC7DF1FB93603E8284DFF), compiling. 
+[2022.05.25-08.15.48:106][373]LogMaterial: Display: Missing cached shadermap for Mur in PCD3D_SM5, Default, SM5 (DDC key hash: 4239C57A4642FF52EB48F308C476118B20F1CDB1), compiling. 
+[2022.05.25-08.15.48:108][373]LogFbx: Display: Triangulating static mesh Acceptation_Murs
+[2022.05.25-08.15.48:122][373]LogStaticMesh: Building static mesh Acceptation_Murs...
+[2022.05.25-08.15.48:132][373]LogStaticMesh: Built static mesh [0.01s] /Game/JtmHugo/JtmHugo/Acceptation_Murs.Acceptation_Murs
+[2022.05.25-08.15.48:133][373]LogStaticMesh: Warning: Acceptation_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:133][373]LogStaticMesh: Warning: Acceptation_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:135][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:135][373]FBXImport: Warning: Acceptation_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:135][373]FBXImport: Warning: Acceptation_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:179][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Acceptation_Plafond.fbx)
+[2022.05.25-08.15.48:209][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Acceptation_Plafond.fbx
+[2022.05.25-08.15.48:213][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:215][373]LogMaterial: Display: Missing cached shadermap for Plafond in PCD3D_SM5, Default, SM5 (DDC key hash: 13A5F2C645B9DBCD202AE3E38F868D4FA3E38FA1), compiling. 
+[2022.05.25-08.15.48:217][373]LogFbx: Display: Triangulating static mesh Acceptation_Plafond
+[2022.05.25-08.15.48:224][373]LogStaticMesh: Building static mesh Acceptation_Plafond...
+[2022.05.25-08.15.48:234][373]LogStaticMesh: Built static mesh [0.01s] /Game/JtmHugo/JtmHugo/Acceptation_Plafond.Acceptation_Plafond
+[2022.05.25-08.15.48:234][373]LogStaticMesh: Warning: Acceptation_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:234][373]LogStaticMesh: Warning: Acceptation_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:236][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:236][373]FBXImport: Warning: Acceptation_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:236][373]FBXImport: Warning: Acceptation_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:239][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Colere_Murs.fbx)
+[2022.05.25-08.15.48:245][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Colere_Murs.fbx
+[2022.05.25-08.15.48:250][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:250][373]LogFbx: Display: Triangulating static mesh Colere_Murs
+[2022.05.25-08.15.48:291][373]LogStaticMesh: Building static mesh Colere_Murs...
+[2022.05.25-08.15.48:328][373]LogStaticMesh: Built static mesh [0.04s] /Game/JtmHugo/JtmHugo/Colere_Murs.Colere_Murs
+[2022.05.25-08.15.48:333][373]LogStaticMesh: Warning: Colere_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:333][373]LogStaticMesh: Warning: Colere_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:334][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:334][373]FBXImport: Warning: Colere_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:334][373]FBXImport: Warning: Colere_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:341][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Colere_Plafond.fbx)
+[2022.05.25-08.15.48:347][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Colere_Plafond.fbx
+[2022.05.25-08.15.48:351][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:371][373]LogFbx: Display: Triangulating static mesh Colere_Plafond
+[2022.05.25-08.15.48:388][373]LogStaticMesh: Building static mesh Colere_Plafond...
+[2022.05.25-08.15.48:409][373]LogStaticMesh: Built static mesh [0.02s] /Game/JtmHugo/JtmHugo/Colere_Plafond.Colere_Plafond
+[2022.05.25-08.15.48:411][373]LogStaticMesh: Warning: Colere_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:411][373]LogStaticMesh: Warning: Colere_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:412][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:412][373]FBXImport: Warning: Colere_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:412][373]FBXImport: Warning: Colere_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:415][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Deni_Murs.fbx)
+[2022.05.25-08.15.48:426][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Deni_Murs.fbx
+[2022.05.25-08.15.48:430][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:431][373]LogFbx: Display: Triangulating static mesh Deni_Murs
+[2022.05.25-08.15.48:465][373]LogStaticMesh: Building static mesh Deni_Murs...
+[2022.05.25-08.15.48:497][373]LogStaticMesh: Built static mesh [0.03s] /Game/JtmHugo/JtmHugo/Deni_Murs.Deni_Murs
+[2022.05.25-08.15.48:500][373]LogStaticMesh: Warning: Deni_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:500][373]LogStaticMesh: Warning: Deni_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:502][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:502][373]FBXImport: Warning: Deni_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:502][373]FBXImport: Warning: Deni_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:508][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Deni_Plafond.fbx)
+[2022.05.25-08.15.48:513][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Deni_Plafond.fbx
+[2022.05.25-08.15.48:517][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:518][373]LogFbx: Display: Triangulating static mesh Deni_Plafond
+[2022.05.25-08.15.48:533][373]LogStaticMesh: Building static mesh Deni_Plafond...
+[2022.05.25-08.15.48:551][373]LogStaticMesh: Built static mesh [0.02s] /Game/JtmHugo/JtmHugo/Deni_Plafond.Deni_Plafond
+[2022.05.25-08.15.48:553][373]LogStaticMesh: Warning: Deni_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:553][373]LogStaticMesh: Warning: Deni_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:555][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:555][373]FBXImport: Warning: Deni_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:555][373]FBXImport: Warning: Deni_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:560][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Depression_Murs.fbx)
+[2022.05.25-08.15.48:565][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Depression_Murs.fbx
+[2022.05.25-08.15.48:569][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:570][373]LogFbx: Display: Triangulating static mesh Depression_Murs
+[2022.05.25-08.15.48:605][373]LogStaticMesh: Building static mesh Depression_Murs...
+[2022.05.25-08.15.48:638][373]LogStaticMesh: Built static mesh [0.03s] /Game/JtmHugo/JtmHugo/Depression_Murs.Depression_Murs
+[2022.05.25-08.15.48:643][373]LogStaticMesh: Warning: Depression_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:643][373]LogStaticMesh: Warning: Depression_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:644][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:644][373]FBXImport: Warning: Depression_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:644][373]FBXImport: Warning: Depression_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:652][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Depression_Plafond.fbx)
+[2022.05.25-08.15.48:658][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Depression_Plafond.fbx
+[2022.05.25-08.15.48:662][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:663][373]LogFbx: Display: Triangulating static mesh Depression_Plafond
+[2022.05.25-08.15.48:677][373]LogStaticMesh: Building static mesh Depression_Plafond...
+[2022.05.25-08.15.48:700][373]LogStaticMesh: Built static mesh [0.02s] /Game/JtmHugo/JtmHugo/Depression_Plafond.Depression_Plafond
+[2022.05.25-08.15.48:702][373]LogStaticMesh: Warning: Depression_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:702][373]LogStaticMesh: Warning: Depression_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:703][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:703][373]FBXImport: Warning: Depression_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:703][373]FBXImport: Warning: Depression_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:708][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Marchandage_Murs.fbx)
+[2022.05.25-08.15.48:713][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Marchandage_Murs.fbx
+[2022.05.25-08.15.48:718][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:719][373]LogFbx: Display: Triangulating static mesh Marchandage_Murs
+[2022.05.25-08.15.48:761][373]LogStaticMesh: Building static mesh Marchandage_Murs...
+[2022.05.25-08.15.48:805][373]LogStaticMesh: Built static mesh [0.04s] /Game/JtmHugo/JtmHugo/Marchandage_Murs.Marchandage_Murs
+[2022.05.25-08.15.48:810][373]LogStaticMesh: Warning: Marchandage_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:810][373]LogStaticMesh: Warning: Marchandage_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:812][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:812][373]FBXImport: Warning: Marchandage_Murs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:812][373]FBXImport: Warning: Marchandage_Murs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:821][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Marchandage_Plafond.fbx)
+[2022.05.25-08.15.48:826][373]LogFbx: Loading FBX Scene from C:\Users\h.daviaud\Downloads\JtmHugo/JtmHugo/Marchandage_Plafond.fbx
+[2022.05.25-08.15.48:830][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.25-08.15.48:831][373]LogFbx: Display: Triangulating static mesh Marchandage_Plafond
+[2022.05.25-08.15.48:847][373]LogStaticMesh: Building static mesh Marchandage_Plafond...
+[2022.05.25-08.15.48:871][373]LogStaticMesh: Built static mesh [0.02s] /Game/JtmHugo/JtmHugo/Marchandage_Plafond.Marchandage_Plafond
+[2022.05.25-08.15.48:873][373]LogStaticMesh: Warning: Marchandage_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.25-08.15.48:873][373]LogStaticMesh: Warning: Marchandage_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.25-08.15.48:874][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.25-08.15.48:874][373]FBXImport: Warning: Marchandage_Plafond has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.05.25-08.15.48:874][373]FBXImport: Warning: Marchandage_Plafond has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.05.25-08.15.48:950][375]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.25-08.15.48:950][375]LogShaderCompilers: Display: Total job queries 2361, among them cache hits 1477 (62.56%)
+[2022.05.25-08.15.48:950][375]LogShaderCompilers: Display: Tracking 884 distinct input hashes that result in 548 distinct outputs (61.99%)
+[2022.05.25-08.15.48:950][375]LogShaderCompilers: Display: RAM used: 2.96 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.36%
+[2022.05.25-08.15.48:950][375]LogShaderCompilers: Display: ================================================
+[2022.05.25-08.15.52:011][716]LogSlate: Window 'Message Log' being destroyed
+[2022.05.25-08.15.52:016][716]LogSlate: Window 'Message Log' being destroyed
+[2022.05.25-08.16.08:963][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.25-08.16.09:020][534]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/LevelDesign1FA2DEC54A1E543319998F99D13728DB.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-08.16.09:051][534]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/LevelDesign_BuiltDataC88A1CD4427E41706D416DA06D37EE96.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.05.25-08.16.09:060][534]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-08.16.09:060][534]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-08.16.09:060][534]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.05.25-08.16.16:049][231]LogActorFactory: Actor Factory created Marchandage_Plafond
+[2022.05.25-08.16.19:807][519]LogActorFactory: Actor Factory created Marchandage_Plafond
+[2022.05.25-08.16.19:807][519]LogActorFactory: Actor Factory created Marchandage_Murs
+[2022.05.25-08.16.21:770][740]LogActorFactory: Actor Factory created Marchandage_Plafond
+[2022.05.25-08.16.21:770][740]LogActorFactory: Actor Factory created Marchandage_Murs
+[2022.05.25-08.16.22:583][830]LogActorFactory: Actor Factory created Marchandage_Plafond
+[2022.05.25-08.16.22:593][830]LogActorFactory: Actor Factory created Marchandage_Murs
+[2022.05.25-08.16.51:865][231]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/JtmHugo/JtmHugo/Marchandage_Murs.Marchandage_Murs
+[2022.05.25-08.16.51:939][231]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.05.25-08.16.52:015][231]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.25-08.17.15:192][433]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Marchandage_MursDB002212442AE094D53700946A906071.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Marchandage_Murs.uasset'
+[2022.05.25-08.17.15:207][433]AssetCheck: New page: Asset Save: Marchandage_Murs
+[2022.05.25-08.17.15:207][433]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Marchandage_Murs.Marchandage_Murs
+[2022.05.25-08.17.21:810][144]LogSlate: Window 'Marchandage_Murs' being destroyed
+[2022.05.25-08.17.21:815][144]LogSlate: Window 'Marchandage_Murs' being destroyed
+[2022.05.25-08.17.21:843][144]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.17.21:843][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.17.31:044][ 79]LogActorFactory: Actor Factory created Depression_Plafond
+[2022.05.25-08.17.31:044][ 79]LogActorFactory: Actor Factory created Depression_Murs
+[2022.05.25-08.17.32:720][268]LogActorFactory: Actor Factory created Depression_Plafond
+[2022.05.25-08.17.32:730][268]LogActorFactory: Actor Factory created Depression_Murs
+[2022.05.25-08.18.17:976][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marchandage_Murs)
+[2022.05.25-08.18.20:041][812]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Marchandage_Plafond)
+[2022.05.25-08.18.34:937][310]LogActorFactory: Actor Factory created Deni_Murs
+[2022.05.25-08.18.34:937][310]LogActorFactory: Actor Factory created Deni_Plafond
+[2022.05.25-08.18.35:716][395]LogActorFactory: Actor Factory created Deni_Murs
+[2022.05.25-08.18.35:725][395]LogActorFactory: Actor Factory created Deni_Plafond
+[2022.05.25-08.18.43:518][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Depression_Plafond)
+[2022.05.25-08.18.43:875][301]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Depression_Murs)
+[2022.05.25-08.18.48:037][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marchandage_Plafond)
+[2022.05.25-08.18.49:403][941]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Marchandage_Murs)
+[2022.05.25-08.19.07:398][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marchandage_Plafond)
+[2022.05.25-08.19.08:987][207]Cmd: TRANSACTION UNDO
+[2022.05.25-08.19.08:987][207]LogEditorTransaction: Undo Move Actors
+[2022.05.25-08.19.09:716][232]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Marchandage_Murs)
+[2022.05.25-08.19.12:696][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Deni_Plafond)
+[2022.05.25-08.19.13:193][610]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Deni_Murs)
+[2022.05.25-08.19.29:404][501]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.19.31:676][754]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.19.32:949][906]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.19.34:085][ 41]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.19.35:201][164]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.19.35:208][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.19.35:208][164]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:19:35)
+[2022.05.25-08.19.35:208][164]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.19.35:233][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024696s)
+[2022.05.25-08.19.35:234][164]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.19.35:234][164]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2022.05.25-08.19.35:234][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.025624s)
+[2022.05.25-08.19.35:284][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.05.25-08.19.35:291][164]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.25-08.19.35:291][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.19.35:291][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.19.35:291][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.19.35:291][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.19.35:291][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.19.35:291][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.19.35:291][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.19.35:291][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.19.35:292][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.19.35:292][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.19.35:292][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.19.35:292][164]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.19.35:294][164]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.19.35:294][164]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.19.35:301][164]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.05.25-08.19.35:301][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.19.35:301][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.19.35:301][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.19.35:301][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.19.35:301][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.19.35:301][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.19.35:302][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.19.35:302][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.19.35:302][164]LogInit: FAudioDevice initialized.
+[2022.05.25-08.19.35:302][164]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelDesign'.
+[2022.05.25-08.19.35:311][164]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.19.35:314][164]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.19.35
+[2022.05.25-08.19.35:314][164]LogWorld: Bringing up level for play took: 0.002293
+[2022.05.25-08.19.35:314][164]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.05.25-08.19.35:315][164]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.19.35:317][164]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.19.35:317][164]PIE: Server logged in
+[2022.05.25-08.19.35:317][164]PIE: Play in editor total start time 0,11 seconds.
+[2022.05.25-08.20.12:714][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.20.12:714][638]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.20.12:715][638]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.20.12:715][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.20.12:724][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.20.12:734][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.20.12:743][638]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.20.12:744][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.20.12:745][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.20.12:747][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.20.12:751][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.05.25-08.20.12:803][640]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.25-08.20.26:677][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Depression_Murs)
+[2022.05.25-08.20.28:898][550]LogEditorViewport: Clicking Background
+[2022.05.25-08.21.58:421][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Depression_Murs)
+[2022.05.25-08.25.54:476][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marchandage_Murs)
+[2022.05.25-08.25.55:243][711]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Marchandage_Plafond)
+[2022.05.25-08.26.12:413][698]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.05.25-08.26.54:997][580]Cmd: EDIT COPY
+[2022.05.25-08.26.55:432][632]Cmd: EDIT PASTE
+[2022.05.25-08.26.59:231][ 21]Cmd: TRANSACTION UNDO
+[2022.05.25-08.26.59:231][ 21]LogEditorTransaction: Undo Edit Brush Type
+[2022.05.25-08.27.05:851][707]Cmd: EDIT COPY
+[2022.05.25-08.27.06:935][837]Cmd: EDIT PASTE
+[2022.05.25-08.27.37:749][335]Cmd: DELETE
+[2022.05.25-08.27.37:750][335]Cmd: ACTOR DELETE
+[2022.05.25-08.27.37:759][335]LogEditorActor: Deleted Actor: Brush
+[2022.05.25-08.27.37:774][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.05.25-08.27.37:817][335]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.05.25-08.28.43:580][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.05.25-08.28.43:641][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/LevelDesign_Auto2D368995948E72A7B8BD50CBD5E04E346.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/LevelDesign_Auto2.umap'
+[2022.05.25-08.28.43:643][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LevelDesign' took 0.075
+[2022.05.25-08.28.43:643][345]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2022.05.25-08.28.43:643][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JtmHugo/JtmHugo/Acceptation_Murs] ([1] browsable assets)...
+[2022.05.25-08.28.43:656][345]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/JtmHugo/JtmHugo/Acceptation_Murs.Acceptation_Murs]
+[2022.05.25-08.28.43:656][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/JtmHugo/JtmHugo/Acceptation_Murs]
+[2022.05.25-08.28.43:664][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Acceptation_Murs_Auto25A38CDF14DE323B0827B95B3B8EF9965.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/JtmHugo/JtmHugo/Acceptation_Murs_Auto2.uasset'
+[2022.05.25-08.28.43:665][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JtmHugo/JtmHugo/Acceptation_Plafond] ([1] browsable assets)...
+[2022.05.25-08.28.43:677][345]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/JtmHugo/JtmHugo/Acceptation_Plafond.Acceptation_Plafond]
+[2022.05.25-08.28.43:677][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/JtmHugo/JtmHugo/Acceptation_Plafond]
+[2022.05.25-08.28.43:683][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Acceptation_Plafond_Auto209FB14BB40B1F506277833877785448F.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/JtmHugo/JtmHugo/Acceptation_Plafond_Auto2.uasset'
+[2022.05.25-08.28.43:684][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JtmHugo/JtmHugo/Colere_Murs] ([1] browsable assets)...
+[2022.05.25-08.28.43:696][345]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/JtmHugo/JtmHugo/Colere_Murs.Colere_Murs]
+[2022.05.25-08.28.43:696][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/JtmHugo/JtmHugo/Colere_Murs]
+[2022.05.25-08.28.43:705][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Colere_Murs_Auto26030B2EA49EF11A25A687792881FE382.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/JtmHugo/JtmHugo/Colere_Murs_Auto2.uasset'
+[2022.05.25-08.28.43:707][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JtmHugo/JtmHugo/Colere_Plafond] ([1] browsable assets)...
+[2022.05.25-08.28.43:718][345]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/JtmHugo/JtmHugo/Colere_Plafond.Colere_Plafond]
+[2022.05.25-08.28.43:718][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/JtmHugo/JtmHugo/Colere_Plafond]
+[2022.05.25-08.28.43:725][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Colere_Plafond_Auto2AC9CC1274C464E94DE19CDA2580CA026.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/JtmHugo/JtmHugo/Colere_Plafond_Auto2.uasset'
+[2022.05.25-08.28.43:726][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JtmHugo/JtmHugo/Deni_Murs] ([1] browsable assets)...
+[2022.05.25-08.28.43:737][345]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/JtmHugo/JtmHugo/Deni_Murs.Deni_Murs]
+[2022.05.25-08.28.43:737][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/JtmHugo/JtmHugo/Deni_Murs]
+[2022.05.25-08.28.43:746][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Deni_Murs_Auto262FD045A4B441D10709E18891B7CC04F.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/JtmHugo/JtmHugo/Deni_Murs_Auto2.uasset'
+[2022.05.25-08.28.43:747][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JtmHugo/JtmHugo/Deni_Plafond] ([1] browsable assets)...
+[2022.05.25-08.28.43:758][345]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/JtmHugo/JtmHugo/Deni_Plafond.Deni_Plafond]
+[2022.05.25-08.28.43:758][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/JtmHugo/JtmHugo/Deni_Plafond]
+[2022.05.25-08.28.43:766][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Deni_Plafond_Auto2E0E3B9D54B35BEE7AC3ED286C3B22080.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/JtmHugo/JtmHugo/Deni_Plafond_Auto2.uasset'
+[2022.05.25-08.28.43:766][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JtmHugo/JtmHugo/Depression_Murs] ([1] browsable assets)...
+[2022.05.25-08.28.43:781][345]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/JtmHugo/JtmHugo/Depression_Murs.Depression_Murs]
+[2022.05.25-08.28.43:782][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/JtmHugo/JtmHugo/Depression_Murs]
+[2022.05.25-08.28.43:791][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Depression_Murs_Auto2EBD9984A4E6D481B26392CA537CFED70.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/JtmHugo/JtmHugo/Depression_Murs_Auto2.uasset'
+[2022.05.25-08.28.43:792][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JtmHugo/JtmHugo/Depression_Plafond] ([1] browsable assets)...
+[2022.05.25-08.28.43:803][345]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/JtmHugo/JtmHugo/Depression_Plafond.Depression_Plafond]
+[2022.05.25-08.28.43:803][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/JtmHugo/JtmHugo/Depression_Plafond]
+[2022.05.25-08.28.43:810][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Depression_Plafond_Auto22581008646904FB911A9A0896CE6EBB8.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/JtmHugo/JtmHugo/Depression_Plafond_Auto2.uasset'
+[2022.05.25-08.28.43:811][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JtmHugo/JtmHugo/Marchandage_Plafond] ([1] browsable assets)...
+[2022.05.25-08.28.43:822][345]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/JtmHugo/JtmHugo/Marchandage_Plafond.Marchandage_Plafond]
+[2022.05.25-08.28.43:822][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/JtmHugo/JtmHugo/Marchandage_Plafond]
+[2022.05.25-08.28.43:829][345]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Marchandage_Plafond_Auto24E2817F14F3832A087574AB214F933B3.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/JtmHugo/JtmHugo/Marchandage_Plafond_Auto2.uasset'
+[2022.05.25-08.28.43:830][345]LogFileHelpers: Auto-saving content packages took 0.186
+[2022.05.25-08.29.28:723][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marchandage_Murs)
+[2022.05.25-08.47.49:021][278]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.05.25-08.48.09:190][394]Cmd: TRANSACTION UNDO
+[2022.05.25-08.48.09:190][394]LogEditorTransaction: Undo Set Scale
+[2022.05.25-08.48.09:505][401]Cmd: TRANSACTION UNDO
+[2022.05.25-08.48.09:505][401]LogEditorTransaction: Undo Set Scale
+[2022.05.25-08.48.23:507][953]Cmd: TRANSACTION UNDO
+[2022.05.25-08.48.23:507][953]LogEditorTransaction: Undo Set Scale
+[2022.05.25-08.49.10:208][218]Cmd: EDIT COPY
+[2022.05.25-08.49.10:550][259]Cmd: EDIT PASTE
+[2022.05.25-08.49.16:501][953]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Depression_Murs)
+[2022.05.25-08.49.47:169][491]Cmd: TRANSACTION UNDO
+[2022.05.25-08.49.47:169][491]LogEditorTransaction: Undo Set Scale
+[2022.05.25-08.50.01:332][ 55]LogEditorViewport: Clicking Background
+[2022.05.25-08.50.04:555][438]Cmd: EDIT COPY
+[2022.05.25-08.50.04:930][483]Cmd: EDIT PASTE
+[2022.05.25-08.50.41:648][631]LogEditorViewport: Clicking Background
+[2022.05.25-08.50.57:313][429]Cmd: EDIT COPY
+[2022.05.25-08.50.57:673][472]Cmd: EDIT PASTE
+[2022.05.25-08.51.09:085][739]Cmd: EDCALLBACK SURFPROPS
+[2022.05.25-08.51.15:585][504]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Depression_Murs)
+[2022.05.25-08.51.17:911][738]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.51.17:917][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.51.17:917][738]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:51:17)
+[2022.05.25-08.51.17:963][738]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.51.17:990][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027297s)
+[2022.05.25-08.51.17:991][738]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.51.17:991][738]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2022.05.25-08.51.17:991][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.028389s)
+[2022.05.25-08.51.18:019][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.05.25-08.51.18:029][738]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.25-08.51.18:029][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.51.18:029][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.51.18:029][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.51.18:029][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.51.18:029][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.51.18:029][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.51.18:029][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.51.18:029][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.51.18:030][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.51.18:030][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.51.18:030][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.51.18:030][738]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.51.18:032][738]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.51.18:032][738]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.51.18:038][738]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.05.25-08.51.18:039][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.51.18:039][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.51.18:039][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.51.18:039][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.51.18:039][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.51.18:039][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.51.18:040][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.51.18:040][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.51.18:040][738]LogInit: FAudioDevice initialized.
+[2022.05.25-08.51.18:040][738]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelDesign'.
+[2022.05.25-08.51.18:046][738]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.51.18:049][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.51.18
+[2022.05.25-08.51.18:049][738]LogWorld: Bringing up level for play took: 0.002442
+[2022.05.25-08.51.18:049][738]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.05.25-08.51.18:050][738]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.51.18:052][738]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.51.18:052][738]PIE: Server logged in
+[2022.05.25-08.51.18:053][738]PIE: Play in editor total start time 0,136 seconds.
+[2022.05.25-08.52.16:082][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.52.16:082][696]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.52.16:082][696]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.52.16:083][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.52.16:093][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.52.16:103][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.52.16:117][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.52.16:117][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.52.16:118][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.52.16:120][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.52.16:123][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.05.25-08.52.16:179][698]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.05.25-08.52.21:917][373]Cmd: TRANSACTION UNDO
+[2022.05.25-08.52.21:917][373]LogEditorTransaction: Undo Move Actors
+[2022.05.25-08.52.48:352][350]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.05.25-08.52.50:825][629]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.52.52:292][804]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.52.53:959][  3]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.52.54:888][113]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.52.54:895][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.52.54:895][113]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:52:54)
+[2022.05.25-08.52.54:918][113]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.52.54:941][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022950s)
+[2022.05.25-08.52.54:942][113]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.52.54:942][113]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2022.05.25-08.52.54:942][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.023880s)
+[2022.05.25-08.52.54:956][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.05.25-08.52.54:964][113]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.25-08.52.54:964][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.52.54:964][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.52.54:964][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.52.54:964][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.52.54:964][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.52.54:964][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.52.54:964][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.52.54:964][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.52.54:964][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.52.54:964][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.52.54:964][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.52.54:964][113]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.52.54:967][113]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.52.54:967][113]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.52.54:972][113]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.05.25-08.52.54:973][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.52.54:973][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.52.54:973][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.52.54:973][113]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.52.54:973][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.52.54:973][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.52.54:974][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.52.54:974][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.52.54:974][113]LogInit: FAudioDevice initialized.
+[2022.05.25-08.52.54:974][113]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelDesign'.
+[2022.05.25-08.52.54:982][113]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.52.54:985][113]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.52.54
+[2022.05.25-08.52.54:985][113]LogWorld: Bringing up level for play took: 0.002423
+[2022.05.25-08.52.54:985][113]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.05.25-08.52.54:990][113]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.05.25-08.52.54:991][113]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.52.54:992][113]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.52.54:992][113]PIE: Server logged in
+[2022.05.25-08.52.54:992][113]PIE: Play in editor total start time 0,098 seconds.
+[2022.05.25-08.52.58:840][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.52.58:840][556]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.52.58:841][556]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.52.58:841][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.52.58:852][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.52.58:863][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.52.58:876][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-08.52.58:877][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.52.58:877][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.52.58:879][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.52.58:882][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.25-08.52.58:906][557]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.05.25-08.53.06:793][475]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.53.09:877][840]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.53.12:844][174]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.25-08.53.13:771][278]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.53.13:777][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.53.13:777][278]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:53:13)
+[2022.05.25-08.53.13:803][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.53.13:825][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022346s)
+[2022.05.25-08.53.13:826][278]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.53.13:826][278]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2022.05.25-08.53.13:826][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.023262s)
+[2022.05.25-08.53.13:838][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.05.25-08.53.13:843][278]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.25-08.53.13:843][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.53.13:843][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.53.13:843][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.53.13:843][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.53.13:843][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.53.13:843][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.53.13:843][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.53.13:843][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.53.13:843][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.53.13:843][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.53.13:843][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.53.13:843][278]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.53.13:845][278]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.53.13:845][278]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.53.13:851][278]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.05.25-08.53.13:851][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.53.13:851][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.53.13:851][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.53.13:851][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.53.13:851][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.53.13:851][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.53.13:852][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.53.13:852][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.53.13:852][278]LogInit: FAudioDevice initialized.
+[2022.05.25-08.53.13:852][278]LogAudio: Display: Audio Device (ID: 6) registered with world 'LevelDesign'.
+[2022.05.25-08.53.13:857][278]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.53.13:860][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.53.13
+[2022.05.25-08.53.13:860][278]LogWorld: Bringing up level for play took: 0.002462
+[2022.05.25-08.53.13:860][278]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.05.25-08.53.13:861][278]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.53.13:863][278]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.53.13:863][278]PIE: Server logged in
+[2022.05.25-08.53.13:863][278]PIE: Play in editor total start time 0,087 seconds.
+[2022.05.25-08.54.09:252][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.54.09:252][918]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.54.09:253][918]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.54.09:253][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.54.09:267][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.54.09:278][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.54.09:291][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.54.09:291][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.54.09:292][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.54.09:297][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.05.25-08.54.09:322][919]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.05.25-08.54.10:673][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-08.54.10:680][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-08.54.10:680][ 71]PIE: New page: PIE session: LevelDesign (25 mai 2022 à 12:54:10)
+[2022.05.25-08.54.10:701][ 71]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.54.10:722][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020908s)
+[2022.05.25-08.54.10:723][ 71]LogAIModule: Creating AISystem for world LevelDesign
+[2022.05.25-08.54.10:723][ 71]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2022.05.25-08.54.10:723][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.021816s)
+[2022.05.25-08.54.10:735][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.05.25-08.54.10:736][ 71]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.25-08.54.10:736][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-08.54.10:736][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-08.54.10:736][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-08.54.10:736][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-08.54.10:736][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-08.54.10:736][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-08.54.10:736][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-08.54.10:736][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-08.54.10:737][ 71]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-08.54.10:737][ 71]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-08.54.10:737][ 71]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-08.54.10:737][ 71]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-08.54.10:739][ 71]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-08.54.10:739][ 71]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-08.54.10:745][ 71]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.05.25-08.54.10:745][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-08.54.10:745][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-08.54.10:745][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-08.54.10:745][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-08.54.10:745][ 71]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-08.54.10:745][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-08.54.10:746][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-08.54.10:746][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-08.54.10:746][ 71]LogInit: FAudioDevice initialized.
+[2022.05.25-08.54.10:746][ 71]LogAudio: Display: Audio Device (ID: 7) registered with world 'LevelDesign'.
+[2022.05.25-08.54.10:754][ 71]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.25-08.54.10:757][ 71]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.05.25-10.54.10
+[2022.05.25-08.54.10:757][ 71]LogWorld: Bringing up level for play took: 0.002170
+[2022.05.25-08.54.10:757][ 71]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.05.25-08.54.10:759][ 71]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.25-08.54.10:760][ 71]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.05.25-08.54.10:760][ 71]PIE: Server logged in
+[2022.05.25-08.54.10:761][ 71]PIE: Play in editor total start time 0,081 seconds.
+[2022.05.25-08.54.40:583][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.54.40:583][645]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.05.25-08.54.40:583][645]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-08.54.40:583][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.54.40:591][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-08.54.40:601][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-08.54.40:616][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-08.54.40:616][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.54.40:616][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-08.54.40:621][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.05.25-08.54.40:676][647]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.05.25-08.55.23:760][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.25-08.55.23:826][577]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/LevelDesign_Auto3E77E148342C5082A702091B986FB5CDB.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/LevelDesign_Auto3.umap'
+[2022.05.25-08.55.23:828][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LevelDesign' took 0.080
+[2022.05.25-08.55.23:828][577]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2022.05.25-09.05.25:686][627]LogEditorViewport: Clicking Background
+[2022.05.25-09.07.56:925][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.05.25-09.07.56:995][625]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/LevelDesign_Auto4B7AAB3964169598D6D997FA9D5CADC21.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Autosaves/Game/Maps/LevelDesign_Auto4.umap'
+[2022.05.25-09.07.56:997][625]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LevelDesign' took 0.086
+[2022.05.25-09.07.56:997][625]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2022.05.25-09.15.38:653][896]Cmd: DELETE
+[2022.05.25-09.15.38:653][896]Cmd: ACTOR DELETE
+[2022.05.25-09.15.38:662][896]LogEditorActor: Deleted Actor: Brush
+[2022.05.25-09.15.38:676][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.05.25-09.15.38:722][896]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2022.05.25-09.16.07:623][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.05.25-09.16.10:087][766]LogSlate: Window 'Save Content' being destroyed
+[2022.05.25-09.16.10:166][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Acceptation_Murs04EB378048572AE55DC609991A060DF9.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Acceptation_Murs.uasset'
+[2022.05.25-09.16.10:187][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Acceptation_Plafond5CC0618F40E4B33BD0634388CEC9CFBC.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Acceptation_Plafond.uasset'
+[2022.05.25-09.16.10:212][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Colere_Murs89E66E5E4084CF6E9B6C6E8534987726.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Colere_Murs.uasset'
+[2022.05.25-09.16.10:234][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Colere_Plafond7347F9274DA86819231D2691202F0CEE.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Colere_Plafond.uasset'
+[2022.05.25-09.16.10:256][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Deni_MursDA5965D34B423763E587A8AE7A12D2AE.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Deni_Murs.uasset'
+[2022.05.25-09.16.10:276][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Deni_Plafond3805054B46CF35CA73A1BCA0AFC23EFA.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Deni_Plafond.uasset'
+[2022.05.25-09.16.10:299][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Depression_MursD7CA1A1A4667942AACFE3FAE13539CEF.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Depression_Murs.uasset'
+[2022.05.25-09.16.10:320][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Depression_Plafond80E0265044FE88E5D3DCE8A42BC51E7A.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Depression_Plafond.uasset'
+[2022.05.25-09.16.10:369][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.25-09.16.10:562][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/LevelDesign16D3B4994A5B50419C52FBAABF7B6771.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Maps/LevelDesign.umap'
+[2022.05.25-09.16.10:691][766]LogFileHelpers: Saving map 'LevelDesign' took 0.367
+[2022.05.25-09.16.10:711][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Marchandage_Plafond22082F7E46DBC6D4240A8B9502AD33EF.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Marchandage_Plafond.uasset'
+[2022.05.25-09.16.10:742][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JtmHugo/JtmHugo/Mur" FILE="../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Mur.uasset" SILENT=true
+[2022.05.25-09.16.10:764][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Mur31BB65264A6B437F2F4315BA57021E6D.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Mur.uasset'
+[2022.05.25-09.16.10:793][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JtmHugo/JtmHugo/Plafond" FILE="../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Plafond.uasset" SILENT=true
+[2022.05.25-09.16.10:812][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/PlafondEAD947EB4948C521103D329A2CAD1C2E.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Plafond.uasset'
+[2022.05.25-09.16.10:844][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JtmHugo/JtmHugo/Plinthe" FILE="../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Plinthe.uasset" SILENT=true
+[2022.05.25-09.16.10:864][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Plinthe62AB591646E11171855C7B9547FBAD3A.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Plinthe.uasset'
+[2022.05.25-09.16.10:895][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JtmHugo/JtmHugo/Sol" FILE="../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Sol.uasset" SILENT=true
+[2022.05.25-09.16.10:915][766]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/Sol23D071874C2C19A4D95925821C41C97B.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/JtmHugo/JtmHugo/Sol.uasset'
+[2022.05.25-09.16.10:983][766]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-09.16.10:983][766]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Depression_Plafond.Depression_Plafond
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Marchandage_Plafond.Marchandage_Plafond
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Depression_Murs.Depression_Murs
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Deni_Plafond.Deni_Plafond
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Deni_Murs.Deni_Murs
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Colere_Plafond.Colere_Plafond
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Colere_Murs.Colere_Murs
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating Material /Game/JtmHugo/JtmHugo/Plafond.Plafond
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Acceptation_Plafond.Acceptation_Plafond
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating Material /Game/JtmHugo/JtmHugo/Mur.Mur
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating Material /Game/JtmHugo/JtmHugo/Plinthe.Plinthe
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating Material /Game/JtmHugo/JtmHugo/Sol.Sol
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating StaticMesh /Game/JtmHugo/JtmHugo/Acceptation_Murs.Acceptation_Murs
+[2022.05.25-09.16.10:984][766]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.05.25-09.16.22:627][820]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.05.25-10.03.50:189][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.25-10.03.51:413][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.25-10.03.51:436][293]LogSlate: Window 'SkipUe4 - Unreal Editor' being destroyed
+[2022.05.25-10.03.51:543][294]Cmd: QUIT_EDITOR
+[2022.05.25-10.03.51:543][294]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.25-10.03.51:547][294]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.25-10.03.52:257][294]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.25-10.03.52:257][294]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.25-10.03.52:257][294]LogAudio: Display: Audio Device unregistered from world 'LevelDesign'.
+[2022.05.25-10.03.52:257][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-10.03.52:259][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-10.03.52:272][294]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.25-10.03.52:273][294]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.25-10.03.52:281][294]LogExit: Preparing to exit.
+[2022.05.25-10.03.52:298][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.25-10.03.53:167][294]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-10.03.53:175][294]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-10.03.53:176][294]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-10.03.53:207][294]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.25-10.03.53:215][294]LogExit: Editor shut down
+[2022.05.25-10.03.53:216][294]LogExit: Transaction tracking system shut down
+[2022.05.25-10.03.53:557][294]LogExit: Object subsystem successfully closed.
+[2022.05.25-10.03.53:578][294]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.25-10.03.53:578][294]LogShaderCompilers: Display: Total job queries 2425, among them cache hits 1541 (63.55%)
+[2022.05.25-10.03.53:578][294]LogShaderCompilers: Display: Tracking 884 distinct input hashes that result in 548 distinct outputs (61.99%)
+[2022.05.25-10.03.53:578][294]LogShaderCompilers: Display: RAM used: 2.96 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.36%
+[2022.05.25-10.03.53:578][294]LogShaderCompilers: Display: ================================================
+[2022.05.25-10.03.53:590][294]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.25-10.03.53:610][294]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (878)
+[2022.05.25-10.03.53:610][294]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2022.05.25-10.03.53:610][294]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2022.05.25-10.03.53:610][294]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2022.05.25-10.03.53:610][294]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.05.25-10.03.53:610][294]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.05.25-10.03.53:610][294]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.05.25-10.03.53:612][294]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.05.25-10.03.53:612][294]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.05.25-10.03.53:612][294]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.05.25-10.03.53:612][294]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.05.25-10.03.53:612][294]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.05.25-10.03.53:612][294]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.05.25-10.03.53:612][294]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.05.25-10.03.53:612][294]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.05.25-10.03.53:612][294]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (840)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module OpenXRInput (838)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (836)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (834)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (832)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module GooglePADEditor (830)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (828)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module CharacterAI (824)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (816)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (814)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (808)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (806)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (804)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (802)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (800)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (798)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (796)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (794)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.05.25-10.03.53:613][294]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.05.25-10.03.53:614][294]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.05.25-10.03.53:929][294]MemoryProfiler: Shutdown
+[2022.05.25-10.03.53:929][294]NetworkingProfiler: Shutdown
+[2022.05.25-10.03.53:929][294]LoadingProfiler: Shutdown
+[2022.05.25-10.03.53:929][294]TimingProfiler: Shutdown
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.05.25-10.03.53:929][294]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.05.25-10.03.53:930][294]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.05.25-10.03.53:930][294]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.05.25-10.03.53:930][294]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.05.25-10.03.53:930][294]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.05.25-10.03.53:930][294]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.05.25-10.03.53:930][294]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.05.25-10.03.53:962][294]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.05.25-10.03.53:969][294]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.05.25-10.03.53:969][294]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.05.25-10.03.53:969][294]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.05.25-10.03.53:969][294]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.05.25-10.03.53:969][294]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.05.25-10.03.53:969][294]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.05.25-10.03.53:969][294]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.05.25-10.03.53:971][294]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.05.25-10.03.53:976][294]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module SynthesisEditor (586)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module Synthesis (584)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (582)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (580)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module ScreenshotTools (578)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module TemplateSequence (576)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module OpenXREditor (574)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (572)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module GooglePAD (570)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module EditableMesh (568)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.05.25-10.03.54:085][294]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (564)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AssetTags (562)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AudioCapture (560)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (559)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (556)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AndroidPermission (550)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (548)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (546)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (544)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MotoSynth (542)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (540)
+[2022.05.25-10.03.54:086][294]LogOpenImageDenoise: OIDN shutting down
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MeshConversion (538)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module DynamicMesh (536)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (534)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometricObjects (532)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (530)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (529)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (526)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (524)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (522)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (520)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (518)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module ChaosNiagara (516)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (514)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module FractureEditor (512)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (511)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module BackChannel (508)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (506)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AutomationUtils (504)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AlembicImporter (502)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AlembicLibrary (501)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometryCache (500)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (499)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MediaCompositing (494)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module ImgMedia (492)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (490)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (488)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (486)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (484)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (482)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (480)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (478)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (476)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (474)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (472)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module UObjectPlugin (470)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (468)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (466)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module PluginUtils (464)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (462)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (460)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (458)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module GitSourceControl (456)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module SourceControl (455)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (452)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (450)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (448)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (446)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module PluginBrowser (444)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (442)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module CurveEditorTools (436)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.05.25-10.03.54:086][294]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.05.25-10.03.54:136][294]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.05.25-10.03.54:136][294]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.05.25-10.03.54:136][294]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.05.25-10.03.54:136][294]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.05.25-10.03.54:136][294]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.05.25-10.03.54:136][294]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module ActorSequence (396)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (390)
+[2022.05.25-10.03.54:137][294]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2022.05.25-10.03.54:238][294]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2022.05.25-10.03.54:338][294]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.05.25-10.03.54:338][294]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (342)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module FacialAnimation (340)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module GameplayCameras (336)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2022.05.25-10.03.54:339][294]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.05.25-10.03.54:342][294]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (308)
+[2022.05.25-10.03.54:343][294]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (306)
+[2022.05.25-10.03.54:347][294]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.05.25-10.03.54:347][294]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.05.25-10.03.54:347][294]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.05.25-10.03.54:347][294]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.05.25-10.03.54:347][294]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.05.25-10.03.54:348][294]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.05.25-10.03.54:349][294]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.05.25-10.03.54:349][294]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.05.25-10.03.54:350][294]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.05.25-10.03.54:351][294]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.05.25-10.03.54:351][294]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.05.25-10.03.54:351][294]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.05.25-10.03.54:351][294]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.05.25-10.03.54:351][294]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.05.25-10.03.54:352][294]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.05.25-10.03.54:352][294]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.05.25-10.03.54:352][294]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.05.25-10.03.54:352][294]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.05.25-10.03.54:352][294]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.05.25-10.03.54:355][294]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.05.25-10.03.54:355][294]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.05.25-10.03.54:355][294]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.05.25-10.03.54:355][294]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.05.25-10.03.54:355][294]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.05.25-10.03.54:355][294]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.05.25-10.03.54:355][294]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.05.25-10.03.54:355][294]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.05.25-10.03.54:355][294]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.05.25-10.03.54:356][294]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.05.25-10.03.54:363][294]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.05.25-10.03.54:363][294]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.05.25-10.03.54:363][294]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.05.25-10.03.54:363][294]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.05.25-10.03.54:363][294]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.05.25-10.03.54:364][294]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.05.25-10.03.54:364][294]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.05.25-10.03.54:364][294]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.05.25-10.03.54:365][294]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.05.25-10.03.54:365][294]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.05.25-10.03.54:365][294]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.05.25-10.03.54:365][294]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.05.25-10.03.54:366][294]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.05.25-10.03.54:366][294]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.05.25-10.03.54:378][294]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.05.25-10.03.54:378][294]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.25-10.03.54:378][294]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB247A777-492A-C2BA-79A9-E49F8B8E6992%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=064096a04a8e6a6fcb65a3a51fc3b7a1%7C1ca0d2d814b04d2ea52b405325128a96%7Cbf9cfbcf-111a-42ba-b693-1928b99b3809&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.25-10.03.54:378][294]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.05.25-10.03.54:389][294]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.05.25-10.03.54:390][294]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.05.25-10.03.54:391][294]LogModuleManager: Shutting down and abandoning module ChaosCloth (74)
+[2022.05.25-10.03.54:391][294]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.05.25-10.03.54:392][294]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.05.25-10.03.54:392][294]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.05.25-10.03.54:392][294]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.05.25-10.03.54:392][294]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.05.25-10.03.54:392][294]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.05.25-10.03.54:392][294]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.05.25-10.03.54:392][294]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.05.25-10.03.54:392][294]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.05.25-10.03.54:392][294]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (40)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.05.25-10.03.54:393][294]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.05.25-10.03.54:394][294]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.05.25-10.03.54:394][294]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.25-10.03.54:395][294]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.25-10.03.54:395][294]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.25-10.03.54:414][294]LogD3D11RHI: Shutdown
+[2022.05.25-10.03.54:414][294]LogD3D11RHI: CleanupD3DDevice
+[2022.05.25-10.03.54:417][294]LogExit: Exiting.
+[2022.05.25-10.03.54:434][294]Log file closed, 05/25/22 12:03:54
