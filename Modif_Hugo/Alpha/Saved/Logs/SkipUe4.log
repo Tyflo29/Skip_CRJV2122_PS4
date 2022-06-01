@@ -1068,3 +1068,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.01-12.22.02:740][176]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/RecuperationObjet_Cue268E42894DD02E4BAFDF7586C6A78B07.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Sound/RecuperationObjet_Cue.uasset'
 [2022.06.01-12.22.02:751][176]AssetCheck: New page: Asset Save: RecuperationObjet_Cue
 [2022.06.01-12.22.02:751][176]LogContentValidation: Display: Validating SoundCue /Game/Sound/RecuperationObjet_Cue.RecuperationObjet_Cue
+[2022.06.01-12.42.24:689][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.01-12.42.24:719][205]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LevelDesign.LevelDesign
+[2022.06.01-12.42.24:720][205]Cmd: MAP LOAD FILE="../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Maps/LevelDesign.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.01-12.42.24:720][205]LightingResults: New page: Lighting Build
+[2022.06.01-12.42.24:720][205]LoadErrors: New page: Loading map: LevelDesign.umap
+[2022.06.01-12.42.24:750][205]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.42.24:750][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.42.24:750][205]MapCheck: New page: Map Check
+[2022.06.01-12.42.24:751][205]LightingResults: New page: Lighting Build
+[2022.06.01-12.42.24:756][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.01-12.42.24:759][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.06.01-12.42.24:780][205]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelDesign'.
+[2022.06.01-12.42.24:781][205]LogAIModule: Creating AISystem for world LevelDesign
+[2022.06.01-12.42.24:788][205]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.01-12.42.24:803][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.01-12.42.24:810][205]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.01-12.42.24:810][205]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2022.06.01-12.42.24:810][205]LogFileHelpers: Loading map 'LevelDesign' took 0.091
+[2022.06.01-12.42.26:198][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.01-12.42.26:512][357]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Alpha.Alpha
+[2022.06.01-12.42.26:512][357]Cmd: MAP LOAD FILE="../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Maps/Alpha.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.01-12.42.26:512][357]LightingResults: New page: Lighting Build
+[2022.06.01-12.42.26:512][357]LoadErrors: New page: Loading map: Alpha.umap
+[2022.06.01-12.42.26:514][357]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.42.26:514][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.42.26:514][357]MapCheck: New page: Map Check
+[2022.06.01-12.42.26:514][357]LightingResults: New page: Lighting Build
+[2022.06.01-12.42.26:519][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.01-12.42.26:524][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.01-12.42.26:524][357]LogAudio: Display: Audio Device (ID: 1) registered with world 'Alpha'.
+[2022.06.01-12.42.26:535][357]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.01-12.42.26:535][357]LogAIModule: Creating AISystem for world Alpha
+[2022.06.01-12.42.26:542][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.01-12.42.26:548][357]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.01-12.42.26:548][357]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2022.06.01-12.42.26:548][357]LogFileHelpers: Loading map 'Alpha' took 0.036
+[2022.06.01-12.42.26:582][359]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2022.06.01-12.50.15:360][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.06.01-12.50.15:447][120]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LevelDesign.LevelDesign
+[2022.06.01-12.50.15:447][120]Cmd: MAP LOAD FILE="../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Maps/LevelDesign.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.01-12.50.15:448][120]LightingResults: New page: Lighting Build
+[2022.06.01-12.50.15:448][120]LoadErrors: New page: Loading map: LevelDesign.umap
+[2022.06.01-12.50.15:450][120]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.50.15:450][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.50.15:450][120]MapCheck: New page: Map Check
+[2022.06.01-12.50.15:450][120]LightingResults: New page: Lighting Build
+[2022.06.01-12.50.15:454][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.01-12.50.15:461][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.01-12.50.15:462][120]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelDesign'.
+[2022.06.01-12.50.15:469][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.01-12.50.15:469][120]LogAIModule: Creating AISystem for world LevelDesign
+[2022.06.01-12.50.15:485][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.01-12.50.15:492][120]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.01-12.50.15:492][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,101ms to complete.
+[2022.06.01-12.50.15:492][120]LogFileHelpers: Loading map 'LevelDesign' took 0.044
+[2022.06.01-12.50.37:198][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Clock Ticking.wav)
+[2022.06.01-12.50.37:207][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Dry Off with Towel.wav)
+[2022.06.01-12.50.37:303][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Highway Near Waterfront Distant.wav)
+[2022.06.01-12.50.37:442][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Muscle Car Highway Skid.wav)
+[2022.06.01-12.50.37:453][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Sneaker Walk Hollow Wood.wav)
+[2022.06.01-12.50.37:468][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Soft Walk On Wood And Tile.wav)
+[2022.06.01-12.50.37:490][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Soft-Walking-On-Wood.wav)
+[2022.06.01-12.50.37:509][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Tweeter-Electric-Static.wav)
+[2022.06.01-12.50.37:534][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Vibrate-on-Wood_1.wav)
+[2022.06.01-12.50.37:566][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Walk-on-Tile-Series.wav)
+[2022.06.01-12.50.37:586][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Walking-Wood-Floor-House.wav)
+[2022.06.01-12.50.37:592][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wet-Tire-Drive-By.wav)
+[2022.06.01-12.50.37:600][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wet-Towel-Wring.wav)
+[2022.06.01-12.50.37:616][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wind on Video Camera Mic.wav)
+[2022.06.01-12.50.37:665][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wind Quiet Creaks.wav)
+[2022.06.01-12.50.37:746][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wind Up Toy.wav)
+[2022.06.01-12.50.37:783][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wind-Drawn-Into-Fire.wav)
+[2022.06.01-12.50.37:823][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Windchime Drone.wav)
+[2022.06.01-12.50.37:888][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Windshield Wipers No Water.wav)
+[2022.06.01-12.50.37:928][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wineglass On Granite Soft.wav)
+[2022.06.01-12.50.37:943][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wood Door Close and Rattle.wav)
+[2022.06.01-12.50.37:961][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wood Pencil Drop Roll Wobble.wav)
+[2022.06.01-12.50.37:968][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Wooden Bat Tapping Home Plate.wav)
+[2022.06.01-12.50.37:970][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Woodpecker Pecking Fast.wav)
+[2022.06.01-12.50.37:973][596]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\h.daviaud\Documents\GitHub\Skip_CRJV2122_PS4\Sound\Wav/Woodpecker Pecking on Tree.wav)
+[2022.06.01-12.50.41:804][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.01-12.50.41:861][993]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/LevelDesignBA63CC4C4D2B0C77A4FE889B4CB5C1E3.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Maps/LevelDesign.umap'
+[2022.06.01-12.50.41:910][993]LogSavePackage: Moving '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Saved/LevelDesign_BuiltData3153134143B6B9D1846059A44C9595F2.tmp' to '../../../../../../Users/h.daviaud/Documents/GitHub/Skip_CRJV2122_PS4/Modif_Hugo/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.06.01-12.50.41:919][993]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-12.50.41:919][993]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.06.01-12.50.41:919][993]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
