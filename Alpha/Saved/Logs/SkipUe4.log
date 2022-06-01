@@ -2225,3 +2225,167 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.01-08.05.43:675][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.06.01-08.05.43:680][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
 [2022.06.01-08.05.43:718][882]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.06.01-08.09.59:063][344]Cmd: EDIT COPY
+[2022.06.01-08.10.00:621][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.06.01-08.10.00:696][513]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LevelDesign.LevelDesign
+[2022.06.01-08.10.00:696][513]Cmd: MAP LOAD FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.01-08.10.00:696][513]LightingResults: New page: Lighting Build
+[2022.06.01-08.10.00:696][513]LoadErrors: New page: Loading map: LevelDesign.umap
+[2022.06.01-08.10.00:698][513]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-08.10.00:698][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-08.10.00:698][513]MapCheck: New page: Map Check
+[2022.06.01-08.10.00:698][513]LightingResults: New page: Lighting Build
+[2022.06.01-08.10.00:711][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.01-08.10.00:716][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.06.01-08.10.00:717][513]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelDesign'.
+[2022.06.01-08.10.00:725][513]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.01-08.10.00:725][513]LogAIModule: Creating AISystem for world LevelDesign
+[2022.06.01-08.10.00:744][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.06.01-08.10.00:752][513]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.01-08.10.00:752][513]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,078ms to complete.
+[2022.06.01-08.10.00:752][513]LogFileHelpers: Loading map 'LevelDesign' took 0.056
+[2022.06.01-08.10.12:690][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.01-08.10.12:731][875]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Alpha.Alpha
+[2022.06.01-08.10.12:731][875]Cmd: MAP LOAD FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/Alpha.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.01-08.10.12:731][875]LightingResults: New page: Lighting Build
+[2022.06.01-08.10.12:731][875]LoadErrors: New page: Loading map: Alpha.umap
+[2022.06.01-08.10.12:733][875]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-08.10.12:733][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-08.10.12:733][875]MapCheck: New page: Map Check
+[2022.06.01-08.10.12:733][875]LightingResults: New page: Lighting Build
+[2022.06.01-08.10.12:746][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.01-08.10.12:750][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.06.01-08.10.12:750][875]LogAudio: Display: Audio Device (ID: 1) registered with world 'Alpha'.
+[2022.06.01-08.10.12:760][875]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.01-08.10.12:760][875]LogAIModule: Creating AISystem for world Alpha
+[2022.06.01-08.10.12:776][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.06.01-08.10.12:783][875]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.01-08.10.12:783][875]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,069ms to complete.
+[2022.06.01-08.10.12:783][875]LogFileHelpers: Loading map 'Alpha' took 0.052
+[2022.06.01-08.10.16:640][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.06.01-08.10.16:694][267]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LevelDesign.LevelDesign
+[2022.06.01-08.10.16:694][267]Cmd: MAP LOAD FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.01-08.10.16:694][267]LightingResults: New page: Lighting Build
+[2022.06.01-08.10.16:694][267]LoadErrors: New page: Loading map: LevelDesign.umap
+[2022.06.01-08.10.16:696][267]LogWorld: UWorld::CleanupWorld for Alpha, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-08.10.16:696][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-08.10.16:696][267]MapCheck: New page: Map Check
+[2022.06.01-08.10.16:696][267]LightingResults: New page: Lighting Build
+[2022.06.01-08.10.16:708][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.01-08.10.16:712][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.06.01-08.10.16:712][267]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelDesign'.
+[2022.06.01-08.10.16:720][267]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.01-08.10.16:720][267]LogAIModule: Creating AISystem for world LevelDesign
+[2022.06.01-08.10.16:737][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.06.01-08.10.16:744][267]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.01-08.10.16:744][267]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2022.06.01-08.10.16:744][267]LogFileHelpers: Loading map 'LevelDesign' took 0.050
+[2022.06.01-08.10.22:419][916]Cmd: DELETE
+[2022.06.01-08.10.22:420][916]Cmd: ACTOR DELETE
+[2022.06.01-08.10.22:431][916]LogEditorActor: Deleted Actor: AtmosphericFog
+[2022.06.01-08.10.22:443][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.06.01-08.10.22:445][916]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.06.01-08.10.23:775][ 66]Cmd: EDIT PASTE
+[2022.06.01-08.10.29:483][727]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.01-08.10.29:490][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.01-08.10.29:490][727]PIE: New page: PIE session: LevelDesign (1 juin 2022 à 12:10:29)
+[2022.06.01-08.10.29:490][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign
+[2022.06.01-08.10.29:511][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020869s)
+[2022.06.01-08.10.29:512][727]LogAIModule: Creating AISystem for world LevelDesign
+[2022.06.01-08.10.29:512][727]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2022.06.01-08.10.29:512][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign.LevelDesign to /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign (0.021866s)
+[2022.06.01-08.10.29:524][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.06.01-08.10.29:526][727]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.06.01-08.10.29:526][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.01-08.10.29:526][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.01-08.10.29:526][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.01-08.10.29:526][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.01-08.10.29:526][727]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.01-08.10.29:526][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.01-08.10.29:526][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.01-08.10.29:526][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.01-08.10.29:526][727]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.01-08.10.29:526][727]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.01-08.10.29:526][727]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.01-08.10.29:526][727]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.01-08.10.29:529][727]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.01-08.10.29:529][727]LogAudioMixer: Display: 1: FrontRight
+[2022.06.01-08.10.29:538][727]LogAudioMixer: Display: Using Audio Device Casque (Realtek(R) Audio)
+[2022.06.01-08.10.29:538][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.01-08.10.29:538][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.01-08.10.29:538][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.01-08.10.29:539][727]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.01-08.10.29:539][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.01-08.10.29:539][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.01-08.10.29:540][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.01-08.10.29:540][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.01-08.10.29:540][727]LogInit: FAudioDevice initialized.
+[2022.06.01-08.10.29:540][727]LogAudio: Display: Audio Device (ID: 7) registered with world 'LevelDesign'.
+[2022.06.01-08.10.29:569][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-08.10.29:569][727]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.06.01-08.10.29:573][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign.LevelDesign up for play (max tick rate 0) at 2022.06.01-10.10.29
+[2022.06.01-08.10.29:573][727]LogWorld: Bringing up level for play took: 0.003065
+[2022.06.01-08.10.29:573][727]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.06.01-08.10.29:575][727]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.01-08.10.29:579][727]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.06.01-08.10.29:579][727]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (BP_FirstPersonCharacter_C_0)
+[2022.06.01-08.10.29:580][727]PIE: Server logged in
+[2022.06.01-08.10.29:581][727]PIE: Play in editor total start time 0,093 seconds.
+[2022.06.01-08.10.31:195][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-08.10.44:856][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-08.10.44:856][544]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign
+[2022.06.01-08.10.44:856][544]LogSlate: Window 'SkipUe4 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.01-08.10.44:862][544]LogWorld: UWorld::CleanupWorld for LevelDesign, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-08.10.44:863][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-08.10.44:869][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.01-08.10.44:877][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-08.10.44:890][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.01-08.10.44:890][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-08.10.44:892][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-08.10.44:896][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.06.01-08.10.44:924][545]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.06.01-08.10.47:009][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.01-08.10.47:021][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.06.01-08.10.47:076][777]LogSavePackage: Moving 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign50D67F3D42C0985C24D7E2A77E03E150.tmp' to 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.06.01-08.10.47:084][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.06.01-08.10.47:121][777]LogSavePackage: Moving 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData02CD718C429A26FF3ACF989B9F2822F4.tmp' to 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.06.01-08.10.47:131][777]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-08.10.47:131][777]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.06.01-08.10.47:131][777]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.06.01-08.11.48:550][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.01-08.11.48:567][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.06.01-08.11.48:621][990]LogSavePackage: Moving 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesignF472CEF34418BF636AC2738A2902D408.tmp' to 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.06.01-08.11.48:630][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.06.01-08.11.48:652][990]LogSavePackage: Moving 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData796948264B44260D4EA5D0AD4D2FB58E.tmp' to 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.06.01-08.11.48:663][990]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-08.11.48:663][990]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.06.01-08.11.48:663][990]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.06.01-08.12.38:482][427]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.06.01-08.12.38:486][427]LogBlueprint: Warning: Timeline PickUpItem Track ItemTrack in /Engine/Transient.REINST_BP_FirstPersonCharacter_C_185 has an invalid curve.  Please fix!
+[2022.06.01-08.12.38:542][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.06.01-08.12.39:016][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Blueprints/BP_FirstPersonCharacter" FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.06.01-08.12.39:122][463]LogSavePackage: Moving 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacterBC4C96724B801C4F35DD4A9A17F8F769.tmp' to 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.06.01-08.12.39:137][463]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.06.01-08.12.39:137][463]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.06.01-08.13.06:260][659]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.06.01-08.13.11:585][291]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2022.06.01-08.13.20:500][327]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.01-08.13.27:846][106]Cmd: TRANSACTION UNDO
+[2022.06.01-08.13.27:846][106]LogEditorTransaction: Undo Reset to Default
+[2022.06.01-08.21.48:815][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.06.01-08.21.48:819][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/Autosaves/Game/Maps/LevelDesign_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.01-08.21.48:872][ 77]LogSavePackage: Moving 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_Auto1F3606F244450DB062CAB6FB23C866065.tmp' to 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/Autosaves/Game/Maps/LevelDesign_Auto1.umap'
+[2022.06.01-08.21.48:874][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LevelDesign' took 0.077
+[2022.06.01-08.21.48:874][ 77]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2022.06.01-08.23.00:199][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign" FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.01-08.23.00:211][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.06.01-08.23.00:266][502]LogSavePackage: Moving 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign6339558A49181039D534A09079975654.tmp' to 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign.umap'
+[2022.06.01-08.23.00:274][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelDesign_BuiltData" FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset" SILENT=true
+[2022.06.01-08.23.00:298][502]LogSavePackage: Moving 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/LevelDesign_BuiltData562DB11143E38016ED56A3AEF28C3B29.tmp' to 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Maps/LevelDesign_BuiltData.uasset'
+[2022.06.01-08.23.00:307][502]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-08.23.00:307][502]LogContentValidation: Display: Validating World /Game/Maps/LevelDesign.LevelDesign
+[2022.06.01-08.23.00:307][502]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelDesign_BuiltData.LevelDesign_BuiltData
+[2022.06.01-08.24.40:037][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Blueprints/BP_FirstPersonCharacter" FILE="D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.06.01-08.24.40:143][422]LogSavePackage: Moving 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Saved/BP_FirstPersonCharacter57DCDBDE458AE9C8250DFD95B9212C9D.tmp' to 'D:/FBreton/Skip_CRJV2122_PS4/Alpha/Content/Character/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.06.01-08.24.40:159][422]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.06.01-08.24.40:159][422]LogContentValidation: Display: Validating Blueprint /Game/Character/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
