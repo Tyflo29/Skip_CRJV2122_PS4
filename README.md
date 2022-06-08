@@ -1,2 +1,11 @@
 # Skip_CRJV2122_PS4
+
 JEU D’AVENTURE THRILLER-ANGOISSE
+
+Groupe :
+- ESNAULT Claire
+- GARDONI Tom
+- DAVIAUD Hugo
+- BRETON Florian
+- SCHAVSINSKI Laura
+- JOVELIN Thibault
