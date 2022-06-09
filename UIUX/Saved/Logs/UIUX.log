@@ -1205,3 +1205,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.09-14.48.36:889][813]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.09-14.48.36:889][813]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LV_01_BuiltData.LV_01_BuiltData
 [2022.06.09-14.48.36:889][813]LogContentValidation: Display: Validating World /Game/Maps/LV_01.LV_01
+[2022.06.09-15.16.28:570][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Deni__1__T2_Etage1)
+[2022.06.09-15.17.12:162][350]LogSlate: Took 0.001898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.09-15.18.52:356][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.09-15.18.55:405][934]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.09-15.19.03:293][696]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Locked_Door_Sound_Effect_01_1...
+[2022.06.09-15.19.03:294][696]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Locked_Door_Sound_Effect_01_1.Locked_Door_Sound_Effect_01_1 will be modified from 40 to 40.
+[2022.06.09-15.19.03:319][696]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 391212 while cooking SoundWave /Game/Sound/Locked_Door_Sound_Effect_01_1.Locked_Door_Sound_Effect_01_1.
